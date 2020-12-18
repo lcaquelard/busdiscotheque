@@ -1,0 +1,42 @@
+<header>
+  <div id="header_top">
+  </div>
+  <div id="header_middle">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="contact col-lg-3">
+          <img class="icon" src="{{ asset('build/images/icon/icon_phone.png') }}" alt="phone"/><span><a href="tel:+33142798549">01.42.79.85.49</a></span>
+        </div>
+        <div class="logo col-lg-6 col-md-3">
+            <a href="{{ path("index") }}">
+              <img src="{{ asset('build/images/logo/logo.svg') }}" alt="logo"/>
+            </a>
+        </div>
+        <div id="header_social" class="col-lg-3 col-md-9">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="header_bottom" class="sticky-header">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-12">
+          <div class="main_menu">
+            <div class="logo_sticky">
+              <a href="{{ path("index") }}"><img src="{{ asset('build/images/logo/logo-line.svg') }}" alt="line"></a>
+            </div>
+            <nav>
+              <ul>
+                <li><a href="{{ path("index") }}">Accueil</a></li>
+                <li><a href="{{ path("bus_simple") }}">Nos Bus</a></li>
+                <li><a href="{{ path("tarifs") }}">Tarifs</a></li>
+                <li><a href="{{ path("services") }}">Services</a></li>
+                <li><a href="{{ path("concurrence") }}">Concurrence</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

@@ -1,0 +1,12 @@
+.clear {
+  content: "&nbsp;";
+  float: initial;
+  clear: both;
+  height: 0;
+  width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}

@@ -1,0 +1,173 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+    <div id="head_title">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="content">
+                        <h3>Tarifs</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="about_section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12">
+                    <div class="about_content">
+                        <span><strong>Busdiscotheque.com</strong> “le seul, l’unique, l’original.”</span>
+                        <br>
+                        <p>
+                            Busdiscotheque.com modifie customise et suréquipe ses autobus en de véritable espace festif et mobile<br>
+                            pouvant sillonner de jour comme de nuit les plus belles artères de la ville de Paris.
+                            <br>
+                            <br>
+                            Tarif&nbsp;TTC de nos prestations pour nos différents bus :
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="main-content-wrap compare-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <form action="#">
+                        <!-- Compare Table -->
+                        <div class="compare-table table-responsive">
+                            <table class="table mb-0">
+                                <tbody>
+                                    <tr>
+                                        <td class="first-column">
+                                            Nos Bus
+                                        </td>
+                                        <td class="product-image-title text-center">
+                                            <a href="{{ path("bus_mini") }}" class="image"><img src="{{ asset('build/images/mini-bus.png') }}" alt="Mini Bus"></a>
+                                            <a href="{{ path("bus_mini") }}" class="title">Mini Bus</a>
+                                        </td>
+                                        <td class="product-image-title text-center">
+                                            <a href="{{ path("bus_simple") }}" class="image"><img src="{{ asset('build/images/simple-bus.png') }}" alt="Simple Bus"></a>
+                                            <a href="{{ path("bus_simple") }}" class="title">Simple Bus</a>
+                                        </td>
+                                        <td class="product-image-title text-center">
+                                            <a href="{{ path("bus_double") }}" class="image"><img src="{{ asset('build/images/double-bus.png') }}" alt="Double Bus"></a>
+                                            <a href="{{ path("bus_double") }}" class="title">Double Bus</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="first-column">
+                                            Longueur
+                                        </td>
+                                        <td class="rating">7m</td>
+                                        <td class="rating">12m</td>
+                                        <td class="rating">18m</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="first-column">
+                                            Passagers
+                                        </td>
+                                        <td class="rating">9</td>
+                                        <td class="rating">30</td>
+                                        <td class="rating">65</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="first-column">1h</td>
+                                        <td class="price addtocart">
+                                            290 € <sup>TTC</sup>
+                                            <a href="#" class="add-to-cart" data-toggle="modal" data-placement="top" onclick="$('#modal-bus-mini .final-price').html('290'); $('#modal-bus-mini .final-time').html('1');" data-target="#modal-bus-mini" data-original-title="Qu'est-ce que cela inclus ?" tabindex="0">
+                                                <span>NOTRE OFFRE À 290 € <sup>TTC</sup></span>
+                                            </a>
+                                        </td>
+                                        <td class="price addtocart">
+                                            790 € <sup>TTC</sup>
+                                            <a href="#" class="add-to-cart" data-toggle="modal" data-placement="top" onclick="$('#modal-bus-simple .final-price').html('790'); $('#modal-bus-simple .final-time').html('1');" data-target="#modal-bus-simple" data-original-title="Qu'est-ce que cela inclus ?" tabindex="0">
+                                                <span>NOTRE OFFRE À 790 € <sup>TTC</sup></span>
+                                            </a>
+                                        </td>
+                                        <td class="price addtocart">
+                                            990 € <sup>TTC</sup>
+                                            <a href="#" class="add-to-cart" data-toggle="modal" data-placement="top" onclick="$('#modal-bus-double .final-price').html('990'); $('#modal-bus-double .final-time').html('1');" data-target="#modal-bus-double" data-original-title="Qu'est-ce que cela inclus ?" tabindex="0">
+                                                <span>NOTRE OFFRE À 990 € <sup>TTC</sup></span>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="first-column">2h</td>
+                                        <td class="price addtocart">
+                                            390 € <sup>TTC</sup>
+                                            <a href="#" class="add-to-cart" data-toggle="modal" data-placement="top" onclick="$('#modal-bus-mini .final-price').html('390'); $('#modal-bus-mini .final-time').html('2');" data-target="#modal-bus-mini" data-original-title="Qu'est-ce que cela inclus ?" tabindex="0">
+                                                <span>NOTRE OFFRE À 390 € <sup>TTC</sup></span>
+                                            </a>
+                                        </td>
+                                        <td class="price addtocart">
+                                            890 € <sup>TTC</sup>
+                                            <a href="#" class="add-to-cart" data-toggle="modal" data-placement="top" onclick="$('#modal-bus-simple .final-price').html('890'); $('#modal-bus-simple .final-time').html('2');" data-target="#modal-bus-simple" data-original-title="Qu'est-ce que cela inclus ?" tabindex="0">
+                                                <span>NOTRE OFFRE À 890 € <sup>TTC</sup></span>
+                                            </a>
+                                        </td>
+                                        <td class="price addtocart">
+                                            1090 € <sup>TTC</sup>
+                                            <a href="#" class="add-to-cart" data-toggle="modal" data-placement="top" onclick="$('#modal-bus-double .final-price').html('1090'); $('#modal-bus-double .final-time').html('2');" data-target="#modal-bus-double" data-original-title="Qu'est-ce que cela inclus ?" tabindex="0">
+                                                <span>NOTRE OFFRE À 1090 € <sup>TTC</sup></span>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="first-column">3h</td>
+                                        <td class="price addtocart" style="">
+                                            490 € <sup>TTC</sup>
+                                            <a href="#" class="add-to-cart" data-toggle="modal" data-placement="top" onclick="$('#modal-bus-mini .final-price').html('490'); $('#modal-bus-mini .final-time').html('3');" data-target="#modal-bus-mini" data-original-title="Qu'est-ce que cela inclus ?" tabindex="0">
+                                                <span>NOTRE OFFRE À 490 € <sup>TTC</sup></span>
+                                            </a>
+                                        </td>
+                                        <td class="price addtocart">
+                                            990 € <sup>TTC</sup>
+                                            <a href="#" class="add-to-cart" data-toggle="modal" data-placement="top" onclick="$('#modal-bus-simple .final-price').html('990'); $('#modal-bus-simple .final-time').html('3');" data-target="#modal-bus-simple" data-original-title="Qu'est-ce que cela inclus ?" tabindex="0">
+                                                <span>NOTRE OFFRE À 990 € <sup>TTC</sup></span>
+                                            </a>
+                                        </td>
+                                        <td class="price addtocart">
+                                            1190 € <sup>TTC</sup>
+                                            <a href="#" class="add-to-cart" data-toggle="modal" data-placement="top" onclick="$('#modal-bus-double .final-price').html('1190'); $('#modal-bus-double .final-time').html('3');" data-target="#modal-bus-double" data-original-title="Qu'est-ce que cela inclus ?" tabindex="0">
+                                                <span>NOTRE OFFRE À 1190 € <sup>TTC</sup></span>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="first-column">4h</td>
+                                        <td class="price addtocart">
+                                            590 € <sup>TTC</sup>
+                                            <a href="#" class="add-to-cart" data-toggle="modal" data-placement="top" onclick="$('#modal-bus-mini .final-price').html('590'); $('#modal-bus-mini .final-time').html('4');" data-target="#modal-bus-mini" data-original-title="Qu'est-ce que cela inclus ?" tabindex="0">
+                                                <span>NOTRE OFFRE À 590 € <sup>TTC</sup></span>
+                                            </a>
+                                        </td>
+                                        <td class="price addtocart">
+                                            1090 € <sup>TTC</sup>
+                                            <a href="#" class="add-to-cart" data-toggle="modal" data-placement="top" onclick="$('#modal-bus-simple .final-price').html('1090'); $('#modal-bus-simple .final-time').html('4');" data-target="#modal-bus-simple" data-original-title="Qu'est-ce que cela inclus ?" tabindex="0">
+                                                <span>NOTRE OFFRE À 1090 € <sup>TTC</sup></span>
+                                            </a>
+                                        </td>
+                                        <td class="price addtocart">
+                                            1290 € <sup>TTC</sup>
+                                            <a href="#" class="add-to-cart" data-toggle="modal" data-placement="top" onclick="$('#modal-bus-double .final-price').html('1290'); $('#modal-bus-double .final-time').html('4');" data-target="#modal-bus-double" data-original-title="Qu'est-ce que cela inclus ?" tabindex="0">
+                                                <span>NOTRE OFFRE À 1290 € <sup>TTC</sup></span>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="first-column" style="border-left: 1px solid #232323; border-bottom: 1px solid #232323;"></td>
+                                        <td class="addtocart"><a href="{{ path("bus_mini") }}" class="" tabindex="0"><span>Mini Bus</span></a></td>
+                                        <td class="addtocart"><a href="{{ path("bus_simple") }}" class="" tabindex="0"><span>Simples Bus</span></a></td>
+                                        <td class="addtocart"><a href="{{ path("bus_double") }}" class="" tabindex="0"><span>Doubles Bus</span></a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

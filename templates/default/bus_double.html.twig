@@ -1,0 +1,41 @@
+{% set bus_simple = {
+    0 : {
+        name        : 'bigben',
+        label       : 'Big Ben'
+    },
+    1 : {
+        name        : 'darkkiss',
+        label       : 'Dark Kiss'
+    },
+    2 : {
+        name        : 'milleniumcondor',
+        label       : 'Millenium Condor'
+    },
+    3 : {
+        name        : 'seven7',
+        label       : 'Seven 7'
+    }
+}
+%}
+
+{% extends 'default/nos_bus.html.twig' %}
+{% block bus_row %}
+    {% for bus in bus_simple %}
+        <div class="bus col-lg-3 col-md-3 col-sm-4">
+            <div class="single_product ">
+                <div class="product_thumb">
+                    <img src="{{ asset('build/images/bus/double/' ~ bus.name ~ '/prod1.jpg') }}">
+                </div>
+                <div class="product_content">
+                    <div class="tag_cate">
+                        <span class="shine">Espace optimisé</span>
+                    </div>
+                    <h3 class="shine">{{ bus.label }}</h3>
+                    <div class="bottom_box">
+                        <span class="capacity">jusqu'à <span class="highlight">30 pers.</span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+{% endblock %}

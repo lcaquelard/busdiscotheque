@@ -1,0 +1,4 @@
+AuthName "Accès restreint, veuillez renseigner vos identifiants"
+AuthType Basic
+AuthUserFile "/home/sarktechij/www/.htpasswd"
+Require valid-user

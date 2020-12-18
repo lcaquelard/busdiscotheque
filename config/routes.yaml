@@ -1,0 +1,39 @@
+index:
+    path:       /
+    controller: App\Controller\DefaultController::index
+
+communique:
+    path:       /communique
+    controller: App\Controller\DefaultController::communique
+
+news:
+    path:       /nouveautes
+    controller: App\Controller\DefaultController::news
+
+bus_mini:
+    path:       /nos_bus/mini
+    controller: App\Controller\DefaultController::bus_mini
+
+bus_simple:
+    path:       /nos_bus/simples
+    controller: App\Controller\DefaultController::bus_simple
+
+bus_double:
+    path:       /nos_bus/doubles
+    controller: App\Controller\DefaultController::bus_double
+
+services:
+    path:       /services
+    controller: App\Controller\DefaultController::services
+
+services_inclus:
+    path:       /services/inclus
+    controller: App\Controller\DefaultController::services_inclus
+
+services_option:
+    path:       /services/option
+    controller: App\Controller\DefaultController::services_option
+
+concurrence:
+    path:       /concurrence
+    controller: App\Controller\DefaultController::concurrence

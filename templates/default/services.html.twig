@@ -1,0 +1,35 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+    <section id="services">
+        <div class="container-fluid p-0">
+            <div class="row no-gutters">
+                <div class="col-lg-2 col-md-12"></div>
+                <div class="col-lg-4 col-md-12">
+                    <a href="{{ path("services_inclus") }}">
+                        <div class="single_banner one">
+                            <div class="banner_text">
+                                <p>*</p>
+                                <h2>Services Inclus</h2>
+                                <span>Location, Agents, Dj...</span>
+                                Découvrir
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-md-12" style="border-left: 1px inset;">
+                    <a href="{{ path("services_option") }}">
+                        <div class="single_banner one">
+                            <div class="banner_text">
+                                <p>*</p>
+                                <h2>Services En Option</h2>
+                                <span>Invitation, Photographe...</span>
+                                En Savoir +
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-12"></div>
+            </div>
+        </div>
+    </section>
+{% endblock %}
