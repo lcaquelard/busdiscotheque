@@ -2,9 +2,9 @@ index:
     path:       /
     controller: App\Controller\DefaultController::index
 
-communique:
-    path:       /communique
-    controller: App\Controller\DefaultController::communique
+#communique:
+#    path:       /communique
+#    controller: App\Controller\DefaultController::communique
 
 news:
     path:       /nouveautes

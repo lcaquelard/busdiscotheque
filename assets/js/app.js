@@ -23,6 +23,13 @@ import '../scss/app.scss';
 import './jquery.mousewheel.min';
 import './owl.carousel';
 
+function dataBackgroundImage() {
+    $('[data-bgimg]').each(function () {
+        var bgImgUrl = $(this).data('bgimg');
+        $(this).css('background-image', 'url(' + bgImgUrl + ')');
+    });
+}
+
 $(window).ready(function(){
     /*---sticky menu---*/
     $(window).on('scroll',function() {
@@ -141,6 +148,16 @@ $(window).ready(function(){
             },
         }
     });
+    dataBackgroundImage();
+    $('.slider_area').owlCarousel({
+        animateOut: 'fadeOut',
+        autoplay: true,
+        loop: true,
+        nav: false,
+        autoplayTimeout: 4000,
+        items: 1,
+        dots:true,
+    });
     $('.product_row1').slick({
         centerMode: true,
         centerPadding: '0',
@@ -177,7 +194,6 @@ $(window).ready(function(){
                     slidesToScroll: 4,
                 }
             },
-
         ]
     });
 });

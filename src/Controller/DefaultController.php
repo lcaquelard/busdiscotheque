@@ -21,12 +21,12 @@ class DefaultController extends AbstractController
     /**
      * @Route("/communique", name="communique")
      */
-    public function communique()
+/*    public function communique()
     {
         return $this->render('default/communique.html.twig', [
          'current_page' => 'communique',
         ]);
-    }
+    }*/
     /**
      * @Route("/nouveautes", name="news")
      */
