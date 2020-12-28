@@ -21,6 +21,7 @@ import '../css/slick-theme.css';
 import '../scss/app.scss';
 
 import './jquery.mousewheel.min';
+import './bootstrap';
 import './owl.carousel';
 
 function dataBackgroundImage() {

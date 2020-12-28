@@ -150,7 +150,7 @@ a, button, img, input, span {
   text-shadow: 0 0 2px #fff !important;
 }
 
-h1, h2, .blog_black .section_title h2, .product_black_section .section_title h2, .header_black .main_menu nav > ul > li.active > a, .header_black .main_menu nav > ul > li:hover > a, .slider_black .slider_content p.slider_price span, .footer_black .widgets_container > h3, .about_content span, .header_black .contact_box p, .header_black .main_menu nav > ul > li ul.mega_menu > li ul li a {
+h1, h2, .blog_black .section_title h2, .product_black_section .section_title h2, .header_black .main_menu nav > ul > li.active > a, .header_black .main_menu nav > ul > li:hover > a, .slider_black .slider_content p.slider_price span, .footer_black .widgets_container > h3, .about_content span, .header_black .contact_box p, .header_area .main_menu nav > ul > li ul.mega_menu > li ul li a {
   background-image: -webkit-repeating-linear-gradient(top, hsla(0, 0%, 100%, 0) 0%, hsla(0, 0%, 100%, 0) 3%, hsla(0, 0%, 100%, .1) 4.5%), -webkit-repeating-linear-gradient(top, hsla(0, 0%, 0%, 0) 0%, hsla(0, 0%, 0%, 0) 2%, hsla(0, 0%, 0%, .03) 2.5%), -webkit-repeating-linear-gradient(top, hsla(0, 0%, 100%, 0) 0%, hsla(0, 0%, 100%, 0) 0.6%, hsla(0, 0%, 100%, .15) 1.2%), linear-gradient(80deg, #a6a6a6 0%, #d9d9d9 45%, #e0e0e0 55%, #e0e0e0 65%, #d9d9d9 75%, #a6a6a6 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: #ffffff14;
@@ -283,7 +283,7 @@ header {
               &> ul {
                 &> li {
                   &> a{
-                    color: $lightgrey;
+                    color: $white;
                     font-size: 13px;
                     text-transform: capitalize;
                     line-height: 18px;
