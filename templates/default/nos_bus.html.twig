@@ -33,3 +33,59 @@
         </div>
     </section>
 {% endblock %}
+{% block modals %}
+    <div class="modal fade" id="modal-bus" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <div class="modal_body">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                <div class="loading"></div>
+                                <div class="modal_tab">
+                                    <div class="tab-content product-details-large">
+                                        <div id="tab1" role="tabpanel" class="tab-pane fade show active" >
+                                            <div class="modal_tab_img"><a href="#"><img src="" alt=""/></a></div>
+                                        </div>
+                                        <div id="tab2" role="tabpanel" class="tab-pane fade">
+                                            <div class="modal_tab_img"><a href="#"><img src="" alt=""/></a></div>
+                                        </div>
+                                        <div id="tab3" role="tabpanel" class="tab-pane fade">
+                                            <div class="modal_tab_img"><a href="#"><img src="" alt=""/></a></div>
+                                        </div>
+                                        <div id="tab4" role="tabpanel" class="tab-pane fade">
+                                            <div class="modal_tab_img"><a href="#"><img src="" alt=""/></a></div>
+                                        </div>
+                                    </div>
+                                    <div class="modal_tab_button">
+                                        <ul class="nav product_navactive owl-carousel" role="tablist">
+                                            <li class="nav-link active" 			data-toggle="tab" href="#tab1" id="tab1a" role="tab" aria-controls="tab1" aria-selected="false"><img src="" alt=""/></li>
+                                            <li class="nav-link" 				data-toggle="tab" href="#tab2" id="tab2a" role="tab" aria-controls="tab2" aria-selected="false"><img src="" alt=""/></li>
+                                            <li class="nav-link button_three" 	data-toggle="tab" href="#tab3" id="tab3a" role="tab" aria-controls="tab3" aria-selected="false"><img src="" alt=""/></li>
+                                            <li class="nav-link" 				data-toggle="tab" href="#tab4" id="tab4a" role="tab" aria-controls="tab4" aria-selected="false"><img src="" alt=""/></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                <div class="modal_right">
+                                    <div class="modal_title mb-10">
+                                        <h2 class="bus_name"></h2>
+                                    </div>
+                                    <div class="modal_description mb-15">
+                                        <hr>
+                                        <p class="bus_desc">Un bus personnalisé pour vos événements.</p>
+                                        <hr>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

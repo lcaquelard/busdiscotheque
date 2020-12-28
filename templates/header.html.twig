@@ -21,19 +21,84 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-12">
-          <div class="main_menu">
-            <div class="logo_sticky">
+          <div class="main_menu_inner">
+            <div class="sticky-logo">
               <a href="{{ path("index") }}"><img src="{{ asset('build/images/logo/logo-line.svg') }}" alt="line"></a>
             </div>
-            <nav>
-              <ul>
-                <li><a href="{{ path("index") }}">Accueil</a></li>
-                <li><a href="{{ path("bus_simple") }}">Nos Bus</a></li>
-                <li><a href="{{ path("tarifs") }}">Tarifs</a></li>
-                <li><a href="{{ path("services") }}">Services</a></li>
-                <li><a href="{{ path("concurrence") }}">Concurrence</a></li>
-              </ul>
-            </nav>
+            <div class="main_menu">
+              <nav>
+                <ul>
+                  <li>
+                    <a href="{{ path("index") }}">Accueil</a>
+                  </li>
+                  <li>
+                    <a href="{{ path("bus_simple") }}">Nos Bus<i class="fa fa-angle-down"></i></a>
+                    <ul class="mega_menu center_me">
+                      <li>
+                        <a href="{{ path("bus_mini") }}">
+                          <sub>Mini Bus</sub><br />
+                          <img src="{{ asset('build/images/mini-bus.png') }}" alt="" data-toggle="tooltip" data-placement="top" data-original-title="Mini Bus">
+                          <sup> <i class="fa fa-arrows-h"></i> 7m - <i class="fa fa-user"></i> 9</sup>
+                        </a>
+                        <ul>
+                          <li><a href="{{ path("bus_mini", {bus_name : 'lalulu'}) }}">La Lulu</a></li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href="{{ path('bus_simple')}}">
+                          <sub>Simple Bus</sub><br />
+                          <img src="{{ asset('build/images/simple-bus.png') }}" alt="" data-toggle="tooltip" data-placement="top" data-original-title="Simples Bus">
+                          <sup> <i class="fa fa-arrows-h"></i> 12m - <i class="fa fa-user"></i> 30</sup>
+                        </a>
+                        <ul>
+                          <li><a href="{{ path('bus_simple', {bus_name : 'angec6'})}}">AngeC6</a></li>
+                          <li><a href="{{ path('bus_simple', {bus_name : 'slinone'})}}">S Linone</a></li>
+                          <li><a href="{{ path('bus_simple', {bus_name : 'sodade'})}}">Sodade</a></li>
+                          <li><a href="{{ path('bus_simple', {bus_name : 'bluediamond'})}}">BlueDiamond</a></li>
+                          <li><a href="{{ path('bus_simple', {bus_name : 'crystal'})}}">Crystal</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="{{ path("bus_double") }}">
+                          <sub>Double Bus</sub><br />
+                          <img src="{{ asset('build/images/double-bus.png') }}" alt="" data-toggle="tooltip" data-placement="top" data-original-title="Doubles Bus">
+                          <sup> <i class="fa fa-arrows-h"></i> 18m - <i class="fa fa-user"></i> 65</sup>
+                        </a>
+                        <ul>
+                          <li><a href="{{ path("bus_double", {bus_name : 'milleniumcondor'}) }}">Millenium Condor</a></li>
+                          <li><a href="{{ path("bus_double", {bus_name : 'bigben'}) }}">Big Ben</a></li>
+                          <li><a href="{{ path("bus_double", {bus_name : 'darkkiss'}) }}">Dark Kiss</a></li>
+                          <li><a href="{{ path("bus_double", {bus_name : 'seven7'}) }}">Seven 7</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href="{{ path("tarifs") }}">Tarifs</a>
+                  </li>
+                  <li>
+                    <a href="{{ path("services") }}">Services<i class="fa fa-angle-down"></i></a>
+                    <ul class="sub_menu">
+                      <li><a href="{{ path("services_inclus") }}">Services inclus</a></li>
+                      <li><a href="{{ path("services_option") }}">Services en option</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href="{{ path("qui_sommes_nous") }}">Concurrence<i class="fa fa-angle-down"></i></a>
+                    <ul class="sub_menu">
+                      <li><a href="{{ path("qui_sommes_nous") }}">Qui sommes-nous ?</a></li>
+                      <li><a href="{{ path("qui_sont_ils") }}">Qui sont-ils ?</a></li>
+                      <li><a href="{{ path("comparer") }}">Comparer</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href="{{ path("communique") }}">Communiqué</a>
+                  </li>
+                  <li>
+                    <a href="{{ path("news") }}">Nouveautés</a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
           </div>
         </div>
       </div>

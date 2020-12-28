@@ -11,16 +11,22 @@ news:
     controller: App\Controller\DefaultController::news
 
 bus_mini:
-    path:       /nos_bus/mini
+    path:       /nos_bus/mini/{bus_name}
     controller: App\Controller\DefaultController::bus_mini
+    defaults:
+        bus_name: 'none'
 
 bus_simple:
-    path:       /nos_bus/simples
+    path:       /nos_bus/simples/{bus_name}
     controller: App\Controller\DefaultController::bus_simple
+    defaults:
+        bus_name: 'none'
 
 bus_double:
-    path:       /nos_bus/doubles
+    path:       /nos_bus/doubles/{bus_name}
     controller: App\Controller\DefaultController::bus_double
+    defaults:
+        bus_name: 'none'
 
 services:
     path:       /services
@@ -34,6 +40,26 @@ services_option:
     path:       /services/option
     controller: App\Controller\DefaultController::services_option
 
-concurrence:
-    path:       /concurrence
-    controller: App\Controller\DefaultController::concurrence
+qui_sommes_nous:
+    path:       /qui_sommes_nous
+    controller: App\Controller\DefaultController::qui_sommes_nous
+
+qui_sont_ils:
+    path:       /qui_sont_ils
+    controller: App\Controller\DefaultController::qui_sont_ils
+
+comparer:
+    path:       /comparer
+    controller: App\Controller\DefaultController::comparer
+
+reservation:
+    path:       /reservation
+    controller: App\Controller\DefaultController::reservation
+
+roadvertising:
+    path:       /roadvertising
+    controller: App\Controller\DefaultController::roadvertising
+
+parcours:
+    path:       /parcours
+    controller: App\Controller\DefaultController::parcours

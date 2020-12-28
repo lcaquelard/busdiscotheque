@@ -1,0 +1,109 @@
+{% set places = {
+    0 : {
+        name        : 'grand-palais',
+        label       : 'Grand Palais',
+        city        : 'Paris'
+    },
+    1 : {
+        name        : 'pont-alexandre-iii',
+        label       : 'Pont Alexandre III',
+        city        : 'Paris'
+    },
+    2 : {
+        name        : 'invalides',
+        label       : 'Invalides',
+        city        : 'Paris'
+    },
+    3 : {
+        name        : 'opera-garnier',
+        label       : 'Opéra',
+        city        : 'Paris'
+    },
+    4 : {
+        name        : 'vendome',
+        label       : 'Vendôme',
+        city        : 'Paris'
+    },
+    5 : {
+        name        : 'madeleine',
+        label       : 'Madeleine',
+        city        : 'Paris'
+    },
+    6 : {
+        name        : 'concorde',
+        label       : 'Concorde',
+        city        : 'Paris'
+    },
+    7 : {
+        name        : 'trocadero',
+        label       : 'Trocadéro',
+        city        : 'Paris'
+    },
+    8 : {
+        name        : 'tour-eiffel',
+        label       : 'Tour Eiffel',
+        city        : 'Paris'
+    },
+    9 : {
+        name        : 'etoile-arc-triomphe',
+        label       : 'Arc de Triomphe',
+        city        : 'Paris'
+    },
+    10 : {
+        name        : 'champs-elysees',
+        label       : 'Champs-Elysées',
+        city        : 'Paris'
+    },
+}
+%}
+
+{% extends 'base.html.twig' %}
+{% block body %}
+    <section class="banner_fullwidth black_fullwidth">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12">
+                    <div class="banner_text">
+                        <p>***</p>
+                        <h2>Parcours à la Demande</h2>
+                        <span>
+                            <strong>Parce que votre évènement est unique.</strong> Personnalisez votre parcours en sélectionnant les monuments que vous souhaitez voir ou redécouvrir.
+                            <br />
+                            Fixez vos points de rendez vous, définissez vos arrêts et laissez vous transporter en toute tranquillité.
+                        </span>
+                        <a href="{{ path('reservation') }}">Demander un tarif</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="product_section p_section1 product_black_section bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="product_area">
+                        <div class="product_container bottom">
+                            <div class="custom-row product_row1">
+                                {% for place in places %}
+                                    <div class="custom-col-5">
+                                        <div class="single_product">
+                                            <div class="product_thumb">
+                                                <img class="primary_img" alt="" src="{{ asset('build/images/bus-restaurant/' ~ place.name ~ '.png') }}"></a>
+                                            </div>
+                                            <div class="product_content">
+                                                <div class="tag_cate">
+                                                    <span>{{ place.city }}</span>
+                                                </div>
+                                                <h3>{{ place.label }}</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+{% endblock %}

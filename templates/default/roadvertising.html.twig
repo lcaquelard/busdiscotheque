@@ -1,0 +1,160 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+    <section class="banner_fullwidth black_fullwidth2">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12">
+                    <div class="banner_text">
+                        <p>***</p>
+                        <h2>Roadvertising</h2>
+                        <span>
+                            <strong>Parce que votre message est essentiel,</strong> nous changeons la philosophie de nos BUSDISCOTHEQUE.<br />
+                            Nous transformons nos bus en véritable outil de communication pour leur conférer un rôle de média de masse par excellence.
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="blog_section blog_black">
+        <div class="container">
+            <div class="row">
+                <div class="blog_wrapper blog_column3 owl-carousel">
+                    <div class="col-lg-">
+                        <div class="single_blog">
+                            <div class="blog_thumb text-center">
+                                <a href="#"><img src="{{ asset('build/images/r3.png') }}" alt=""/></a>
+                            </div>
+                            <div class="blog_content text-center">
+                                <h3><a href="{{ path('reservation') }}">© Pernod Ricard</a></h3>
+                                <div class="author_name">
+                                    <p>
+                                        <span>Journée mondiale de la responsabilité.</span>
+                                        <span class="themes">2018</span>
+                                    </p>
+                                </div>
+                                <div class="post_desc">
+                                    <p>
+                                        8 busdiscotheques<br>
+                                        317 collaborateurs transportés<br>
+                                        8 itinéraires<br>
+                                        16 sites<br>
+                                        pour être au contact direct des consommateurs.
+                                    </p>
+                                </div>
+                                <div class="read_more">
+                                    <a href="{{ path('reservation') }}">Réserver un Bus</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="single_blog">
+                            <div class="blog_thumb text-center">
+                                <a href="#"><img src="{{ asset('build/images/r1.png') }}" alt=""/></a>
+                            </div>
+                            <div class="blog_content text-center">
+                                <h3><a href="#">Japan Expo</a></h3>
+                                <div class="author_name">
+                                    <p>
+                                        <span>Journée dédiées aux fans.</span>
+                                        <span class="themes">2018</span>
+                                    </p>
+                                </div>
+                                <div class="post_desc">
+                                    <p>
+                                        50 fans de mangas<br>
+                                        pour un parcours<br>
+                                        et une sortie atypique
+                                    </p>
+                                </div>
+                                <div class="read_more">
+                                    <a href="{{ path('reservation') }}">Réserver un Bus</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="single_blog">
+                            <div class="blog_thumb text-center">
+                                <a href="#"><img src="{{ asset('build/images/r2.png') }}" alt=""/></a>
+                            </div>
+                            <div class="blog_content text-center">
+                                <h3><a href="{{ path('reservation') }}">Adidas ©</a></h3>
+                                <div class="author_name">
+                                    <p>
+                                        <span>Maillots Officiels CDM2014</span>
+                                        <span class="themes">2018</span>
+                                    </p>
+                                </div>
+                                <div class="post_desc">
+                                    <p>
+                                        Un parcours sur mesure<br>
+                                        50 journalistes à bord<br>
+                                        un invité de marque<br>
+                                        vainqueur de la coupe du monde 1998.
+                                    </p>
+                                </div>
+                                <div class="read_more">
+                                    <a href="{{ path('reservation') }}">Réserver un Bus</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="single_blog">
+                            <div class="blog_thumb text-center">
+                                <a href="#"><img src="{{ asset('build/images/r6.png') }}" alt=""/></a>
+                            </div>
+                            <div class="blog_content text-center">
+                                <h3><a href="{{ path('reservation') }}">PlayStation ©</a></h3>
+                                <div class="author_name">
+                                    <p>
+                                        <span>#bo3cyprienlive</span>
+                                        <span class="themes">2018</span>
+                                    </p>
+                                </div>
+                                <div class="post_desc">
+                                    <p>
+                                        8 busdiscotheques<br>
+                                        317 collaborateurs transportés<br>
+                                        8 itinéraires<br>
+                                        16 sites<br>
+                                        pour être au contact direct des consommateurs.
+                                    </p>
+                                </div>
+                                <div class="read_more">
+                                    <a href="{{ path('reservation') }}">Réserver un Bus</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="single_blog">
+                            <div class="blog_thumb text-center">
+                                <a href="{{ path('reservation') }}"><img src="{{ asset('build/images/r4.png') }}" alt=""/></a>
+                            </div>
+                            <div class="blog_content text-center">
+                                <h3><a href="#">Votre événement</a></h3>
+                                <div class="author_name">
+                                    <p>
+                                        <span>Contactez-nous</span>
+                                        <span class="themes">Maintenant</span>
+                                    </p>
+                                </div>
+                                <div class="post_desc">
+                                    <p>
+                                        -
+                                    </p>
+                                </div>
+                                <div class="read_more">
+                                    <a href="{{ path('reservation') }}">Demande de Devis</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+{% endblock %}

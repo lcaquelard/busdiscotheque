@@ -21,18 +21,58 @@
 {% extends 'default/nos_bus.html.twig' %}
 {% block bus_row %}
     {% for bus in bus_simple %}
-        <div class="bus col-lg-3 col-md-3 col-sm-4">
-            <div class="single_product ">
+        <div class="col-lg-3 col-md-3 col-sm-4">
+            <div class="single_product {% if selected == bus.name %}selected{% endif %}">
                 <div class="product_thumb">
-                    <img src="{{ asset('build/images/bus/double/' ~ bus.name ~ '/prod1.jpg') }}">
+                    <img class="primary_img" data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord" src="{{ asset('build/images/bus/double/' ~ bus.name ~ '/prod1.jpg') }}" alt="photo du bus {{ bus.label }}"/>
+                    <img class="secondary_img" data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord" src="{{ asset('build/images/bus/double/' ~ bus.name ~ '/prod2.jpg') }}" alt="photo du bus {{ bus.label }}"/>
+                    <div class="quick_button">
+                        <span data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord">Découvrir</span>
+                    </div>
                 </div>
                 <div class="product_content">
                     <div class="tag_cate">
-                        <span class="shine">Espace optimisé</span>
+                        <span class="shine" data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord">Espace optimisé</span>
                     </div>
-                    <h3 class="shine">{{ bus.label }}</h3>
+                    <h3 class="shine" data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord">{{ bus.label }}</h3>
                     <div class="bottom_box">
-                        <span class="capacity">jusqu'à <span class="highlight">30 pers.</span></span>
+                        <span class="capacity">jusqu'à <span class="highlight">65 pers.</span></span>
+                    </div>
+                    <div class="product_hover">
+                        <div class="product_ratings">
+                            <ul>
+                                <li><i class="ion-ios-star"></i></li>
+                                <li><i class="ion-ios-star"></i></li>
+                                <li><i class="ion-ios-star"></i></li>
+                                <li><i class="ion-ios-star"></i></li>
+                                <li><i class="ion-ios-star-outline"></i></li>
+                            </ul>
+                        </div>
+                        <div class="product_desc">
+                            <p>
+                                <span class="bus-length">Minibus de 18m</span>
+                            </p>
+                        </div>
+                        <div class="action_links">
+                            <ul>
+                                <li class="add_to_cart"><a href="{{ path('tarifs')}}" title="Tarif minibus discothèque à Paris">Tarifs</a></li>
+                                <li class="add_to_cart"><a href="{{ path('reservation') }}" title="Réserver minibus discothèque à Paris">Réserver</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="image_stock">
+                        <div class="thumbs">
+                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod1.jpg') }}" alt="{{ bus.name }}"/>
+                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod2.jpg') }}" alt="{{ bus.name }}"/>
+                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod3.jpg') }}" alt="{{ bus.name }}"/>
+                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod4.jpg') }}" alt="{{ bus.name }}"/>
+                        </div>
+                        <div class="pictures">
+                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod1-1.jpg') }}" alt="{{ bus.name }}"/>
+                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod2-1.jpg') }}" alt="{{ bus.name }}"/>
+                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod3-1.jpg') }}" alt="{{ bus.name }}"/>
+                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod4-1.jpg') }}" alt="{{ bus.name }}"/>
+                        </div>
                     </div>
                 </div>
             </div>

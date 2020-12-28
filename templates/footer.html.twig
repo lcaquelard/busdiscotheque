@@ -9,12 +9,12 @@
                             <p>
                                 <small>Nous nous efforçons de répondre à vos demandes dans l'heure.</small><br>
                                 Location de Bus Discothèque de luxe pour tous vos événements :<br>
-                                <span><a href="mailto:commercial@busdiscotheque.com">commercial @ busdiscotheque.com</a><br></span>
-                                <span><a href="tel:+33142798549">01.42.79.85.49</a><br> </span>
-                                <span><small>Du lundi au samedi de 9h à 19h</small><br> </span>
+                                <span><span class="fa fa-envelope"></span> <a href="mailto:commercial@busdiscotheque.com">commercial @ busdiscotheque.com</a><br></span>
+                                <span><span class="fa fa-phone"></span> <a href="tel:+33142798549">01.42.79.85.49</a><br> </span>
+                                <span><span class="fa fa-clock-o"></span> <small>Du lundi au samedi de 9h à 19h</small><br> </span>
                                 <i class="fa fa-info"></i> <a href="mailto:commercial@busdiscotheque.com">RDV dans notre bureau en Ile-de-France sur demande</a>
                                 <br><br>
-                                <a href="?p=reservation" class="button">Demander un Tarif</a>
+                                <a href="{{ path('reservation') }}" class="button">Demander un Tarif</a>
                             </p>
                         </div>
                     </div>
@@ -24,8 +24,8 @@
                         <h3>Plan du Site</h3>
                         <div class="footer_menu">
                             <ul>
-                                <li><a href="?p=roadvertising">Roadvertising</a>
-                                </li><li><a href="?p=parcours">Parcours</a>
+                                <li><a href="{{ path('roadvertising') }}">Roadvertising</a>
+                               </li><li><a href="{{ path('parcours') }}">Parcours</a>
                                 </li>
                             </ul>
                         </div>
@@ -36,10 +36,10 @@
                         <h3>A propos</h3>
                         <div class="footer_menu">
                             <ul>
-                                <li><a href="#" data-toggle="modal" data-target="#modal-one" data-placement="top" data-original-title="Quelques Références" tabindex="0">CGV</a></li>
+                                <li><a href="#" data-toggle="modal" data-target="#modal-cgv" data-placement="top" data-original-title="Quelques Références" tabindex="0">CGV</a></li>
                                 <li><a href="#" data-toggle="modal" data-target="#modal-carton" data-placement="top" data-original-title="Quelques Références" tabindex="0">Cartons d'invitation</a></li>
-                                <li><a href="#" data-toggle="modal" data-target="#modal-three" data-placement="top" data-original-title="Quelques Références" tabindex="0">Mentions légales</a></li>
-                                <li><a href="#" data-toggle="modal" data-target="#modal-five" data-placement="top" data-original-title="Quelques Références" tabindex="0">Quelques Références</a></li>
+                                <li><a href="#" data-toggle="modal" data-target="#modal-mentions" data-placement="top" data-original-title="Quelques Références" tabindex="0">Mentions légales</a></li>
+                                <li><a href="#" data-toggle="modal" data-target="#modal-refs" data-placement="top" data-original-title="Quelques Références" tabindex="0">Quelques Références</a></li>
                                 <li><a href="#" data-toggle="modal" data-target="#modal-stock" data-placement="top" data-original-title="Quelques Références" tabindex="0">Stock Mobile Service</a></li>
                                 <li><a href="#" data-toggle="modal" data-target="#modal-deluxe" data-placement="top" data-original-title="Quelques Références" tabindex="0">Deluxe Mobile Service</a></li>
                             </ul>
