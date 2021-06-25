@@ -1,0 +1,189 @@
+
+.fleft {
+  float: left;
+}
+
+.fright {
+  float: right;
+}
+
+.clear {
+  content: "&nbsp;";
+  float: initial;
+  clear: both;
+  height: 0;
+  width: 100%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.lower{
+  text-transform:lowercase;
+}
+
+.upper{
+  text-transform: uppercase;
+}
+
+.shine{
+  color:$lightgrey;
+  transition:color .3s;
+}
+.shine:hover{
+  color: $white !important;
+  text-shadow: 0 0 2px $white !important;
+}
+
+strong{
+  font-weight:bolder;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+  margin-top: 0;
+  font-family: $Playfair;
+}
+
+h1, h2 {
+  text-shadow: 0 0 5px rgba(0, 0, 0, 1);
+  font-size: 1.7em !important;
+  font-weight: 400;
+  font-family: 'Mrs Saint Delafield', cursive;
+}
+
+h3 {
+  font-size: 30px;
+  line-height: 30px;
+}
+
+ul{
+  list-style: outside none none;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+a{
+  color:inherit;
+  text-decoration:inherit;
+  transition: all 0.3s ease 0s;
+}
+
+a:hover{
+  color:$white;
+  text-decoration:none;
+  text-shadow:1px 1px 2px $grey;
+}
+
+a, button {
+  color: inherit;
+  line-height: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button {
+  background: $copper;
+  box-shadow: none;
+  color: $white;
+  display: inline-block;
+  height: 45px;
+  line-height: 45px;
+  padding: 0 22px;
+  text-transform: uppercase;
+  font-size: 13px;
+  border-radius: 3px;
+}
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+.custom-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -6px;
+  margin-right: -6px;
+}
+
+.product_container {
+  .custom-col-5 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 0;
+  }
+}
+a, button, img, input, span {
+  transition: all 0.3s ease 0s;
+}
+.slider_black .slider_content a, .button, .black_fullwidth .banner_text a:hover, .product_container div.single_product .product_content .product_hover .action_links ul li a:hover, .instagram_btn a, .slider_black.owl-carousel .owl-dots .owl-dot.active::before, .product_black_section .action_links ul li a:hover, .product_black_section .product_tab_button ul.nav li a.active, #head_title .content h3, .product_container div.single_product .product_thumb .quick_button span:hover {
+  background: -webkit-repeating-linear-gradient(top, hsla(0,0%,100%,0) 0%, hsla(0,0%,100%,0) 3%, hsla(0,0%,100%,.1) 4.5%), -webkit-repeating-linear-gradient(top, hsla(0,0%,0%,0) 0%, hsla(0,0%,0%,0) 2%, hsla(0,0%,0%,.03) 2.5%), -webkit-repeating-linear-gradient(top, hsla(0,0%,100%,0) 0%, hsla(0,0%,100%,0) 0.6%, hsla(0,0%,100%,.15) 1.2%), linear-gradient(80deg, #a6a6a6 0%, #d9d9d9 45%, #e0e0e0 55%, #e0e0e0 65%, #d9d9d9 75%, #a6a6a6 100%);
+  -webkit-text-fill-color: $grey;
+  color: $grey;
+  box-shadow: 0 0 10px $black;
+}
+
+.footer_black .footer_menu ul li a:hover, .product_black_section .product_container.bottom button:hover, .header_black .main_menu nav > ul > li ul.sub_menu li a:hover, .header_black .main_menu nav > ul > li ul.mega_menu > li ul li a:hover, .header_black .main_menu nav > ul > li ul.mega_menu > li > a:hover, .product_black_section .product_tab_button ul.nav li a.hover, .product_black_section .product_container.bottom button:hover, .blog_black .blog_wrapper .owl-nav div:hover, .black_fullwidth .banner_text p, #head_title .content ul li a, a:hover {
+  color: #ffffff !important;
+  text-shadow: 0 0 2px #fff !important;
+}
+
+h1, h2, .blog_black .section_title h2, .product_black_section .section_title h2, .header_black .main_menu nav > ul > li.active > a, .header_black .main_menu nav > ul > li:hover > a, .slider_black .slider_content p.slider_price span, .footer_black .widgets_container > h3, .about_content span, .header_black .contact_box p, .header_area .main_menu nav > ul > li ul.mega_menu > li ul li a {
+  background-image: -webkit-repeating-linear-gradient(top, hsla(0, 0%, 100%, 0) 0%, hsla(0, 0%, 100%, 0) 3%, hsla(0, 0%, 100%, .1) 4.5%), -webkit-repeating-linear-gradient(top, hsla(0, 0%, 0%, 0) 0%, hsla(0, 0%, 0%, 0) 2%, hsla(0, 0%, 0%, .03) 2.5%), -webkit-repeating-linear-gradient(top, hsla(0, 0%, 100%, 0) 0%, hsla(0, 0%, 100%, 0) 0.6%, hsla(0, 0%, 100%, .15) 1.2%), linear-gradient(80deg, #a6a6a6 0%, #d9d9d9 45%, #e0e0e0 55%, #e0e0e0 65%, #d9d9d9 75%, #a6a6a6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: #ffffff14;
+  color: #fff;
+  position: relative;
+  font-weight: 400;
+}
+
+h1::after, h2::after, .blog_black .section_title h2::after, .product_black_section .section_title h2::after, .header_black .main_menu nav > ul > li.active > a::after, .header_black .main_menu nav > ul > li:hover > a::after, .slider_black .slider_content p.slider_price span::after, .footer_black .widgets_container > h3::after, .about_content span::after, .header_black .contact_box p::after, .header_black .main_menu nav > ul > li ul.mega_menu > li ul li a::after {
+  background: none;
+  content: attr(data-heading);
+  left: 0;
+  top: 0;
+  z-index: -1;
+  position: absolute;
+  text-shadow: 1px 0 0 #888888, 0 1px 0 #686868, 0 -1px 0 $copper, -1px 0 0 #686868;
+}
+
+body{
+  background-color:$bggrey;
+  color: $grey;
+  font-family: "Rubik", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  visibility: visible;
+}
+
+#top_sticky_bar{
+  opacity: 0.9;
+  background-color: #8d6012;
+  color: #ffffff;
+  width: 100%;
+  text-align: center;
+  font-size: 0.75em;
+  letter-spacing: 1px;
+  line-height: 1.75em;
+  padding: 0.75rem;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}

@@ -1,0 +1,38 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+    <div class="about_section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12">
+                    <div class="about_content" style="border: dashed 1px #CCC; padding: 3em;">
+                        <h1>{% trans %}Location de Soirée Bus{% endtrans %}</h1>
+                        <h2>{% trans %}à Paris{% endtrans %}</h2>
+                        <p>{% trans %}La location de soirée bus à Paris est un concept que tous les parisiens
+                            connaissent. <strong>Busdiscotheque.com</strong> est l’inventeur du concept de la location
+                            de bus boite de nuit.{% endtrans %}
+                            {% trans %}Leader incontestable et présent en tout premier avec son concept de
+                            discobus paris, busdiscotheque.com est à votre disposition pour organiser
+                            votre évènement à bord d’un de ces <strong>12 bus disco</strong> à Paris.
+                            Particulier ou professionnel vous pouvez louer <strong>nos bus disco</strong> pour tous vos
+                            évènements, anniversaire surprise, soirée bus disco, départ en retraite,
+                            transfert atypique en disco bus, bar mitzvah ou autre.
+                            Nos disco bus sont totalement réaménagés et pensés dans les moindres
+                            détails pour que vous ne manquiez de rien.{% endtrans %}
+                            {% trans %}Bar, bar libre-service, toilettes, sonorisation, écrans plats, vestiaire,
+                            climatisation total, chauffage total, salon, poste DJ, repose plateaux,
+                            supports boissons etc.. vous trouverez <strong>tous les services à bord de nos
+                                discobus.</strong>{% endtrans %}
+                            {% trans %}Vous pouvez trouver tous nos <strong>tarifs de location de bus boite de nuit</strong> ici, ou
+                            bien nous demander un <strong>devis sur mesure pour votre soirée bus</strong> si vous
+                            avez une demande particulière concernant votre évènement à bord de l’un
+                            de nos <strong>bus discotheque paris</strong>.{% endtrans %}
+                        </p>
+                    </div>
+                    <div class="about_thumb">
+                        <img src="{{ asset('build/images/slider/slider' ~ random(1, 5) ~ '.jpg') }}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

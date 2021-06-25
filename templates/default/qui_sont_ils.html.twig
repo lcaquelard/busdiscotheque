@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="content">
-                        <h3>Concurrence</h3>
+                        <h3>{% trans %}Concurrence{% endtrans %}</h3>
                     </div>
                 </div>
             </div>
@@ -16,9 +16,9 @@
             <div class="row">
                 <div class="col-12">
                     <div class="faq_content_wrapper">
-                        <h4>Qui sont-ils ?</h4>
+                        <h4>{% trans %}Qui sont-ils ?{% endtrans %}</h4>
                         <p class="pcustom">
-                            Voila déjà quelques temps, que notre nom bus discothèque, notre marque busdiscotheque.com est usurpée, contournée et détournée par tous les concurrents sans exception. Cela crée une confusion certaine dans l'esprit de ceux qui découvrent notre concept et notre société. Aussi pour être totalement transparent nous avons mis en ligne cette page afin que tous maitrise l'ensemble des éléments et que chacun fasse son choix en toute connaissance de cause.
+                            {% trans %}Voila déjà quelques temps, que notre nom bus discothèque, notre marque busdiscotheque.com est usurpée, contournée et détournée par tous les concurrents sans exception. Cela crée une confusion certaine dans l'esprit de ceux qui découvrent notre concept et notre société. Aussi pour être totalement transparent nous avons mis en ligne cette page afin que tous maitrise l'ensemble des éléments et que chacun fasse son choix en toute connaissance de cause.{% endtrans %}
                         </p>
                     </div>
                 </div>
@@ -33,7 +33,7 @@
                         <div class="card card_dipult">
                             <div class="card-header card_accor" id="headingOne">
                                 <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    3 sociétés en détails
+                                    {% trans %}3 sociétés en détails{% endtrans %}
                                     <i class="fa fa-plus"></i>
                                     <i class="fa fa-minus"></i>
                                 </button>
@@ -41,7 +41,7 @@
                             <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                                 <div class="card-body">
                                     <p class="pcustom">
-                                        Cliquez ci-dessous pour en savoir plus.
+                                        {% trans %}Cliquez ci-dessous pour en savoir plus.{% endtrans %}
                                     </p>
                                 </div>
                             </div>
@@ -57,9 +57,9 @@
                             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                                 <div class="card-body">
                                     <p class="pcustom">
-                                        Géré par Kader Boudour salarié depuis plus de 20 ans chez Véolia (anciennement TVO Argenteuil) en qualité de chauffeur de bus urbain et délégué syndical au sein de cette structure depuis plus de 10 ans . Il possède un bus simple de 12 mètres identique d’extérieur à nos bus simples. A cette différence qu’il vend son bus plus cher (<a href="{{ path('comparer') }}" target="_blank" class="this_avis">comparer ici</a>)  que nous et qu'il le loue jusqu’a 60 personnes, quand nous louons le même bus pour 30 personnes maximum.
+                                        {% trans %}Géré par Kader Boudour salarié depuis plus de 20 ans chez Véolia (anciennement TVO Argenteuil) en qualité de chauffeur de bus urbain et délégué syndical au sein de cette structure depuis plus de 10 ans . Il possède un bus simple de 12 mètres identique d’extérieur à nos bus simples. A cette différence qu’il vend son bus plus cher{% endtrans %} (<a href="{{ path('comparer') }}" target="_blank" class="this_avis">{% trans %}comparer ici{% endtrans %}</a>) {% trans %}que nous et qu'il le loue jusqu’a 60 personnes, quand nous louons le même bus pour 30 personnes maximum.{% endtrans %}
                                         <br>
-                                        C'est lui qui conduit son véhicule, sa femme assure le service au bar, pour le coté prestige et luxe tel qu’affiché sur son site, demandez lui d’où il tient cette expérience alors que de toute sa vie il n’a été que chauffeur.
+                                        {% trans %}C'est lui qui conduit son véhicule, sa femme assure le service au bar, pour le coté prestige et luxe tel qu’affiché sur son site, demandez lui d’où il tient cette expérience alors que de toute sa vie il n’a été que chauffeur.{% endtrans %}
                                     </p>
                                 </div>
                             </div>
@@ -67,7 +67,7 @@
                         <div class="card  card_dipult">
                             <div class="card-header card_accor" id="headingThree">
                                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Party bus ou Soirée bus : C’est la même société
+                                    {% trans %}Party bus ou Soirée bus : C’est la même société{% endtrans %}
                                     <i class="fa fa-plus"></i>
                                     <i class="fa fa-minus"></i>
                                 </button>
@@ -75,35 +75,35 @@
                             <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                 <div class="card-body">
                                     <p class="pcustom">
-                                        Party bus est gérée par Morad et Soirée Bus est gérée par sa femme Linda.<br><br>
-                                        Party Bus possède un bus simple de 12 mètres  valable pour 20 personnes vendu pour 30 personnes.<br>
-                                        Soirée bus possède un bus simple de 12 mètres (valable pour 30 personnes) vendu jusqu’à 45 personnes,<br><br>
-                                        C’est dire l’idée qu’ils ont du confort.<br><br>
-                                        Ils vendent leurs prestations beaucoup, beaucoup, beaucoup, plus cher que nous avec beaucoup, beaucoup, beaucoup moins de service que nous. (Afficheur payant, télé payant, pas le droit de consommer en roulant, Wc non accessible en roulant etc..)<br><br>
-                                        Pour le coté haut de gamme, luxe et prestige, il vous faudra là aussi repasser, le mari Morad ancien chauffeur de ligne assure le service au volant et la femme Linda le service au bar.<br><br>
-                                        Ils assurent avoir des véhicules plus luxueux que nous, d’abord ils n’en possèdent qu’un seul ensuite c’est le même véhicule qui est exploité depuis plus de 10 ans.<br><br><br>
-                                        <b>Quand Party Bus et Soirée Bus <a href="{{ asset('build/images/docs/devis/busdiscotheque-devis-partybus.pdf') }}" target="_blank" class="this_avis">louaient les bus de busdiscotheque.com. </a></b><br><br><br>
-                                        Durant 3 années Party bus et Soirée bus <a href="{{ asset('build/images/docs/devis/demande-devis-partybus.jpg') }}" target="_blank" class="this_avis">nous ont loué des bus</a> fréquemment avec nos formules complète (Chauffeur, Dj, Agent, Serveur, Traiteur etc…).<br><br>
-                                        Des prestations clés en main qu’ils ont revendu le double à leurs clients sans rien ajouter, sans rien faire. Devant le nombre de clients bernés par leur méthode, devant les délais interminables pour nous payer une facture de 800 euros nous avons cessé de leur louer nos véhicules.<br><br>
-                                        <b>ET LES AVIS SUR INTERNET ??</b><br><br>
-                                        Enfin s’agissant des avis Google sur internet qu'ils ont référencé sur notre marque busdiscotheque , tout est faux, vous l’aurez tous bien compris.<br><br>
-                                        Vous pouvez le vérifier aisément, avec les avis de Heather Martinez, Burn Lois, Tilda Swinton sur Soirée bus entre autres.<br><br>
-                                        Quel est la probabilité que ces personnes, dont une personne vie en Australie et deux autres aux Usa, passent par la même boulangerie en Hollande, vois le même voyant en France commande des pièces électriques au même fournisseur aux usa et passe une soirée dans le bus ??<br>
-                                        Heather Martinez qui vie aux usa, passe par la même boulangerie que Burn Lois en Hollande.<br><br>
-                                        Elle commande des pièces chez San Diego Cpa, comme Tilda Swinton, qui elle, passe chez Nav Audio au Pays bas et Ft Wayne Electric aux usa comme Heater Martinez etc...<br><br>
-                                        Tous ces gens là qui vivent aux quatre coins du monde passent une soirée dans le bus ????<br><br>
-                                        De plus tous les témoignages commencent par "Je tenais à vous remercier, je tiens à remercier etc..."<br><br>
-                                        Pour les avis de Party Bus on vous laisse regarder en détail.<br><br>
-                                        Ce sont majoritairement que des faux avis postés par des proches de Morad et Linda.<br><br>
-                                        Et quand c'est un avis négatif, bien sur là il ne s'agit pas d'un de leur client.<br><br>
-                                        On finit avec l'avis de <a href="{{ asset('build/images/docs/devis/avis-reman.pdf') }}" target="_blank" class="this_avis">Reman Max</a>, celui-ci est vraiment magique.<br><br>
-                                        A l'origine c'est un roman complet qui flatte les services de la société Party bus et son gérant Morad qui est exceptionnel.<br><br>
-                                        Cet avis magique disparait des écrans 48H00 après avoir été posté.<br><br>
-                                        La réponse du propriétaire, elle, est toujours en ligne ????<br><br>
-                                        Ce même avis (<a href="{{ asset('build/images/docs/devis/avis-reman.pdf') }}" class="this_avis" target="_blank">voir capture écran</a>) supprimé depuis, vous le retrouvez mots pour mots sur <a href="https://www.avis-verifies.com/avis-clients/partybus.fr?filtre=&p=2" target="_blank" class="this_avis">Avis-vérifiés</a> posté par un certain <a href="{{ asset('build/images/docs/devis/avis-iteb.pdf') }}" target="_blank" class="this_avis">Iteb</a> ????<br><br>
-                                        <a href="{{ asset('build/images/docs/devis/avis-reman.pdf') }}" class="this_avis" target="_blank">Reman</a> devient <a href="{{ asset('build/images/docs/devis/avis-iteb.pdf') }}" target="_blank" class="this_avis">Iteb</a> ???<br><br>
-                                        L'avis magique est supprimé de Google... pour réapparaître sur <a href="https://www.avis-verifies.com/avis-clients/partybus.fr?filtre=&p=2" target="_blank" class="this_avis">Avis Vérifiés</a> :) :) : ) :)<br><br>
-                                        Les avis sont donc tous faux et c’est sans honte qu’ils s’amusent à poster des avis négatifs nous concernant croyant qu’il s’agit là de nos réseaux sociaux.
+                                        {% trans %}Party bus est gérée par Morad et Soirée Bus est gérée par sa femme Linda.{% endtrans %}<br><br>
+                                        {% trans %}Party Bus possède un bus simple de 12 mètres  valable pour 20 personnes vendu pour 30 personnes.{% endtrans %}<br>
+                                        {% trans %}Soirée bus possède un bus simple de 12 mètres (valable pour 30 personnes) vendu jusqu’à 45 personnes,{% endtrans %}<br><br>
+                                        {% trans %}C’est dire l’idée qu’ils ont du confort.{% endtrans %}<br><br>
+                                        {% trans %}Ils vendent leurs prestations beaucoup, beaucoup, beaucoup, plus cher que nous avec beaucoup, beaucoup, beaucoup moins de service que nous. (Afficheur payant, télé payant, pas le droit de consommer en roulant, Wc non accessible en roulant etc..){% endtrans %}<br><br>
+                                        {% trans %}Pour le coté haut de gamme, luxe et prestige, il vous faudra là aussi repasser, le mari Morad ancien chauffeur de ligne assure le service au volant et la femme Linda le service au bar.{% endtrans %}<br><br>
+                                        {% trans %}Ils assurent avoir des véhicules plus luxueux que nous, d’abord ils n’en possèdent qu’un seul ensuite c’est le même véhicule qui est exploité depuis plus de 10 ans.{% endtrans %}<br><br><br>
+                                        <b>{% trans %}Quand Party Bus et Soirée Bus{% endtrans%} <a href="{{ asset('build/images/docs/devis/busdiscotheque-devis-partybus.pdf') }}" target="_blank" class="this_avis">{% trans %}louaient les bus de busdiscotheque.com.{% endtrans%} </a></b><br><br><br>
+                                        {% trans %}Durant 3 années Party bus et Soirée bus{% endtrans %} <a href="{{ asset('build/images/docs/devis/demande-devis-partybus.jpg') }}" target="_blank" class="this_avis">{% trans %}nous ont loué des bus{% endtrans %}</a> {% trans %}fréquemment avec nos formules complète (Chauffeur, Dj, Agent, Serveur, Traiteur etc…).{% endtrans %}<br><br>
+                                        {% trans %}Des prestations clés en main qu’ils ont revendu le double à leurs clients sans rien ajouter, sans rien faire. Devant le nombre de clients bernés par leur méthode, devant les délais interminables pour nous payer une facture de 800 euros nous avons cessé de leur louer nos véhicules.{% endtrans %}<br><br>
+                                        <b>{% trans %}ET LES AVIS SUR INTERNET ??{% endtrans %}</b><br><br>
+                                        {% trans %}Enfin s’agissant des avis Google sur internet qu'ils ont référencé sur notre marque busdiscotheque , tout est faux, vous l’aurez tous bien compris.{% endtrans %}<br><br>
+                                        {% trans %}Vous pouvez le vérifier aisément, avec les avis de Heather Martinez, Burn Lois, Tilda Swinton sur Soirée bus entre autres.{% endtrans %}<br><br>
+                                        {% trans %}Quel est la probabilité que ces personnes, dont une personne vie en Australie et deux autres aux Usa, passent par la même boulangerie en Hollande, vois le même voyant en France commande des pièces électriques au même fournisseur aux usa et passe une soirée dans le bus ??{% endtrans %}<br>
+                                        {% trans %}Heather Martinez qui vie aux usa, passe par la même boulangerie que Burn Lois en Hollande.{% endtrans %}<br><br>
+                                        {% trans %}Elle commande des pièces chez San Diego Cpa, comme Tilda Swinton, qui elle, passe chez Nav Audio au Pays bas et Ft Wayne Electric aux usa comme Heater Martinez etc...{% endtrans %}<br><br>
+                                        {% trans %}Tous ces gens là qui vivent aux quatre coins du monde passent une soirée dans le bus ????{% endtrans %}<br><br>
+                                        {% trans %}De plus tous les témoignages commencent par "Je tenais à vous remercier, je tiens à remercier etc..."{% endtrans %}<br><br>
+                                        {% trans %}Pour les avis de Party Bus on vous laisse regarder en détail.{% endtrans %}<br><br>
+                                        {% trans %}Ce sont majoritairement que des faux avis postés par des proches de Morad et Linda.{% endtrans %}<br><br>
+                                        {% trans %}Et quand c'est un avis négatif, bien sur là il ne s'agit pas d'un de leur client.{% endtrans %}<br><br>
+                                        {% trans %}On finit avec l'avis de{% endtrans%} <a href="{{ asset('build/images/docs/devis/avis-reman.pdf') }}" target="_blank" class="this_avis">Reman Max</a>, {% trans %}celui-ci est vraiment magique.{% endtrans %}<br><br>
+                                        {% trans %}A l'origine c'est un roman complet qui flatte les services de la société Party bus et son gérant Morad qui est exceptionnel.{% endtrans %}<br><br>
+                                        {% trans %}Cet avis magique disparait des écrans 48H00 après avoir été posté.{% endtrans %}<br><br>
+                                        {% trans %}La réponse du propriétaire, elle, est toujours en ligne ????{% endtrans %}<br><br>
+                                        {% trans %}Ce même avis{% endtrans %} (<a href="{{ asset('build/images/docs/devis/avis-reman.pdf') }}" class="this_avis" target="_blank">{% trans %}voir capture écran{% endtrans %}</a>) {% trans %}supprimé depuis, vous le retrouvez mots pour mots sur{% endtrans%} <a href="https://www.avis-verifies.com/avis-clients/partybus.fr?filtre=&p=2" target="_blank" class="this_avis">{% trans %}Avis-vérifiés{% endtrans %}</a> {% trans %}posté par un certain{% endtrans%} <a href="{{ asset('build/images/docs/devis/avis-iteb.pdf') }}" target="_blank" class="this_avis">Iteb</a> ????<br><br>
+                                        <a href="{{ asset('build/images/docs/devis/avis-reman.pdf') }}" class="this_avis" target="_blank">Reman</a> {% trans %}devient{% endtrans %} <a href="{{ asset('build/images/docs/devis/avis-iteb.pdf') }}" target="_blank" class="this_avis">Iteb</a> ???<br><br>
+                                        {% trans %}L'avis magique est supprimé de Google... pour réapparaître sur{% endtrans%} <a href="https://www.avis-verifies.com/avis-clients/partybus.fr?filtre=&p=2" target="_blank" class="this_avis">{% trans %}Avis Vérifiés{% endtrans %}</a> :) :) : ) :)<br><br>
+                                        {% trans %}Les avis sont donc tous faux et c’est sans honte qu’ils s’amusent à poster des avis négatifs nous concernant croyant qu’il s’agit là de nos réseaux sociaux.{% endtrans %}
                                     </p>
                                 </div>
                             </div>
@@ -119,7 +119,7 @@
                             <div id="collapseseven" class="collapse" aria-labelledby="headingfive" data-parent="#accordion">
                                 <div class="card-body">
                                     <p class="pcustom">
-                                        Géré par Ange, <a href="{{ asset('build/images/docs/team_sw.jpg') }}" class="this_avis" target="_blank">la photo de l’équipe</a> que vous avez en ligne n’est plus d’actualité, ils ont tous quitté le navire il y’à 4 ans. Pour le véhicule et les prestations inutile d’aller plus loin on vous laisse découvrir les photos et dans le doute d’aller le visiter. On vous passe toutes les fois où ils nous ont appelé pour leur louer un bus quand le leur était en panne
+                                        {% trans %}Géré par Ange,{% endtrans%} <a href="{{ asset('build/images/docs/team_sw.jpg') }}" class="this_avis" target="_blank">{% trans %}la photo de l’équipe{% endtrans %}</a> {% trans %}que vous avez en ligne n’est plus d’actualité, ils ont tous quitté le navire il y’à 4 ans. Pour le véhicule et les prestations inutile d’aller plus loin on vous laisse découvrir les photos et dans le doute d’aller le visiter. On vous passe toutes les fois où ils nous ont appelé pour leur louer un bus quand le leur était en panne{% endtrans %}
                                     </p>
                                 </div>
                             </div>
@@ -133,12 +133,12 @@
             <div class="row">
                 <div class="col-12">
                     <div class="faq_content_wrapper">
-                        <h4>Pour résumer</h4>
+                        <h4>{% trans %}Pour résumer{% endtrans %}</h4>
                         <p class="pcustom">
-                            Vous l’aurez tous compris, avec bus discothèque vous avez à votre disposition une véritable équipe qui œuvre au parfait déroulement de votre évènement, une équipe composée de 25 chauffeurs, 17 Dj, 15 hôtesses et bar man et un service commercial qui a plus de 20 années d’expérience dans l‘organisation d’évènements et de mariages.<br />
-                            Avec busdiscotheque nous mettons à votre disposition 11 véhicules parmi lesquels vous pouvez choisir selon vos gouts, nous vous garantissons un véhicule de remplacement au maximum 45 min après l’appel des équipes en cas de soucis technique ou mécanique, nous vous garantissons le meilleur rapport qualité prix, nous vous garantissons le meilleur.<br><br>
-                            Maintenant que vous savez qui est qui, qui vend quoi on vous laisse découvrir dans le détail.<br><br>
-                            <a href="{{ path('comparer') }}" target="_blank" class="button">Comparer</a><br>
+                            {% trans %}Vous l’aurez tous compris, avec bus discothèque vous avez à votre disposition une véritable équipe qui œuvre au parfait déroulement de votre évènement, une équipe composée de 25 chauffeurs, 17 Dj, 15 hôtesses et bar man et un service commercial qui a plus de 20 années d’expérience dans l‘organisation d’évènements et de mariages.{% endtrans %}<br />
+                            {% trans %}Avec busdiscotheque nous mettons à votre disposition 11 véhicules parmi lesquels vous pouvez choisir selon vos gouts, nous vous garantissons un véhicule de remplacement au maximum 45 min après l’appel des équipes en cas de soucis technique ou mécanique, nous vous garantissons le meilleur rapport qualité prix, nous vous garantissons le meilleur.{% endtrans %}<br><br>
+                            {% trans %}Maintenant que vous savez qui est qui, qui vend quoi on vous laisse découvrir dans le détail.{% endtrans %}<br><br>
+                            <a href="{{ path('comparer') }}" target="_blank" class="button">{% trans %}Comparer{% endtrans %}</a><br>
                         </p>
                     </div>
                 </div>

@@ -1,65 +1,126 @@
 index:
-    path:       /
+    path:       /{_locale}
     controller: App\Controller\DefaultController::index
+    defaults:
+        _locale: 'fr'
 
 #communique:
-#    path:       /communique
+#    path:       /{_locale<%app.supported_locales%>}/communique
 #    controller: App\Controller\DefaultController::communique
 
 news:
-    path:       /nouveautes
+    path:       /{_locale<%app.supported_locales%>}/nouveautes-paris-busdiscotheque
     controller: App\Controller\DefaultController::news
+    defaults:
+        _locale:    'fr'
 
 bus_mini:
-    path:       /nos_bus/mini/{bus_name}
+    path:       /{_locale<%app.supported_locales%>}/nos-busdiscotheque-paris/nos-busdisco-mini-paris/{bus_name}
     controller: App\Controller\DefaultController::bus_mini
     defaults:
+        _locale:    'fr'
         bus_name: 'none'
 
 bus_simple:
-    path:       /nos_bus/simples/{bus_name}
+    path:       /{_locale<%app.supported_locales%>}/nos-busdiscotheque-paris/nos-bus-standards-discobus-paris/{bus_name}
     controller: App\Controller\DefaultController::bus_simple
     defaults:
+        _locale:    'fr'
         bus_name: 'none'
 
 bus_double:
-    path:       /nos_bus/doubles/{bus_name}
+    path:       /{_locale<%app.supported_locales%>}/nos-busdiscotheque-paris/nos-discobus-articules-paris/{bus_name}
     controller: App\Controller\DefaultController::bus_double
     defaults:
+        _locale:    'fr'
         bus_name: 'none'
 
+tarifs:
+    path:       /{_locale<%app.supported_locales%>}/tarifs-discobus
+    controller: App\Controller\DefaultController::tarifs
+    defaults:
+        _locale:    'fr'
+
 services:
-    path:       /services
+    path:       /{_locale<%app.supported_locales%>}/services-busdisco-paris
     controller: App\Controller\DefaultController::services
+    defaults:
+        _locale:    'fr'
 
 services_inclus:
-    path:       /services/inclus
+    path:       /{_locale<%app.supported_locales%>}/services/inclus
     controller: App\Controller\DefaultController::services_inclus
+    defaults:
+        _locale:    'fr'
 
 services_option:
-    path:       /services/option
+    path:       /{_locale<%app.supported_locales%>}/services/option
     controller: App\Controller\DefaultController::services_option
+    defaults:
+        _locale:    'fr'
 
 qui_sommes_nous:
-    path:       /qui_sommes_nous
+    path:       /{_locale<%app.supported_locales%>}/qui_sommes_nous
     controller: App\Controller\DefaultController::qui_sommes_nous
+    defaults:
+        _locale:    'fr'
 
 qui_sont_ils:
-    path:       /qui_sont_ils
+    path:       /{_locale<%app.supported_locales%>}/qui_sont_ils
     controller: App\Controller\DefaultController::qui_sont_ils
+    defaults:
+        _locale:    'fr'
 
 comparer:
-    path:       /comparer
+    path:       /{_locale<%app.supported_locales%>}/comparer
     controller: App\Controller\DefaultController::comparer
+    defaults:
+        _locale:    'fr'
 
 reservation:
-    path:       /reservation
+    path:       /{_locale<%app.supported_locales%>}/reservation
     controller: App\Controller\DefaultController::reservation
+    defaults:
+        _locale:    'fr'
 
 roadvertising:
-    path:       /roadvertising
+    path:       /{_locale<%app.supported_locales%>}/roadvertising
     controller: App\Controller\DefaultController::roadvertising
+    defaults:
+        _locale:    'fr'
 
 parcours:
-    path:       /parcours
+    path:       /{_locale<%app.supported_locales%>}/parcours
     controller: App\Controller\DefaultController::parcours
+    defaults:
+        _locale:    'fr'
+
+bottom1:
+    path:       /{_locale<%app.supported_locales%>}/location-soiree-bus-paris
+    controller: App\Controller\DefaultController::bottom1
+    defaults:
+        _locale:    'fr'
+
+bottom2:
+    path:       /{_locale<%app.supported_locales%>}/soiree-bus-a-paris-garantie
+    controller: App\Controller\DefaultController::bottom2
+    defaults:
+        _locale:    'fr'
+
+bottom3:
+    path:       /{_locale<%app.supported_locales%>}/location-de-bus-boite-de-nuit
+    controller: App\Controller\DefaultController::bottom3
+    defaults:
+        _locale:    'fr'
+
+bottom4:
+    path:       /{_locale<%app.supported_locales%>}/notre-parc-de-discobus
+    controller: App\Controller\DefaultController::bottom4
+    defaults:
+        _locale:    'fr'
+
+bottom5:
+    path:       /{_locale<%app.supported_locales%>}/pourquoi-louer-un-busdiscotheque
+    controller: App\Controller\DefaultController::bottom5
+    defaults:
+        _locale:    'fr'

@@ -1,42 +1,54 @@
-{% set bus_simple = {
+{% set bus_double = {
     0 : {
         name        : 'bigben',
-        label       : 'Big Ben'
+        label       : 'Big Ben',
+        pictures    : 4
     },
     1 : {
         name        : 'darkkiss',
-        label       : 'Dark Kiss'
+        label       : 'Dark Kiss',
+        pictures    : 4
     },
     2 : {
         name        : 'milleniumcondor',
-        label       : 'Millenium Condor'
+        label       : 'Millenium Condor',
+        pictures    : 4
     },
     3 : {
         name        : 'seven7',
-        label       : 'Seven 7'
+        label       : 'Seven 7',
+        pictures    : 4
     }
 }
 %}
 
 {% extends 'default/nos_bus.html.twig' %}
+{% block head_message %}
+    <p>
+        {% trans %}
+            «Bus discotheque Paris vous offre le choix parmi 4 bus disco double pour répondre aux demandes des groupes les plus importants. Nos doubles discobus ont une capacité d’accueil allant jusqu’à 75 personnes.<br>
+            À l’instar de nos autres disco bus, ces double bus discotheque vous offrent tout le confort nécessaire pour des groupes plus importants. Bar, écrans plats, toilettes, salon, poste Dj, Karaokés, vous ne manquerez de rien et surtout pas de place. Pour votre anniversaire vous pouvez louer un double bus discotheque à Paris à partir de 990 €uros.
+        {% endtrans %}
+    </p>
+{% endblock %}
 {% block bus_row %}
-    {% for bus in bus_simple %}
+    {% for bus in bus_double %}
         <div class="col-lg-3 col-md-3 col-sm-4">
             <div class="single_product {% if selected == bus.name %}selected{% endif %}">
                 <div class="product_thumb">
-                    <img class="primary_img" data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord" src="{{ asset('build/images/bus/double/' ~ bus.name ~ '/prod1.jpg') }}" alt="photo du bus {{ bus.label }}"/>
-                    <img class="secondary_img" data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord" src="{{ asset('build/images/bus/double/' ~ bus.name ~ '/prod2.jpg') }}" alt="photo du bus {{ bus.label }}"/>
+                    <img class="primary_img" data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="{% trans %}Voir les Options à Bord{% endtrans %}" src="{{ asset('build/images/bus/double/' ~ bus.name ~ '/prod1.jpg') }}" alt="{% trans %}photo du bus{% endtrans %}" {{ bus.label }}"/>
+                    <img class="secondary_img" data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="{% trans %}Voir les Options à Bord{% endtrans %}" src="{{ asset('build/images/bus/double/' ~ bus.name ~ '/prod2.jpg') }}" alt="{% trans %}photo du bus{% endtrans %}" {{ bus.label }}"/>
                     <div class="quick_button">
-                        <span data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord">Découvrir</span>
+                        <span data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="{% trans %}Voir les Options à Bord{% endtrans %}">{% trans %}Découvrir{% endtrans %}</span>
                     </div>
                 </div>
                 <div class="product_content">
                     <div class="tag_cate">
-                        <span class="shine" data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord">Espace optimisé</span>
+                        <span class="shine" data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="{% trans %}Voir les Options à Bord{% endtrans %}">{% trans %}Espace optimisé{% endtrans %}</span>
                     </div>
-                    <h3 class="shine" data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord">{{ bus.label }}</h3>
+                    <h3 class="shine bus_name" data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="{% trans %}Voir les Options à Bord{% endtrans %}">{{ bus.label }}</h3>
                     <div class="bottom_box">
-                        <span class="capacity">jusqu'à <span class="highlight">65 pers.</span></span>
+                        <span class="capacity">{% trans %}jusqu'à <span class="highlight">65 pers.</span>{% endtrans %}</span>
                     </div>
                     <div class="product_hover">
                         <div class="product_ratings">
@@ -50,28 +62,26 @@
                         </div>
                         <div class="product_desc">
                             <p>
-                                <span class="bus-length">Minibus de 18m</span>
+                                <span class="bus-length">{% trans %}Bus double de 18m{% endtrans %}</span>
                             </p>
                         </div>
                         <div class="action_links">
                             <ul>
-                                <li class="add_to_cart"><a href="{{ path('tarifs')}}" title="Tarif minibus discothèque à Paris">Tarifs</a></li>
-                                <li class="add_to_cart"><a href="{{ path('reservation') }}" title="Réserver minibus discothèque à Paris">Réserver</a></li>
+                                <li class="add_to_cart"><a href="{{ path('tarifs')}}" title="{% trans %}Tarif minibus discothèque à Paris{% endtrans %}">{% trans %}Tarifs{% endtrans %}</a></li>
+                                <li class="add_to_cart"><a href="{{ path('reservation') }}" title="{% trans %}Réserver minibus discothèque à Paris{% endtrans %}">{% trans %}Réserver{% endtrans %}</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="image_stock">
                         <div class="thumbs">
-                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod1.jpg') }}" alt="{{ bus.name }}"/>
-                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod2.jpg') }}" alt="{{ bus.name }}"/>
-                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod3.jpg') }}" alt="{{ bus.name }}"/>
-                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod4.jpg') }}" alt="{{ bus.name }}"/>
+                            {% for i in 1..bus.pictures %}
+                                <img src="{{ asset('build/images/bus/double/' ~ bus.name ~ '/prod' ~ i ~ '.jpg') }}" alt="{{ bus.name }}"/>
+                            {% endfor %}
                         </div>
                         <div class="pictures">
-                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod1-1.jpg') }}" alt="{{ bus.name }}"/>
-                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod2-1.jpg') }}" alt="{{ bus.name }}"/>
-                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod3-1.jpg') }}" alt="{{ bus.name }}"/>
-                            <img src="{{ asset('build/images/bus/simple/' ~ bus.name ~ '/prod4-1.jpg') }}" alt="{{ bus.name }}"/>
+                            {% for i in 1..bus.pictures %}
+                                <img src="{{ asset('build/images/bus/double/' ~ bus.name ~ '/prod' ~ i ~ '-1.jpg') }}" alt="{{ bus.name }}"/>
+                            {% endfor %}
                         </div>
                     </div>
                 </div>

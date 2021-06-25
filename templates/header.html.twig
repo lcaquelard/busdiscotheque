@@ -1,3 +1,91 @@
+<div class="off_canvas_overlay"></div>
+<div class="Offcanvas_menu Offcanvas_five">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="canvas_open">
+          <a href="javascript:void(0)"><i class="ion-navicon"></i></a>
+        </div>
+        <div class="Offcanvas_menu_wrapper">
+          <div class="canvas_close">
+            <a href="javascript:void(0)"><i class="ion-android-close"></i></a>
+          </div>
+          <div class="contact_box">
+            <p><a href="tel:+33142798549">06.58.31.18.77</a></p>
+          </div>
+          <div id="menu" class="text-left ">
+            <ul class="offcanvas_main_menu">
+              <li>
+                <a href="{{ path('index') }}">{% trans %}Accueil{% endtrans %}</a>
+              </li>
+              <li class="menu-item-has-children">
+                <span class="menu-expand"><i class="fa fa-angle-down"></i></span>
+                <a href="{{ path('bus_simple') }}">{% trans %}Nos Bus{% endtrans %}</a>
+                <ul class="sub-menu">
+                  <li class="menu-item-has-children">
+                    <span class="sub menu-expand"><i class="fa fa-angle-down"></i></span>
+                    <a href="{{ path('bus_mini') }}">{% trans %}Nos Mini Bus{% endtrans %}</a>
+                    <ul class="sub-menu">
+                      <li><a href="{{ path('bus_mini', {bus_name : 'lalulu'}) }}">• La Lulu</a></li>
+                    </ul>
+                  </li>
+                  <li class="menu-item-has-children">
+                    <span class="sub menu-expand"><i class="fa fa-angle-down"></i></span>
+                    <a href="{{ path('bus_simple') }}">{% trans %}Nos Simples Bus{% endtrans %}"</a>
+                    <ul class="sub-menu">
+                      <li><a href="{{ path('bus_simple', {bus_name : 'angec6'}) }}">• AngeC6</a></li>
+                      <li><a href="{{ path('bus_simple', {bus_name : 'slinone'}) }}">• S Linone</a></li>
+                      <li><a href="{{ path('bus_simple', {bus_name : 'sodade'}) }}">• Sodade</a></li>
+                      <li><a href="{{ path('bus_simple', {bus_name : 'bluediamond'}) }}">• BlueDiamond</a></li>
+                      <li><a href="{{ path('bus_simple', {bus_name : 'crystal'}) }}">• Crystal</a></li>
+                    </ul>
+                  </li>
+                  <li class="menu-item-has-children">
+                    <span class="sub menu-expand"><i class="fa fa-angle-down"></i></span>
+                    <a href="{{ path('bus_double') }}">{% trans %}Nos Doubles Bus{% endtrans %}"</a>
+                    <ul class="sub-menu">
+                      <li><a href="{{ path('bus_double', {bus_name : 'milleniumcondor'}) }}">• Millenium Condor</a></li>
+                      <li><a href="{{ path('bus_double', {bus_name : 'bigben'}) }}">• Big Ben</a></li>
+                      <li><a href="{{ path('bus_double', {bus_name : 'darkkiss'}) }}">• Dark Kiss</a></li>
+                      <li><a href="{{ path('bus_double', {bus_name : 'seven7'}) }}">• Seven 7</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href="{{ path('tarifs') }}">{% trans %}Tarifs{% endtrans %}"</a>
+              </li>
+              <li class="menu-item-has-children">
+                <span class="menu-expand"><i class="fa fa-angle-down"></i></span>
+                <a href="{{ path('services') }}">{% trans %}Services{% endtrans %} </a>
+                <ul class="sub-menu">
+                  <li><a href="{{ path('services_inclus') }}">{% trans %}Services inclus{% endtrans %}</a></li>
+                  <li><a href="{{ path('services_option') }}">{% trans %}Services en option{% endtrans %}</a></li>
+                </ul>
+              </li>
+              <li class="menu-item-has-children">
+                <span class="menu-expand"><i class="fa fa-angle-down"></i></span>
+                <a href="{{ path('qui_sommes_nous') }}">{% trans %}Concurrence{% endtrans %}</a>
+                <ul class="sub-menu">
+                  <li><a href="{{ path('qui_sommes_nous') }}">{% trans %}Qui sommes-nous ?{% endtrans %}</a></li>
+                  <li><a href="{{ path('qui_sont_ils') }}">{% trans %}Qui sont-ils ?{% endtrans %}</a></li>
+                  <li><a href="{{ path('comparer') }}">{% trans %}Comparer{% endtrans %}</a></li>
+                </ul>
+              </li>
+              <li>
+                <a href="{{ path('news') }}">{% trans %}Nouveautés{% endtrans %}</a>
+              </li>
+{#              <li>
+                <a href="{{ path('communique') }}">{% trans %}Communiqué{% endtrans %}</a>
+              </li>
+#}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <header>
   <div id="header_top">
   </div>
@@ -5,14 +93,23 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="contact col-lg-3">
-          <img class="icon" src="{{ asset('build/images/icon/icon_phone.png') }}" alt="phone"/><span><a href="tel:+33142798549">01.42.79.85.49</a></span>
+          <img class="icon" src="{{ asset('build/images/icon/icon_phone.png') }}" alt="phone"/><span><a href="tel:+33658311877">06.58.31.18.77</a></span>
         </div>
         <div class="logo col-lg-6 col-md-3">
             <a href="{{ path("index") }}">
               <img src="{{ asset('build/images/logo/logo.svg') }}" alt="logo"/>
             </a>
         </div>
-        <div id="header_social" class="col-lg-3 col-md-9">
+        <div id="switch-language" class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-language" role="button"
+                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                {% trans %}Langue{% endtrans %}
+            </a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdown-language">
+              <a class="dropdown-item" href="{{ path(app.request.attributes.get('_route'), {_locale: 'fr'}) }}">Français</a>
+                <a class="dropdown-item" href="{{ path(app.request.attributes.get('_route'), {_locale: 'en'}) }}">English</a>
+                <a class="dropdown-item" href="{{ path(app.request.attributes.get('_route'), {_locale: 'es'}) }}">Espanol</a>
+            </div>
         </div>
       </div>
     </div>
@@ -29,15 +126,15 @@
               <nav>
                 <ul>
                   <li>
-                    <a href="{{ path("index") }}">Accueil</a>
+                    <a href="{{ path("index") }}">{% trans %}Accueil{% endtrans %}</a>
                   </li>
                   <li>
-                    <a href="{{ path("bus_simple") }}">Nos Bus<i class="fa fa-angle-down"></i></a>
+                    <a href="{{ path("bus_simple") }}">{% trans %}Nos Bus{% endtrans %}<i class="fa fa-angle-down"></i></a>
                     <ul class="mega_menu center_me">
                       <li>
                         <a href="{{ path("bus_mini") }}">
-                          <sub>Mini Bus</sub><br />
-                          <img src="{{ asset('build/images/mini-bus.png') }}" alt="" data-toggle="tooltip" data-placement="top" data-original-title="Mini Bus">
+                          <sub>{% trans %}Mini Bus{% endtrans %}</sub><br />
+                          <img src="{{ asset('build/images/mini-bus.png') }}" alt="" data-toggle="tooltip" data-placement="top" data-original-title="{% trans %}Mini Bus{% endtrans %}"">
                           <sup> <i class="fa fa-arrows-h"></i> 7m - <i class="fa fa-user"></i> 9</sup>
                         </a>
                         <ul>
@@ -46,8 +143,8 @@
                       </li>
                       <li>
                         <a href="{{ path('bus_simple')}}">
-                          <sub>Simple Bus</sub><br />
-                          <img src="{{ asset('build/images/simple-bus.png') }}" alt="" data-toggle="tooltip" data-placement="top" data-original-title="Simples Bus">
+                          <sub>{% trans %}Simple Bus{% endtrans %}"</sub><br />
+                          <img src="{{ asset('build/images/simple-bus.png') }}" alt="" data-toggle="tooltip" data-placement="top" data-original-title="{% trans %}Simples Bus{% endtrans %}"">
                           <sup> <i class="fa fa-arrows-h"></i> 12m - <i class="fa fa-user"></i> 30</sup>
                         </a>
                         <ul>
@@ -59,8 +156,8 @@
                         </ul>
                       </li>
                       <li><a href="{{ path("bus_double") }}">
-                          <sub>Double Bus</sub><br />
-                          <img src="{{ asset('build/images/double-bus.png') }}" alt="" data-toggle="tooltip" data-placement="top" data-original-title="Doubles Bus">
+                          <sub>{% trans %}Double Bus{% endtrans %}"</sub><br />
+                          <img src="{{ asset('build/images/double-bus.png') }}" alt="" data-toggle="tooltip" data-placement="top" data-original-title="{% trans %}Doubles Bus{% endtrans %}"">
                           <sup> <i class="fa fa-arrows-h"></i> 18m - <i class="fa fa-user"></i> 65</sup>
                         </a>
                         <ul>
@@ -73,31 +170,26 @@
                     </ul>
                   </li>
                   <li>
-                    <a href="{{ path("tarifs") }}">Tarifs</a>
+                    <a href="{{ path("tarifs") }}">{% trans %}Tarifs{% endtrans %}</a>
                   </li>
                   <li>
-                    <a href="{{ path("services") }}">Services<i class="fa fa-angle-down"></i></a>
+                    <a href="{{ path("services") }}">{% trans %}Services{% endtrans %}<i class="fa fa-angle-down"></i></a>
                     <ul class="sub_menu">
-                      <li><a href="{{ path("services_inclus") }}">Services inclus</a></li>
-                      <li><a href="{{ path("services_option") }}">Services en option</a></li>
+                      <li><a href="{{ path("services_inclus") }}">{% trans %}Services inclus{% endtrans %}</a></li>
+                      <li><a href="{{ path("services_option") }}">{% trans %}Services en option{% endtrans %}</a></li>
                     </ul>
                   </li>
                   <li>
-                    <a href="{{ path("qui_sommes_nous") }}">Concurrence<i class="fa fa-angle-down"></i></a>
-                    <ul class="sub_menu">
-                      <li><a href="{{ path("qui_sommes_nous") }}">Qui sommes-nous ?</a></li>
-                      <li><a href="{{ path("qui_sont_ils") }}">Qui sont-ils ?</a></li>
-                      <li><a href="{{ path("comparer") }}">Comparer</a></li>
-                    </ul>
+                    <a href="{{ path("news") }}">{% trans %}Nouveautés{% endtrans %}</a>
+                  </li>
+                  <li>
+                    <a href="{{ path("comparer") }}">{% trans %}Comparer{% endtrans %}</a>
                   </li>
                   {#
                   <li>
-                    <a href="{{ path("communique") }}">Communiqué</a>
+                    <a href="{{ path("communique") }}">{% trans %}Communiqué{% endtrans %}</a>
                   </li>
                   #}
-                  <li>
-                    <a href="{{ path("news") }}">Nouveautés</a>
-                  </li>
                 </ul>
               </nav>
             </div>

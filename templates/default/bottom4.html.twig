@@ -1,0 +1,26 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+    <div class="about_section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12">
+                    <div class="about_content" style="border: dashed 1px #CCC; padding: 3em;">
+                        <h1>{% trans %}Le parc de discobus{% endtrans %}</h1>
+                        <h2>{% trans %}de busdiscotheque.com{% endtrans %}</h2>
+                        <p>
+                            {% trans %}Notre parc de disco bus est composé de 12 modèles de bus discotheque avec des capacités allant de 1 à 75 personnes pour organiser à bord vos soirée bus à Paris.{% endtrans %}
+                            {% trans %}Dans le détail nous possédons 4 mini bus-discothèque de 09 personnes, 4 grands bus-disco de 34 personnes, 4 très grands double discobus de 65 personnes pour organiser votre soirée bus à Paris.{% endtrans %}
+                            {% trans %}Nous possédons 3 bus discotheque capable de venir vous chercher chez vous, en banlieue parisienne au besoin, pour votre soirée bus et vous redéposer en toute sécurité chez vous. Nous sommes la seule compagnie de location de discobus à Paris capable d’organiser cela pour vous.{% endtrans %}
+                            {% trans %}Entièrement privatisés, nos busdisco sont capables d’accueillir jusqu’à 75 personnes et nous pouvons transporter jusqu’à 700 personnes simultanément.{% endtrans %}
+                            {% trans %}Busdiscotheque.com est la seule compagnie de location de bus boite de nuit sur Paris capable de mettre à votre disposition un discobus de secours en cas de soucis technique, mécanique ou autres dans les 45 minutes qui suivent le problème.{% endtrans %}
+                            {% trans %}Ni soirée bus, party bus, ou pire encore  all night bus  et Stan et Walter qui sont en pannes tous les 3 jours ne sont capables de vous offrir ce service car ils ne possèdent tous qu’un seul bus.{% endtrans %}
+                        </p>
+                    </div>
+                    <div class="about_thumb">
+                        <img src="{{ asset('build/images/slider/slider' ~ random(1, 5) ~ '.jpg') }}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

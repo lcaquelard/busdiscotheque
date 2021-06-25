@@ -1,0 +1,27 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+    <div class="about_section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12">
+                    <div class="about_content" style="border: dashed 1px #CCC; padding: 3em;">
+                        <h1>{% trans %}Location de bus boite de nuit{% endtrans %}</h1>
+                        <h2>{% trans %}Notre expérience à Paris{% endtrans %}</h2>
+                        <p>
+                            {% trans %}<b>Bus discotheque</b> est l’inventeur du concept de location de discobus ou busdisco ou plus simplement de location de bus boite de nuit pour tous vos évènements à Paris. Voila pourquoi soirée bus, ou party bus ou stanandwalter ou encore all night bus nous copient sans cesse et communique au quotidien sur notre marque busdiscotheque.com
+                            Bus-discotheque est présent sur le marché des discobus depuis plus de 10 ans.{% endtrans %}
+                            <a href="https://www.busdicotheque.com" title="{% trans %}Retour l'accueil Bus Discothèque{% endtrans %}"> Busdiscotheque.com </a>
+                            {% trans %}avec ses 12 bus festifs organise chaque année des centaines de soirée-bus à Paris, pour les particuliers comme pour les professionnels, pour des bars mitzvah, bat mitzvah, ou tous autres évènements.{% endtrans %}
+                            {% trans %}Ainsi toutes les plus grandes marques de luxe tel que Dior, Channel, Louis Vuitton, Chopard, Lancaster ou encore les plus grands hôtels, Le Meurice, Le plaza Athénee etc.. ou encore les plus grandes chaines Canal +, M6, C8, France 2, Rmc, etc… les plus grandes radios, Fg, RFM, RMC,etc… mais aussi les plus grandes stars, Usain Bolt, Ari Abbitan, Cyril Hannounah, David Guetta, l’équipe du PSG, Mr V,Omar Sy  etc….ont fait appel à nos services pour louer des discobus.{% endtrans %}
+                            {% trans %}A ceci vous pouvez ajouter que busdiscotheque.com est  jusqu’à 96 % moins cher que la concurrence sans jamais lésiner sur la qualité de nos services, ni sur la qualité d’aménagement de nos véhicules.{% endtrans %}
+                            {% trans %}Les équipes de busdiscotheque.com se compose de 25 chauffeurs, 17 DJ, 15 bar man et hôtesses quand chez Party bus, soirée bus, all night bus c’est toujours le mari qui prend le volant et la femme qui assure le service au bar.{% endtrans %}
+                        </p>
+                    </div>
+                    <div class="about_thumb">
+                        <img src="{{ asset('build/images/slider/slider' ~ random(1, 5) ~ '.jpg') }}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

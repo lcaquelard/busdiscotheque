@@ -8,24 +8,32 @@
 %}
 
 {% extends 'default/nos_bus.html.twig' %}
+{% block head_message %}
+    <p>
+        {% trans %}
+            « Des mini bus disco de la gamme de <a href="https://www.puddy-b.com">Puddy-B</a>.<br>
+            Une innovation de bus discotheque Paris, des <a href="https://www.puddy-b.com">mini bus karaoké</a> pour des groupes restreints jusqu’à 9 invités avec tout le confort nécessaire, bar, toilettes, écrans plats, réfrigérateur et le tout pour un prix mini à partir de 290 €uros.
+        {% endtrans %}
+    </p>
+{% endblock %}
 {% block bus_row %}
     {% for bus in mini %}
         <div class="col-lg-3 col-md-3 col-sm-4">
             <div class="single_product {% if selected == bus.name %}selected{% endif %}">
                 <div class="product_thumb">
-                    <img class="primary_img" data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord" src="{{ asset('build/images/bus/mini/' ~ bus.name ~ '/prod1.jpg') }}" alt="photo du bus {{ bus.label }}"/>
-                    <img class="secondary_img" data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord" src="{{ asset('build/images/bus/mini/' ~ bus.name ~ '/prod2.jpg') }}" alt="photo du bus {{ bus.label }}"/>
+                    <img class="primary_img" data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="{% trans %}Voir les Options à Bord{% endtrans %}" src="{{ asset('build/images/bus/mini/' ~ bus.name ~ '/prod1.jpg') }}" alt="{% trans %}photo du bus{% endtrans %}" {{ bus.label }}"/>
+                    <img class="secondary_img" data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="{% trans %}Voir les Options à Bord{% endtrans %}" src="{{ asset('build/images/bus/mini/' ~ bus.name ~ '/prod2.jpg') }}" alt="{% trans %}photo du bus{% endtrans %}" {{ bus.label }}"/>
                     <div class="quick_button">
-                        <span data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord">Découvrir</span>
+                        <span data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="{% trans %}Voir les Options à Bord{% endtrans %}">{% trans %}Découvrir{% endtrans %}</span>
                     </div>
                 </div>
                 <div class="product_content">
                     <div class="tag_cate">
-                        <span class="shine" data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord">Espace optimisé</span>
+                        <span class="shine" data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="{% trans %}Voir les Options à Bord{% endtrans %}">{% trans %}Espace optimisé{% endtrans %}</span>
                     </div>
-                    <h3 class="shine bus_name" data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="Voir les Options à Bord">{{ bus.label }}</h3>
+                    <h3 class="shine bus_name" data-toggle="modal" data-target="#modal-bus" data-placement="top" data-original-title="{% trans %}Voir les Options à Bord{% endtrans %}">{{ bus.label }}</h3>
                     <div class="bottom_box">
-                        <span class="capacity">jusqu'à <span class="highlight">9 pers.</span></span>
+                        <span class="capacity">{% trans %}jusqu'à <span class="highlight">9 pers.</span>{% endtrans %}</span>
                     </div>
                     <div class="product_hover">
                         <div class="product_ratings">
@@ -39,13 +47,13 @@
                         </div>
                         <div class="product_desc">
                             <p>
-                                <span class="bus-length">Minibus de 7m</span>
+                                <span class="bus-length">{% trans %}Minibus de 7m{% endtrans %}</span>
                             </p>
                         </div>
                         <div class="action_links">
                             <ul>
-                                <li class="add_to_cart"><a href="{{ path('tarifs')}}" title="Tarif minibus discothèque à Paris">Tarifs</a></li>
-                                <li class="add_to_cart"><a href="{{ path('reservation') }}" title="Réserver minibus discothèque à Paris">Réserver</a></li>
+                                <li class="add_to_cart"><a href="{{ path('tarifs')}}" title="{% trans %}Tarif minibus discothèque à Paris{% endtrans %}">{% trans %}Tarifs{% endtrans %}</a></li>
+                                <li class="add_to_cart"><a href="{{ path('reservation') }}" title="{% trans %}Réserver minibus discothèque à Paris{% endtrans %}">{% trans %}Réserver{% endtrans %}</a></li>
                             </ul>
                         </div>
                     </div>

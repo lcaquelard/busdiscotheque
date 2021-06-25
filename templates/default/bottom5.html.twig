@@ -1,0 +1,22 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+    <div class="about_section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12">
+                    <div class="about_content" style="border: dashed 1px #CCC; padding: 3em;">
+                        <h1>{% trans %}L'experience a vivre a bord{% endtrans %}</h1>
+                        <h2>{% trans %}d'un de nos discobus{% endtrans %}</h2>
+                        <p>
+                            {% trans %}Le concept même de location de bus boite de nuit inventée par busdiscotheque.com qui consiste en une visite festive à travers les rues de la capital est à lui seul éblouissant. Comment ne pas s’émerveiller à bord de nos bus disco avec de la musique en visitant les rues de Paris et ceci sous les yeux des autres usagers de la route ou même piétons.{% endtrans %}
+                            {% trans %}A ceci il faut ajouter que vous pouvez demander à nos chauffeurs à bord de nos discobus de faire les haltes sur les belles places parisienne pour une pause et ainsi discuter et échanger avec vos invités, amis, ou proches.{% endtrans %}
+                        </p>
+                    </div>
+                    <div class="about_thumb">
+                        <img src="{{ asset('build/images/slider/slider' ~ random(1, 5) ~ '.jpg') }}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

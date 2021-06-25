@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="fr" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="cR5fLhm" resname="Fermer">
+        <source>Fermer</source>
+        <target>Close</target>
+      </trans-unit>
+      <trans-unit id="yx6rfI_" resname="Au vue de la situation sanitaire actuelle">
+        <source>Au vue de la situation sanitaire actuelle</source>
+        <target>Au vu de la situation sanitaire actuelle</target>
+      </trans-unit>
+      <trans-unit id="D4nODN3" resname="Notre équipe est en télétravail de ce fait nous restons joignable au 06 58 31 18 77 du lundi au vendredi. Merci et prenez soin de vous.">
+        <source>Notre équipe est en télétravail de ce fait nous restons joignable au 06 58 31 18 77 du lundi au vendredi. Merci et prenez soin de vous.</source>
+        <target>Notre équipe est en télétravail de ce fait nous restons joignable au 06 58 31 18 77 du lundi au vendredi. Merci et prenez soin de vous.</target>
+      </trans-unit>
+      <trans-unit id="Cd1Aj6b" resname="Article  1 - Définition  de  la  prestation  :">
+        <source>Article  1 - Définition  de  la  prestation  :</source>
+        <target>Article 1 - Definition of the service:</target>
+      </trans-unit>
+      <trans-unit id="cCqo9Jx" resname="La  prestation  comprend  le  véhicule  en  état  de  marche,  le  chauffeur  qualifié,  l´assurance  professionnelle  pour  les personnes  transportées, le carburant, les  kilomètres, le  temps selon devis, ainsi que les  options définies avec le client  (traiteur, boissons, DJ etc..). Toute unité de tarification (heure, kilomètre,) commencée est  due. Nos prix sont exprimés en EUROS et Toutes Taxes Comprises (TTC). Le forfait ne comprend pas le montant des péages et parking, les entrées dans les lieux publics. Tout retard du fait du client, entrainant un dépassement du temps d’immobilisation du véhicule lui sera automatiquement facturé et pourra être retenue sur le dépôt de garantie visé à l'article 2 ci-après.">
+        <source>La  prestation  comprend  le  véhicule  en  état  de  marche,  le  chauffeur  qualifié,  l´assurance  professionnelle  pour  les personnes  transportées, le carburant, les  kilomètres, le  temps selon devis, ainsi que les  options définies avec le client  (traiteur, boissons, DJ etc..). Toute unité de tarification (heure, kilomètre,) commencée est  due. Nos prix sont exprimés en EUROS et Toutes Taxes Comprises (TTC). Le forfait ne comprend pas le montant des péages et parking, les entrées dans les lieux publics. Tout retard du fait du client, entrainant un dépassement du temps d’immobilisation du véhicule lui sera automatiquement facturé et pourra être retenue sur le dépôt de garantie visé à l'article 2 ci-après.</source>
+        <target>The service includes the vehicle in working order, the qualified driver, the professional insurance for the people transported, the fuel, the kilometers, the time according to estimate, as well as the options defined with the customer (caterer, drinks, DJ etc.). .). Any pricing unit (hour, kilometer,) started is due. Our prices are expressed in EUROS and All Taxes Included (TTC). The package does not include the amount of tolls and parking, entrances to public places. Any delay caused by the customer, resulting in exceeding the immobilization time of the vehicle will be automatically invoiced to him and may be retained from the deposit referred to in article 2 below.</target>
+      </trans-unit>
+      <trans-unit id="MIBD9_5" resname="Article 2 -Règlement :">
+        <source>Article 2 -Règlement :</source>
+        <target>Article 2 -Regulations:</target>
+      </trans-unit>
+      <trans-unit id="clBCueZ" resname="Pour toute réservation, un acompte minimum de 300 € du montant total de la prestation, devra être versé par le Client par tous moyens à  sa  convenance à l'exception  des  paiements  par  chèque  qui  nécessite  un  délais  d'encaissement  de  seize jours au minimum.  Le  solde  du  règlement,  sauf accord de la société, peut se  faire au plus tard 96H00 avant l'évènement par virement ou en espèces dans nos bureaux, 72H00 avant l'événement par CB sur le site internet. En l'absence de paiement du solde dans les conditions ci dessus défini, la société se réserve le droit d'annulé la prestation sans réclamation possible du client. Toute réservation effectuée moins de 15 jours avant la date de l'évènement devra faire l'objet d'un règlement intégral. Dans tous les cas, le commanditaire de la prestation demandée et signataire du bon de commande et ou son garant sont seul responsable du paiement en cas de défaillance de l'utilisateur. Tout dépassement de la durée de l'évènement à la demande du Client ou du fait du Client, doit être autorisée par la société et donne lieu au règlement du prix afférent, tout retard du fait du client ayant généré du  temps supplémentaire d’immobilisation sera  facturé au client. Un dépôt de garantie de 2000 (deux mille) euros au nom du Client ou son garant est exigé avant toute prestation par tout moyen à sa convenance pour garantir les éventuels impayés et/ou casses. Ce dépôt de garantie sera remis au client à la fin de la prestation en l'absence de dégâts éventuels et à la condition d'un paiement intégrale de la prestation par le client ou son garant avant la fin de l'évènement. A  défaut la  caution  sera  conservée et  ne  sera  restituée  qu'après  paiement  du  solde  de la  prestation et  ou  des éventuelles  détériorations survenus à  bord  du  fait  du  client et  ou  de  ses invités.  En l'absence  de  règlement  sous  7 jours  sauf accord expresse  de la  société la  caution  sera encaissée et les  frais de gestion seront imputés au client et o u à s o n commanditaire. Un état des lieux contradictoire de l'état intérieur du véhicule sera effectué avant et après l'évènement en présence du locataire, ainsi qu'un datage de l'heure d'arrivée et de départ.">
+        <source>Pour toute réservation, un acompte minimum de 300 € du montant total de la prestation, devra être versé par le Client par tous moyens à  sa  convenance à l'exception  des  paiements  par  chèque  qui  nécessite  un  délais  d'encaissement  de  seize jours au minimum.  Le  solde  du  règlement,  sauf accord de la société, peut se  faire au plus tard 96H00 avant l'évènement par virement ou en espèces dans nos bureaux, 72H00 avant l'événement par CB sur le site internet. En l'absence de paiement du solde dans les conditions ci dessus défini, la société se réserve le droit d'annulé la prestation sans réclamation possible du client. Toute réservation effectuée moins de 15 jours avant la date de l'évènement devra faire l'objet d'un règlement intégral. Dans tous les cas, le commanditaire de la prestation demandée et signataire du bon de commande et ou son garant sont seul responsable du paiement en cas de défaillance de l'utilisateur. Tout dépassement de la durée de l'évènement à la demande du Client ou du fait du Client, doit être autorisée par la société et donne lieu au règlement du prix afférent, tout retard du fait du client ayant généré du  temps supplémentaire d’immobilisation sera  facturé au client. Un dépôt de garantie de 2000 (deux mille) euros au nom du Client ou son garant est exigé avant toute prestation par tout moyen à sa convenance pour garantir les éventuels impayés et/ou casses. Ce dépôt de garantie sera remis au client à la fin de la prestation en l'absence de dégâts éventuels et à la condition d'un paiement intégrale de la prestation par le client ou son garant avant la fin de l'évènement. A  défaut la  caution  sera  conservée et  ne  sera  restituée  qu'après  paiement  du  solde  de la  prestation et  ou  des éventuelles  détériorations survenus à  bord  du  fait  du  client et  ou  de  ses invités.  En l'absence  de  règlement  sous  7 jours  sauf accord expresse  de la  société la  caution  sera encaissée et les  frais de gestion seront imputés au client et o u à s o n commanditaire. Un état des lieux contradictoire de l'état intérieur du véhicule sera effectué avant et après l'évènement en présence du locataire, ainsi qu'un datage de l'heure d'arrivée et de départ.</source>
+        <target>For any reservation, a minimum deposit of 300 € of the total amount of the service, must be paid by the Customer by any means at his convenience with the exception of payments by check which requires a collection period of at least sixteen days. The balance of the payment, unless agreed by the company, can be made at the latest 96 hours before the event by bank transfer or in cash in our offices, 72 hours before the event by credit card on the website. In the absence of payment of the balance under the conditions defined above, the company reserves the right to cancel the service without possible complaint from the customer. Any reservation made less than 15 days before the date of the event must be paid in full. In all cases, the sponsor of the requested service and signatory of the order form and or its guarantor are solely responsible for payment in the event of default by the user. Any exceeding of the duration of the event at the request of the Client or because of the Client, must be authorized by the company and gives rise to the settlement of the related price, any delay due to the client having generated additional downtime will be billed to the customer. A security deposit of 2000 (two thousand) euros in the name of the Customer or his guarantor is required before any service by any means at his convenience to guarantee any unpaid and / or breakages. This deposit will be given to the customer at the end of the service in the absence of any damage and on the condition of full payment of the service by the customer or his guarantor before the end of the event. Otherwise, the deposit will be kept and will not be returned until payment of the balance of the service and or any damage occurring on board as a result of the customer and or his guests. In the absence of payment within 7 days unless expressly agreed by the company, the deposit will be cashed and the management fees will be charged to the client and to its sponsor. A contradictory inventory of the interior condition of the vehicle will be made before and after the event in the presence of the tenant, as well as a date of arrival and departure.</target>
+      </trans-unit>
+      <trans-unit id="ij8iu0T" resname="Article 3 - Désistement :">
+        <source>Article 3 - Désistement :</source>
+        <target>Article 3 - Disclaimer:</target>
+      </trans-unit>
+      <trans-unit id="MTWnAx3" resname="Tout désistement du fait du client d´une réservation effectuée, quel qu'en soit la cause, entraîne la perte de l´acompte à  titre d´indemnité  forfaitaire et irréductible l'acompte versé ne pourra pas être reporté sur une date ultérieure. Les réservations non annulées trente (30) jours jours avant le départ garage du véhicule, ou l'absence du client à la prise en charge, seront facturées intégralement et ne pourront pas être reportées à une date ultérieure.">
+        <source>Tout désistement du fait du client d´une réservation effectuée, quel qu'en soit la cause, entraîne la perte de l´acompte à  titre d´indemnité  forfaitaire et irréductible l'acompte versé ne pourra pas être reporté sur une date ultérieure. Les réservations non annulées trente (30) jours jours avant le départ garage du véhicule, ou l'absence du client à la prise en charge, seront facturées intégralement et ne pourront pas être reportées à une date ultérieure.</source>
+        <target>Any withdrawal by the customer of a reservation made, whatever the cause, results in the loss of the deposit as a lump sum and irreducible the deposit paid may not be postponed to a later date. Reservations not canceled thirty (30) days days before the departure of the vehicle garage, or the absence of the customer to take charge, will be billed in full and cannot be postponed to a later date.</target>
+      </trans-unit>
+      <trans-unit id="QrCvbGt" resname="Article 4 - Indisponibilité du véhicule :">
+        <source>Article 4 - Indisponibilité du véhicule :</source>
+        <target>Article 4 - Indisponibilité du véhicule :</target>
+      </trans-unit>
+      <trans-unit id="86.cBbb" resname="Dans le cas ou Fla société ne peut mettre à disposition le véhicule prévu dans le contrat, ou un autre véhicule avec les même équipements, les sommes déjà versées seront intégralement remboursées sans  recours ni indemnité. Toutefois l´acompte sera conservé si les deux parties s´entendent sur la mise à disposition d´un autre véhicule ou du même véhicule à une date ultérieure. En cas de panne ou accident ou tout autre incident du fait de la société au cours de la prestation, le temps d’immobilisation du véhicule sera prolongé d’autant pour le client sans qu’aucun autre dédommagement ne puisse être réclamé par le client. En cas de seconde location rendant impossible  la  prolongation  de  la  mise  a  disposition  du  véhicule  en  guise  de  compensation,  une  indemnité  forfaitaire  de  dix poucent (10%)  du  montant  de la prestation  hors  taxe  du  véhicule  à  l’exception  de  toutes  autres  options  sera  offerte  au  client  en  guise  de  dédommagement  total  sans  autre  recours  ni indemnité pour le préjudice éventuel causé.">
+        <source>Dans le cas ou Fla société ne peut mettre à disposition le véhicule prévu dans le contrat, ou un autre véhicule avec les même équipements, les sommes déjà versées seront intégralement remboursées sans  recours ni indemnité. Toutefois l´acompte sera conservé si les deux parties s´entendent sur la mise à disposition d´un autre véhicule ou du même véhicule à une date ultérieure. En cas de panne ou accident ou tout autre incident du fait de la société au cours de la prestation, le temps d’immobilisation du véhicule sera prolongé d’autant pour le client sans qu’aucun autre dédommagement ne puisse être réclamé par le client. En cas de seconde location rendant impossible  la  prolongation  de  la  mise  a  disposition  du  véhicule  en  guise  de  compensation,  une  indemnité  forfaitaire  de  dix poucent (10%)  du  montant  de la prestation  hors  taxe  du  véhicule  à  l’exception  de  toutes  autres  options  sera  offerte  au  client  en  guise  de  dédommagement  total  sans  autre  recours  ni indemnité pour le préjudice éventuel causé.</source>
+        <target>In the event that the company cannot provide the vehicle provided for in the contract, or another vehicle with the same equipment, the sums already paid will be fully reimbursed without recourse or compensation. However, the deposit will be kept if the two parties agree on the provision of another vehicle or the same vehicle at a later date. In the event of a breakdown or accident or any other incident caused by the company during the service, the immobilization time of the vehicle will be extended especially for the client without any other compensation being claimed by the client. In the event of a second rental making it impossible to extend the provision of the vehicle as compensation, a lump sum compensation of ten percent (10%) of the amount of the service excluding tax of the vehicle with the exception of all other options will be offered to the customer as full compensation without further recourse or compensation for any damage caused.</target>
+      </trans-unit>
+      <trans-unit id="h03orDL" resname="Article 5 - Sécurité et dégradations :">
+        <source>Article 5 - Sécurité et dégradations :</source>
+        <target>Article 5 - Security and degradations:</target>
+      </trans-unit>
+      <trans-unit id="eiNVQk5" resname="Le Client est informé  que le  chauffeur  se  doit  de  respecter le  code  de la  route.  Il lui est interdit  d´enfreindre  celui-ci (limitation  de  vitesse,  sens  interdit)  même  à  la  demande  du  client,  dont  il  ne  peut  recevoir  aucune  instruction.  En  cas  de  dégradation  de  l´équipement intérieur ou autres dommages infligés au véhicule ou d´autres véhicules, par exemple lors de l´ouverture intempestive des portières, les dégâts causés seront entièrement à la charge du client. Seul le chauffeur à la faculté d'ouvrir et fermer les portes. Il est interdit de fumer à l´intérieur des véhicules; le chauffeur a pour consigne de s´arrêter (dans les conditions de sécurité et sans que cela soit un gène pour la circulation et ou habitation) pour permettre aux fumeurs de se  détendre  s´ils  le  souhaitent. Les  barres  de maintient  à  bord  du  véhicule servent aux  déplacements  des  voyageurs en  aucun  cas  elles  ne  peuvent être utilisés comme supports de pool dance. Si le personnel à bord observe que le client et/ou l'un des passagers commet une infraction ou bien se révèle être dans un état physique ou mental incompatible avec le déroulement serein de l'évènement ou avec le respect des conditions de sécurité et/ou d'hygiène des autres passagers et/ou de l'évènement, il a pour consigne d´arrêter immédiatement la prestation en cours. Cet arrêt ne donnera en aucun cas le droit au remboursement  de  cette  prestation,  quelque  soit  le  temps  écoulé  depuis  le  début  de  l'évènement.  Aucun  animal  ne  sera  accepté  dans  nos  véhicules. L'itinéraire du bus est décidé par la société, qui en aura préalablement défini les modalités avec le Client. Le chauffeur ne se détournera pas de cet itinéraire  et  ne  peut  recevoir  de  consigne  du  client  en  ce  sens.  Le  client  et les  passagers  demeurent  dans  tous les  cas  seuls  responsables  de leurs  effets personnels. La société ne peut être tenue responsable de disparition d'objets du client ou de ses invités.">
+        <source>Le Client est informé  que le  chauffeur  se  doit  de  respecter le  code  de la  route.  Il lui est interdit  d´enfreindre  celui-ci (limitation  de  vitesse,  sens  interdit)  même  à  la  demande  du  client,  dont  il  ne  peut  recevoir  aucune  instruction.  En  cas  de  dégradation  de  l´équipement intérieur ou autres dommages infligés au véhicule ou d´autres véhicules, par exemple lors de l´ouverture intempestive des portières, les dégâts causés seront entièrement à la charge du client. Seul le chauffeur à la faculté d'ouvrir et fermer les portes. Il est interdit de fumer à l´intérieur des véhicules; le chauffeur a pour consigne de s´arrêter (dans les conditions de sécurité et sans que cela soit un gène pour la circulation et ou habitation) pour permettre aux fumeurs de se  détendre  s´ils  le  souhaitent. Les  barres  de maintient  à  bord  du  véhicule servent aux  déplacements  des  voyageurs en  aucun  cas  elles  ne  peuvent être utilisés comme supports de pool dance. Si le personnel à bord observe que le client et/ou l'un des passagers commet une infraction ou bien se révèle être dans un état physique ou mental incompatible avec le déroulement serein de l'évènement ou avec le respect des conditions de sécurité et/ou d'hygiène des autres passagers et/ou de l'évènement, il a pour consigne d´arrêter immédiatement la prestation en cours. Cet arrêt ne donnera en aucun cas le droit au remboursement  de  cette  prestation,  quelque  soit  le  temps  écoulé  depuis  le  début  de  l'évènement.  Aucun  animal  ne  sera  accepté  dans  nos  véhicules. L'itinéraire du bus est décidé par la société, qui en aura préalablement défini les modalités avec le Client. Le chauffeur ne se détournera pas de cet itinéraire  et  ne  peut  recevoir  de  consigne  du  client  en  ce  sens.  Le  client  et les  passagers  demeurent  dans  tous les  cas  seuls  responsables  de leurs  effets personnels. La société ne peut être tenue responsable de disparition d'objets du client ou de ses invités.</source>
+        <target>The Customer is informed that the driver must respect the highway code. He is forbidden to infringe it (speed limit, prohibited direction) even at the request of the customer, from whom he cannot receive any instructions. In case of deterioration of the interior equipment or other damage inflicted on the vehicle or other vehicles, for example during the untimely opening of the doors, the damage caused will be entirely borne by the customer. Only the driver can open and close the doors. Smoking is not allowed inside vehicles; the driver is instructed to stop (in safety conditions and without this being a nuisance for traffic and or housing) to allow smokers to relax if they wish. The grab bars on board the vehicle are used for the movement of travelers under no circumstances can they be used as pool dance supports. If the personnel on board observes that the client and / or one of the passengers commits an offense or turns out to be in a physical or mental state incompatible with the serene course of the event or with the respect of safety conditions and / or the hygiene of other passengers and / or the event, he is instructed to immediately stop the service in progress. This judgment will in no case give the right to reimbursement of this service, regardless of the time elapsed since the start of the event. No animal will be accepted in our vehicles. The bus route is decided by the company, which will have previously defined the terms with the Customer. The driver will not deviate from this route and cannot receive instructions from the client to this effect. In all cases, the customer and the passengers remain solely responsible for their personal effects. The company cannot be held responsible for the disappearance of objects from the client or his guests.</target>
+      </trans-unit>
+      <trans-unit id="PcBqo86" resname="Article 6 - Apport de(s) boisson(s), mise en bouche et vente à l'intérieur du véhicule :">
+        <source>Article 6 - Apport de(s) boisson(s), mise en bouche et vente à l'intérieur du véhicule :</source>
+        <target>Article 6 - Supply of drink (s), appetizers and sale inside the vehicle:</target>
+      </trans-unit>
+      <trans-unit id="jbksqtD" resname="La société autorise l'apport de boisson et de mise en bouche destiné à la consommation personnelle uniquement des passagers. Toutefois la distribution des boissons alcoolisées (bière et champagne) est effectuée seule par le barman si présent. La vente de ces produits et plus particulièrement la vente d'alcool sous quelques formes que ce soit est strictement interdite. La société se réserve le droit de cesser la prestation sur le champs en cas de non respect de cette interdiction quelque soit le temps écoulé depuis le début de l'évènement sans aucun remboursement ni demande de préjudice pour le client. Dans le cas de contrôle effectué par les autorités le locataire est seul responsable. Les boissons alcoolisées autorisées à bord du véhicule sont uniquement et sans exception les bières en canette (maximum de 33 cl) et bouteille de champagne (maximum de 75 cl), les vins ainsi que toutes les boissons softs tel que eau, jus, coca, fanta etc.. en bouteille plastique. Le réapprovisionnement en boissons alcoolisées est strictement interdit une fois la prestation commencée. Le personnel de la société cessera immédiatement la prestation en cas de non respect de cette interdiction quelque soit le temps écoulé depuis le début de l'évènement sans aucun remboursement ni demande de préjudice.">
+        <source>La société autorise l'apport de boisson et de mise en bouche destiné à la consommation personnelle uniquement des passagers. Toutefois la distribution des boissons alcoolisées (bière et champagne) est effectuée seule par le barman si présent. La vente de ces produits et plus particulièrement la vente d'alcool sous quelques formes que ce soit est strictement interdite. La société se réserve le droit de cesser la prestation sur le champs en cas de non respect de cette interdiction quelque soit le temps écoulé depuis le début de l'évènement sans aucun remboursement ni demande de préjudice pour le client. Dans le cas de contrôle effectué par les autorités le locataire est seul responsable. Les boissons alcoolisées autorisées à bord du véhicule sont uniquement et sans exception les bières en canette (maximum de 33 cl) et bouteille de champagne (maximum de 75 cl), les vins ainsi que toutes les boissons softs tel que eau, jus, coca, fanta etc.. en bouteille plastique. Le réapprovisionnement en boissons alcoolisées est strictement interdit une fois la prestation commencée. Le personnel de la société cessera immédiatement la prestation en cas de non respect de cette interdiction quelque soit le temps écoulé depuis le début de l'évènement sans aucun remboursement ni demande de préjudice.</source>
+        <target>The company authorizes the intake of drinks and appetizers intended for the personal consumption only of passengers. However, the distribution of alcoholic beverages (beer and champagne) is carried out alone by the barman if present. The sale of these products and more particularly the sale of alcohol in any form whatsoever is strictly prohibited. The company reserves the right to stop providing services on the spot in the event of non-compliance with this prohibition, regardless of the time elapsed since the start of the event, without any refund or claim for damage to the client. In the case of control carried out by the authorities, the tenant is solely responsible. The alcoholic drinks authorized on board the vehicle are only and without exception beers in cans (maximum of 33 cl) and bottle of champagne (maximum of 75 cl), wines as well as all soft drinks such as water, juice, coke, fanta etc ... in plastic bottle. Replenishment of alcoholic beverages is strictly prohibited once the service has started. The staff of the company will immediately cease the service in the event of non-compliance with this prohibition whatever the time elapsed since the start of the event without any refund or claim for damage.</target>
+      </trans-unit>
+      <trans-unit id="x0PCgoe" resname="Article 7 – Accessoire à bord du véhicule :">
+        <source>Article 7 – Accessoire à bord du véhicule :</source>
+        <target>Article 7 - Accessory on board the vehicle:</target>
+      </trans-unit>
+      <trans-unit id="E.9beHh" resname="Les télés et afficheur de message à bord du véhicule correspondent à des accessoires et ne représentent pas un élément indissociable  de  la  prestation.  Ils  sont  soumis  à  de  très  fortes  perturbations,  malgré  toute  notre  vigilance  et  nos  contrôles  permanents  une défaillance  de  ces  derniers  n’est  pas impossible. De  ce  fait, en  cas  d’impossibilité  de mise à  disposition  de  ces  derniers aucun  dédommagement  ni aucun recours ne peut être demandé et ou engagé par l e c l i e n t.">
+        <source>Les télés et afficheur de message à bord du véhicule correspondent à des accessoires et ne représentent pas un élément indissociable  de  la  prestation.  Ils  sont  soumis  à  de  très  fortes  perturbations,  malgré  toute  notre  vigilance  et  nos  contrôles  permanents  une défaillance  de  ces  derniers  n’est  pas impossible. De  ce  fait, en  cas  d’impossibilité  de mise à  disposition  de  ces  derniers aucun  dédommagement  ni aucun recours ne peut être demandé et ou engagé par l e c l i e n t.</source>
+        <target>The TVs and message displays on board the vehicle correspond to accessories and do not represent an inseparable element of the service. They are subject to very strong disruptions, despite all our vigilance and our permanent controls a failure of the latter is not impossible. Therefore, in the event that it is impossible to make these available, no compensation or recourse can be requested and or initiated by the client.</target>
+      </trans-unit>
+      <trans-unit id="okSDnV7" resname="Article 8 - Propriétés Intellectuelle :">
+        <source>Article 8 - Propriétés Intellectuelle :</source>
+        <target>Article 8 - Intellectual Properties:</target>
+      </trans-unit>
+      <trans-unit id="MIT75jw" resname="Si la location du véhicule s'accompagne de la reproduction d'affichage publicitaire sur le bus de quelque manière que ce soit (flocage..), le Client répondra seul de toute mise en oeuvre de responsabilité décidée par un tiers pour utilisation contrefaisante de logos, marques ou modèles .La société ne pouvant en aucun cas être tenue responsable, le Client garantira la société de toute condamnation éventuelle.">
+        <source>Si la location du véhicule s'accompagne de la reproduction d'affichage publicitaire sur le bus de quelque manière que ce soit (flocage..), le Client répondra seul de toute mise en oeuvre de responsabilité décidée par un tiers pour utilisation contrefaisante de logos, marques ou modèles .La société ne pouvant en aucun cas être tenue responsable, le Client garantira la société de toute condamnation éventuelle.</source>
+        <target>If the rental of the vehicle is accompanied by the reproduction of advertising displays on the bus in any way whatsoever (flocking, etc.), the Customer will be solely responsible for any implementation of liability decided by a third party for infringing use of logos , brands or models. The company can in no way be held responsible, the Customer will guarantee the company of any possible conviction.</target>
+      </trans-unit>
+      <trans-unit id="b8GgyL8" resname="Article 9 - Litiges :">
+        <source>Article 9 - Litiges :</source>
+        <target>Article 9 - Disputes:</target>
+      </trans-unit>
+      <trans-unit id="aSSKhrd" resname="Tout litige pouvant naître à l'occasion des présentes sera soumis au droit français et demeurera de la compétence exclusive du tribunal de Commerce de Pontoise, sauf dispositions d'ordre public du code de procédure civile.">
+        <source>Tout litige pouvant naître à l'occasion des présentes sera soumis au droit français et demeurera de la compétence exclusive du tribunal de Commerce de Pontoise, sauf dispositions d'ordre public du code de procédure civile.</source>
+        <target>Any dispute that may arise on the occasion of these presents will be subject to French law and will remain under the exclusive jurisdiction of the Commercial Court of Pontoise, except as provided for by public order in the Code of Civil Procedure.</target>
+      </trans-unit>
+      <trans-unit id="829Bf68" resname="Bus Discothèque Paris - Sortie à Paris en discobus - Réservez dès maintenant votre événement !">
+        <source>Bus Discothèque Paris - Sortie à Paris en discobus - Réservez dès maintenant votre événement !</source>
+        <target>Bus Discothèque Paris - Sortie à Paris en discobus - Réservez dès maintenant votre événement !</target>
+      </trans-unit>
+      <trans-unit id="rHEGt5B" resname="Location de Soirée Bus">
+        <source>Location de Soirée Bus</source>
+        <target>Location de Soirée Bus</target>
+      </trans-unit>
+      <trans-unit id="jyyAkuA" resname="à Paris">
+        <source>à Paris</source>
+        <target>à Paris</target>
+      </trans-unit>
+      <trans-unit id="ayp_5bk" resname="La location de soirée bus à Paris est un concept que tous les parisiens&#10;                            connaissent. &lt;strong&gt;Busdiscotheque.com&lt;/strong&gt; est l’inventeur du concept de la location&#10;                            de bus boite de nuit.">
+        <source>La location de soirée bus à Paris est un concept que tous les parisiens
+                            connaissent. &lt;strong&gt;Busdiscotheque.com&lt;/strong&gt; est l’inventeur du concept de la location
+                            de bus boite de nuit.</source>
+        <target><![CDATA[La location de soirée bus à Paris est un concept que tous les parisiens
+                            connaissent. <strong>Busdiscotheque.com</strong> est l’inventeur du concept de la location
+                            de bus boite de nuit.]]></target>
+      </trans-unit>
+      <trans-unit id="_hUWLvV" resname="Leader incontestable et présent en tout premier avec son concept de&#10;                            discobus paris, busdiscotheque.com est à votre disposition pour organiser&#10;                            votre évènement à bord d’un de ces &lt;strong&gt;12 bus disco&lt;/strong&gt; à Paris.&#10;                            Particulier ou professionnel vous pouvez louer &lt;strong&gt;nos bus disco&lt;/strong&gt; pour tous vos&#10;                            évènements, anniversaire surprise, soirée bus disco, départ en retraite,&#10;                            transfert atypique en disco bus, bar mitzvah, bat mitzvah ou autre.&#10;                            Nos disco bus sont totalement réaménagés et pensés dans les moindres&#10;                            détails pour que vous ne manquiez de rien.">
+        <source>Leader incontestable et présent en tout premier avec son concept de
+                            discobus paris, busdiscotheque.com est à votre disposition pour organiser
+                            votre évènement à bord d’un de ces &lt;strong&gt;12 bus disco&lt;/strong&gt; à Paris.
+                            Particulier ou professionnel vous pouvez louer &lt;strong&gt;nos bus disco&lt;/strong&gt; pour tous vos
+                            évènements, anniversaire surprise, soirée bus disco, départ en retraite,
+                            transfert atypique en disco bus, bar mitzvah, bat mitzvah ou autre.
+                            Nos disco bus sont totalement réaménagés et pensés dans les moindres
+                            détails pour que vous ne manquiez de rien.</source>
+        <target><![CDATA[Leader incontestable et présent en tout premier avec son concept de
+                            discobus paris, busdiscotheque.com est à votre disposition pour organiser
+                            votre évènement à bord d’un de ces <strong>12 bus disco</strong> à Paris.
+                            Particulier ou professionnel vous pouvez louer <strong>nos bus disco</strong> pour tous vos
+                            évènements, anniversaire surprise, soirée bus disco, départ en retraite,
+                            transfert atypique en disco bus, bar mitzvah, bat mitzvah ou autre.
+                            Nos disco bus sont totalement réaménagés et pensés dans les moindres
+                            détails pour que vous ne manquiez de rien.]]></target>
+      </trans-unit>
+      <trans-unit id="xkbXIC." resname="Bar, bar libre-service, toilettes, sonorisation, écrans plats, vestiaire,&#10;                            climatisation total, chauffage total, salon, poste DJ, repose plateaux,&#10;                            supports boissons etc.. vous trouverez &lt;strong&gt;tous les services à bord de nos&#10;                                discobus.&lt;/strong&gt;">
+        <source>Bar, bar libre-service, toilettes, sonorisation, écrans plats, vestiaire,
+                            climatisation total, chauffage total, salon, poste DJ, repose plateaux,
+                            supports boissons etc.. vous trouverez &lt;strong&gt;tous les services à bord de nos
+                                discobus.&lt;/strong&gt;</source>
+        <target><![CDATA[Bar, bar libre-service, toilettes, sonorisation, écrans plats, vestiaire,
+                            climatisation total, chauffage total, salon, poste DJ, repose plateaux,
+                            supports boissons etc.. vous trouverez <strong>tous les services à bord de nos
+                                discobus.</strong>]]></target>
+      </trans-unit>
+      <trans-unit id="U3pPKdV" resname="Vous pouvez trouver tous nos &lt;strong&gt;tarifs de location de bus boite de nuit&lt;/strong&gt; ici, ou&#10;                            bien nous demander un &lt;strong&gt;devis sur mesure pour votre soirée bus&lt;/strong&gt; si vous&#10;                            avez une demande particulière concernant votre évènement à bord de l’un&#10;                            de nos &lt;strong&gt;bus discotheque paris&lt;/strong&gt;.">
+        <source>Vous pouvez trouver tous nos &lt;strong&gt;tarifs de location de bus boite de nuit&lt;/strong&gt; ici, ou
+                            bien nous demander un &lt;strong&gt;devis sur mesure pour votre soirée bus&lt;/strong&gt; si vous
+                            avez une demande particulière concernant votre évènement à bord de l’un
+                            de nos &lt;strong&gt;bus discotheque paris&lt;/strong&gt;.</source>
+        <target><![CDATA[Vous pouvez trouver tous nos <strong>tarifs de location de bus boite de nuit</strong> ici, ou
+                            bien nous demander un <strong>devis sur mesure pour votre soirée bus</strong> si vous
+                            avez une demande particulière concernant votre évènement à bord de l’un
+                            de nos <strong>bus discotheque paris</strong>.]]></target>
+      </trans-unit>
+      <trans-unit id="dbp8EIU" resname="Votre soirée bus à bord de nos bus discotheque">
+        <source>Votre soirée bus à bord de nos bus discotheque</source>
+        <target>Votre soirée bus à bord de nos bus discotheque</target>
+      </trans-unit>
+      <trans-unit id="CW4m0zS" resname="à Paris garantie">
+        <source>à Paris garantie</source>
+        <target>à Paris garantie</target>
+      </trans-unit>
+      <trans-unit id="md7s_rh" resname="Bus discothèque bien loin devant les party bus paris, soirée bus paris, stan&#10;                            et walter ou encore all night qui sont tous géré pars des simples chauffeurs&#10;                            de bus sans aucune expérience dans l’évènementiel et qui ne possèdent&#10;                            tous qu’un seul bus exploité depuis des années.">
+        <source>Bus discothèque bien loin devant les party bus paris, soirée bus paris, stan
+                            et walter ou encore all night qui sont tous géré pars des simples chauffeurs
+                            de bus sans aucune expérience dans l’évènementiel et qui ne possèdent
+                            tous qu’un seul bus exploité depuis des années.</source>
+        <target>Bus discothèque bien loin devant les party bus paris, soirée bus paris, stan
+                            et walter ou encore all night qui sont tous géré pars des simples chauffeurs
+                            de bus sans aucune expérience dans l’évènementiel et qui ne possèdent
+                            tous qu’un seul bus exploité depuis des années.</target>
+      </trans-unit>
+      <trans-unit id="vIOC83O" resname="Bus discotheque investit chaque année pour vous offrir le meilleur rapport&#10;                            qualité prix quand les party bus, soirée bus ou all night bus et stan&amp;amp;walter&#10;                            investissent uniquement dans la publicité sur nos marques discobus,&#10;                            busdisco, busdiscotheque etc…">
+        <source>Bus discotheque investit chaque année pour vous offrir le meilleur rapport
+                            qualité prix quand les party bus, soirée bus ou all night bus et stan&amp;amp;walter
+                            investissent uniquement dans la publicité sur nos marques discobus,
+                            busdisco, busdiscotheque etc…</source>
+        <target><![CDATA[Bus discotheque investit chaque année pour vous offrir le meilleur rapport
+                            qualité prix quand les party bus, soirée bus ou all night bus et stan&amp;walter
+                            investissent uniquement dans la publicité sur nos marques discobus,
+                            busdisco, busdiscotheque etc…]]></target>
+      </trans-unit>
+      <trans-unit id="bJR6lTZ" resname="Que ce soit party bus, soirée bus , all night bus ou stan et walter aucun&#10;                            n’est capable de vous proposer de la nouveauté en terme de location de&#10;                            bus boite de nuit. Ils passent tous leur temps à essayer de nous copier,&#10;                            nous imiter, sans jamais réussir.">
+        <source>Que ce soit party bus, soirée bus , all night bus ou stan et walter aucun
+                            n’est capable de vous proposer de la nouveauté en terme de location de
+                            bus boite de nuit. Ils passent tous leur temps à essayer de nous copier,
+                            nous imiter, sans jamais réussir.</source>
+        <target>Que ce soit party bus, soirée bus , all night bus ou stan et walter aucun
+                            n’est capable de vous proposer de la nouveauté en terme de location de
+                            bus boite de nuit. Ils passent tous leur temps à essayer de nous copier,
+                            nous imiter, sans jamais réussir.</target>
+      </trans-unit>
+      <trans-unit id="b_qbgQU" resname="Cette année encore afin que chacun puisse organiser sa soiree bus, nous&#10;                            recevons encore des nouveaux disco bus pour vous offrir toujours plus de&#10;                            choix dans la location de bus boite de nuit.">
+        <source>Cette année encore afin que chacun puisse organiser sa soiree bus, nous
+                            recevons encore des nouveaux disco bus pour vous offrir toujours plus de
+                            choix dans la location de bus boite de nuit.</source>
+        <target>Cette année encore afin que chacun puisse organiser sa soiree bus, nous
+                            recevons encore des nouveaux disco bus pour vous offrir toujours plus de
+                            choix dans la location de bus boite de nuit.</target>
+      </trans-unit>
+      <trans-unit id="HpwFTyy" resname="Bus discotheque vous garanti encore et toujours les meilleurs services de&#10;                            location de bus boite de nuit pour votre plus grand confort.">
+        <source>Bus discotheque vous garanti encore et toujours les meilleurs services de
+                            location de bus boite de nuit pour votre plus grand confort.</source>
+        <target>Bus discotheque vous garanti encore et toujours les meilleurs services de
+                            location de bus boite de nuit pour votre plus grand confort.</target>
+      </trans-unit>
+      <trans-unit id="FS2ENGy" resname="Avec busdiscotheque.com nous vous garantissons le meilleur rapport&#10;                            qualité prix. Votre soirée bus à bord de l’un de nos 12 disco bus vous&#10;                            coutera jusqu’à 96% moins cher que les autres sociétés qui louent des bus&#10;                            disco à Paris.">
+        <source>Avec busdiscotheque.com nous vous garantissons le meilleur rapport
+                            qualité prix. Votre soirée bus à bord de l’un de nos 12 disco bus vous
+                            coutera jusqu’à 96% moins cher que les autres sociétés qui louent des bus
+                            disco à Paris.</source>
+        <target>Avec busdiscotheque.com nous vous garantissons le meilleur rapport
+                            qualité prix. Votre soirée bus à bord de l’un de nos 12 disco bus vous
+                            coutera jusqu’à 96% moins cher que les autres sociétés qui louent des bus
+                            disco à Paris.</target>
+      </trans-unit>
+      <trans-unit id="kNoWoJp" resname="Location de bus boite de nuit">
+        <source>Location de bus boite de nuit</source>
+        <target>Location de bus boite de nuit</target>
+      </trans-unit>
+      <trans-unit id="maHLV13" resname="Notre expérience à Paris">
+        <source>Notre expérience à Paris</source>
+        <target>Notre expérience à Paris</target>
+      </trans-unit>
+      <trans-unit id="s5kcD6g" resname="&lt;b&gt;Bus discotheque&lt;/b&gt; est l’inventeur du concept de location de discobus ou busdisco ou plus simplement de location de bus boite de nuit pour tous vos évènements à Paris. Voila pourquoi soirée bus, ou party bus ou stanandwalter ou encore all night bus nous copient sans cesse et communique au quotidien sur notre marque busdiscotheque.com&#10;                            Bus-discotheque est présent sur le marché des discobus depuis plus de 10 ans.">
+        <source>&lt;b&gt;Bus discotheque&lt;/b&gt; est l’inventeur du concept de location de discobus ou busdisco ou plus simplement de location de bus boite de nuit pour tous vos évènements à Paris. Voila pourquoi soirée bus, ou party bus ou stanandwalter ou encore all night bus nous copient sans cesse et communique au quotidien sur notre marque busdiscotheque.com
+                            Bus-discotheque est présent sur le marché des discobus depuis plus de 10 ans.</source>
+        <target><![CDATA[<b>Bus discotheque</b> est l’inventeur du concept de location de discobus ou busdisco ou plus simplement de location de bus boite de nuit pour tous vos évènements à Paris. Voila pourquoi soirée bus, ou party bus ou stanandwalter ou encore all night bus nous copient sans cesse et communique au quotidien sur notre marque busdiscotheque.com
+                            Bus-discotheque est présent sur le marché des discobus depuis plus de 10 ans.]]></target>
+      </trans-unit>
+      <trans-unit id="v8snKnw" resname="Retour l'accueil Bus Discothèque">
+        <source>Retour l'accueil Bus Discothèque</source>
+        <target>Retour l'accueil Bus Discothèque</target>
+      </trans-unit>
+      <trans-unit id="YdqKp5a" resname="avec ses 12 bus festifs organise chaque année des centaines de soirée-bus à Paris, pour les particuliers comme pour les professionnels, pour des bars mitzvah, bat mitzvah, ou tous autres évènements.">
+        <source>avec ses 12 bus festifs organise chaque année des centaines de soirée-bus à Paris, pour les particuliers comme pour les professionnels, pour des bars mitzvah, bat mitzvah, ou tous autres évènements.</source>
+        <target>avec ses 12 bus festifs organise chaque année des centaines de soirée-bus à Paris, pour les particuliers comme pour les professionnels, pour des bars mitzvah, bat mitzvah, ou tous autres évènements.</target>
+      </trans-unit>
+      <trans-unit id="3tFsRtZ" resname="Ainsi toutes les plus grandes marques de luxe tel que Dior, Channel, Louis Vuitton, Chopard, Lancaster ou encore les plus grands hôtels, Le Meurice, Le plaza Athénee etc.. ou encore les plus grandes chaines Canal +, M6, C8, France 2, Rmc, etc… les plus grandes radios, Fg, RFM, RMC,etc… mais aussi les plus grandes stars, Usain Bolt, Ari Abbitan, Cyril Hannounah, David Guetta, l’équipe du PSG, Mr V,Omar Sy  etc….ont fait appel à nos services pour louer des discobus.">
+        <source>Ainsi toutes les plus grandes marques de luxe tel que Dior, Channel, Louis Vuitton, Chopard, Lancaster ou encore les plus grands hôtels, Le Meurice, Le plaza Athénee etc.. ou encore les plus grandes chaines Canal +, M6, C8, France 2, Rmc, etc… les plus grandes radios, Fg, RFM, RMC,etc… mais aussi les plus grandes stars, Usain Bolt, Ari Abbitan, Cyril Hannounah, David Guetta, l’équipe du PSG, Mr V,Omar Sy  etc….ont fait appel à nos services pour louer des discobus.</source>
+        <target>Ainsi toutes les plus grandes marques de luxe tel que Dior, Channel, Louis Vuitton, Chopard, Lancaster ou encore les plus grands hôtels, Le Meurice, Le plaza Athénee etc.. ou encore les plus grandes chaines Canal +, M6, C8, France 2, Rmc, etc… les plus grandes radios, Fg, RFM, RMC,etc… mais aussi les plus grandes stars, Usain Bolt, Ari Abbitan, Cyril Hannounah, David Guetta, l’équipe du PSG, Mr V,Omar Sy  etc….ont fait appel à nos services pour louer des discobus.</target>
+      </trans-unit>
+      <trans-unit id="CM4r86X" resname="A ceci vous pouvez ajouter que busdiscotheque.com est  jusqu’à 96 % moins cher que la concurrence sans jamais lésiner sur la qualité de nos services, ni sur la qualité d’aménagement de nos véhicules.">
+        <source>A ceci vous pouvez ajouter que busdiscotheque.com est  jusqu’à 96 % moins cher que la concurrence sans jamais lésiner sur la qualité de nos services, ni sur la qualité d’aménagement de nos véhicules.</source>
+        <target>A ceci vous pouvez ajouter que busdiscotheque.com est  jusqu’à 96 % moins cher que la concurrence sans jamais lésiner sur la qualité de nos services, ni sur la qualité d’aménagement de nos véhicules.</target>
+      </trans-unit>
+      <trans-unit id="z_Tt__k" resname="Les équipes de busdiscotheque.com se compose de 25 chauffeurs, 17 DJ, 15 bar man et hôtesses quand chez Party bus, soirée bus, all night bus c’est toujours le mari qui prend le volant et la femme qui assure le service au bar.">
+        <source>Les équipes de busdiscotheque.com se compose de 25 chauffeurs, 17 DJ, 15 bar man et hôtesses quand chez Party bus, soirée bus, all night bus c’est toujours le mari qui prend le volant et la femme qui assure le service au bar.</source>
+        <target>Les équipes de busdiscotheque.com se compose de 25 chauffeurs, 17 DJ, 15 bar man et hôtesses quand chez Party bus, soirée bus, all night bus c’est toujours le mari qui prend le volant et la femme qui assure le service au bar.</target>
+      </trans-unit>
+      <trans-unit id="tFBkXev" resname="Contacts">
+        <source>Contacts</source>
+        <target>Contacts</target>
+      </trans-unit>
+      <trans-unit id="ALhhkrj" resname="Nous nous efforçons de répondre à vos demandes dans l'heure.">
+        <source>Nous nous efforçons de répondre à vos demandes dans l'heure.</source>
+        <target>We strive to respond to your requests within the hour.</target>
+      </trans-unit>
+      <trans-unit id="XtENEN." resname="Location de Bus Discothèque de luxe pour tous vos événements">
+        <source>Location de Bus Discothèque de luxe pour tous vos événements</source>
+        <target>Luxury Disco Bus rental for all your events</target>
+      </trans-unit>
+      <trans-unit id="Sc5LIj3" resname="Du lundi au samedi de 9h à 19h">
+        <source>Du lundi au samedi de 9h à 19h</source>
+        <target>Monday to Saturday 9 a.m. to 7 p.m.</target>
+      </trans-unit>
+      <trans-unit id="fcKpLWc" resname="RDV dans notre bureau en Ile-de-France sur demande">
+        <source>RDV dans notre bureau en Ile-de-France sur demande</source>
+        <target>Meeting in our office in Ile-de-France on request</target>
+      </trans-unit>
+      <trans-unit id="fW410Il" resname="Demander un Tarif">
+        <source>Demander un Tarif</source>
+        <target>Ask a quote</target>
+      </trans-unit>
+      <trans-unit id="hLQrIxC" resname="Plan du Site">
+        <source>Plan du Site</source>
+        <target>SiteMap</target>
+      </trans-unit>
+      <trans-unit id="U9y9JbC" resname="Roadvertising">
+        <source>Roadvertising</source>
+        <target>Roadvertising</target>
+      </trans-unit>
+      <trans-unit id="yIgo01y" resname="Parcours">
+        <source>Parcours</source>
+        <target>Route</target>
+      </trans-unit>
+      <trans-unit id="ZyFT62v" resname="A propos">
+        <source>A propos</source>
+        <target>About</target>
+      </trans-unit>
+      <trans-unit id="PiVVvgc" resname="Cartons d'invitation">
+        <source>Cartons d'invitation</source>
+        <target>Invitation cards</target>
+      </trans-unit>
+      <trans-unit id="zOnAobl" resname="Mentions légales">
+        <source>Mentions légales</source>
+        <target>Legal Notice</target>
+      </trans-unit>
+      <trans-unit id="a3mIM4o" resname="Quelques Références">
+        <source>Quelques Références</source>
+        <target>Some Références</target>
+      </trans-unit>
+      <trans-unit id="rglYPfU" resname="Stock Mobile Service">
+        <source>Stock Mobile Service</source>
+        <target>Stock Mobile Service</target>
+      </trans-unit>
+      <trans-unit id="9_vtLOE" resname="Deluxe Mobile Service">
+        <source>Deluxe Mobile Service</source>
+        <target>Deluxe Mobile Service</target>
+      </trans-unit>
+      <trans-unit id="KK3XfUq" resname="Location de soirée bus à Paris">
+        <source>Location de soirée bus à Paris</source>
+        <target>Renting of night bus in Paris</target>
+      </trans-unit>
+      <trans-unit id="DjmqaEC" resname="Location de soiree bus paris">
+        <source>Location de soiree bus paris</source>
+        <target>Renting of night bus in Paris</target>
+      </trans-unit>
+      <trans-unit id="DMHhP11" resname="Votre soirée bus à bord de nos bus discotheque à Paris garantie.">
+        <source>Votre soirée bus à bord de nos bus discotheque à Paris garantie.</source>
+        <target>Your night bus on our party buses in Paris garanted</target>
+      </trans-unit>
+      <trans-unit id="eRL9G7W" resname="Soirée Bus à Paris garantie">
+        <source>Soirée Bus à Paris garantie</source>
+        <target>Soirée Bus à Paris garantie</target>
+      </trans-unit>
+      <trans-unit id="KJWcwc0" resname="Notre expérience de location de bus boite de nuit">
+        <source>Notre expérience de location de bus boite de nuit</source>
+        <target>Notre expérience de location de bus boite de nuit</target>
+      </trans-unit>
+      <trans-unit id="jugH1AL" resname="Le parc de discobus de busdiscotheque.com">
+        <source>Le parc de discobus de busdiscotheque.com</source>
+        <target>Le parc de discobus de busdiscotheque.com</target>
+      </trans-unit>
+      <trans-unit id="vqmZTgi" resname="Notre parc de discobus">
+        <source>Notre parc de discobus</source>
+        <target>Notre parc de discobus</target>
+      </trans-unit>
+      <trans-unit id="KAFR8Ui" resname="Pourquoi louer un busdiscotheque pour un anniversaire en soirée bus">
+        <source>Pourquoi louer un busdiscotheque pour un anniversaire en soirée bus</source>
+        <target>Pourquoi louer un busdiscotheque pour un anniversaire en soirée bus</target>
+      </trans-unit>
+      <trans-unit id="rsFKpOm" resname="Pourquoi louer un busdiscotheque">
+        <source>Pourquoi louer un busdiscotheque</source>
+        <target>Pourquoi louer un busdiscotheque</target>
+      </trans-unit>
+      <trans-unit id="Y_N2En0" resname="Le parc de discobus">
+        <source>Le parc de discobus</source>
+        <target>Le parc de discobus</target>
+      </trans-unit>
+      <trans-unit id="Z9z.1on" resname="de busdiscotheque.com">
+        <source>de busdiscotheque.com</source>
+        <target>de busdiscotheque.com</target>
+      </trans-unit>
+      <trans-unit id="FXtWOlY" resname="Notre parc de disco bus est composé de 12 modèles de bus discotheque avec des capacités allant de 1 à 75 personnes pour organiser à bord vos soirée bus à Paris.">
+        <source>Notre parc de disco bus est composé de 12 modèles de bus discotheque avec des capacités allant de 1 à 75 personnes pour organiser à bord vos soirée bus à Paris.</source>
+        <target>Notre parc de disco bus est composé de 12 modèles de bus discotheque avec des capacités allant de 1 à 75 personnes pour organiser à bord vos soirée bus à Paris.</target>
+      </trans-unit>
+      <trans-unit id="i2TZjBC" resname="Dans le détail nous possédons 4 mini bus-discothèque de 09 personnes, 4 grands bus-disco de 34 personnes, 4 très grands double discobus de 65 personnes pour organiser votre soirée bus à Paris.">
+        <source>Dans le détail nous possédons 4 mini bus-discothèque de 09 personnes, 4 grands bus-disco de 34 personnes, 4 très grands double discobus de 65 personnes pour organiser votre soirée bus à Paris.</source>
+        <target>Dans le détail nous possédons 4 mini bus-discothèque de 09 personnes, 4 grands bus-disco de 34 personnes, 4 très grands double discobus de 65 personnes pour organiser votre soirée bus à Paris.</target>
+      </trans-unit>
+      <trans-unit id="2_Qc7vT" resname="Nous possédons 3 bus discotheque capable de venir vous chercher chez vous, en banlieue parisienne au besoin, pour votre soirée bus et vous redéposer en toute sécurité chez vous. Nous sommes la seule compagnie de location de discobus à Paris capable d’organiser cela pour vous.">
+        <source>Nous possédons 3 bus discotheque capable de venir vous chercher chez vous, en banlieue parisienne au besoin, pour votre soirée bus et vous redéposer en toute sécurité chez vous. Nous sommes la seule compagnie de location de discobus à Paris capable d’organiser cela pour vous.</source>
+        <target>Nous possédons 3 bus discotheque capable de venir vous chercher chez vous, en banlieue parisienne au besoin, pour votre soirée bus et vous redéposer en toute sécurité chez vous. Nous sommes la seule compagnie de location de discobus à Paris capable d’organiser cela pour vous.</target>
+      </trans-unit>
+      <trans-unit id="jMbb4M8" resname="Entièrement privatisés, nos busdisco sont capables d’accueillir jusqu’à 75 personnes et nous pouvons transporter jusqu’à 700 personnes simultanément.">
+        <source>Entièrement privatisés, nos busdisco sont capables d’accueillir jusqu’à 75 personnes et nous pouvons transporter jusqu’à 700 personnes simultanément.</source>
+        <target>Entièrement privatisés, nos busdisco sont capables d’accueillir jusqu’à 75 personnes et nous pouvons transporter jusqu’à 700 personnes simultanément.</target>
+      </trans-unit>
+      <trans-unit id="qYyeqFR" resname="Busdiscotheque.com est la seule compagnie de location de bus boite de nuit sur Paris capable de mettre à votre disposition un discobus de secours en cas de soucis technique, mécanique ou autres dans les 45 minutes qui suivent le problème.">
+        <source>Busdiscotheque.com est la seule compagnie de location de bus boite de nuit sur Paris capable de mettre à votre disposition un discobus de secours en cas de soucis technique, mécanique ou autres dans les 45 minutes qui suivent le problème.</source>
+        <target>Busdiscotheque.com est la seule compagnie de location de bus boite de nuit sur Paris capable de mettre à votre disposition un discobus de secours en cas de soucis technique, mécanique ou autres dans les 45 minutes qui suivent le problème.</target>
+      </trans-unit>
+      <trans-unit id="1fobcMO" resname="Ni soirée bus, party bus, ou pire encore  all night bus  et Stan et Walter qui sont en pannes tous les 3 jours ne sont capables de vous offrir ce service car ils ne possèdent tous qu’un seul bus.">
+        <source>Ni soirée bus, party bus, ou pire encore  all night bus  et Stan et Walter qui sont en pannes tous les 3 jours ne sont capables de vous offrir ce service car ils ne possèdent tous qu’un seul bus.</source>
+        <target>Ni soirée bus, party bus, ou pire encore  all night bus  et Stan et Walter qui sont en pannes tous les 3 jours ne sont capables de vous offrir ce service car ils ne possèdent tous qu’un seul bus.</target>
+      </trans-unit>
+      <trans-unit id="eVc2kEq" resname="L'experience a vivre a bord">
+        <source>L'experience a vivre a bord</source>
+        <target>L'experience a vivre a bord</target>
+      </trans-unit>
+      <trans-unit id="9zwZGAr" resname="d'un de nos discobus">
+        <source>d'un de nos discobus</source>
+        <target>d'un de nos discobus</target>
+      </trans-unit>
+      <trans-unit id="1oTEoUa" resname="Le concept même de location de bus boite de nuit inventée par busdiscotheque.com qui consiste en une visite festive à travers les rues de la capital est à lui seul éblouissant. Comment ne pas s’émerveiller à bord de nos bus disco avec de la musique en visitant les rues de Paris et ceci sous les yeux des autres usagers de la route ou même piétons.">
+        <source>Le concept même de location de bus boite de nuit inventée par busdiscotheque.com qui consiste en une visite festive à travers les rues de la capital est à lui seul éblouissant. Comment ne pas s’émerveiller à bord de nos bus disco avec de la musique en visitant les rues de Paris et ceci sous les yeux des autres usagers de la route ou même piétons.</source>
+        <target>Le concept même de location de bus boite de nuit inventée par busdiscotheque.com qui consiste en une visite festive à travers les rues de la capital est à lui seul éblouissant. Comment ne pas s’émerveiller à bord de nos bus disco avec de la musique en visitant les rues de Paris et ceci sous les yeux des autres usagers de la route ou même piétons.</target>
+      </trans-unit>
+      <trans-unit id="95DQFFQ" resname="A ceci il faut ajouter que vous pouvez demander à nos chauffeurs à bord de nos discobus de faire les haltes sur les belles places parisienne pour une pause et ainsi discuter et échanger avec vos invités, amis, ou proches.">
+        <source>A ceci il faut ajouter que vous pouvez demander à nos chauffeurs à bord de nos discobus de faire les haltes sur les belles places parisienne pour une pause et ainsi discuter et échanger avec vos invités, amis, ou proches.</source>
+        <target>A ceci il faut ajouter que vous pouvez demander à nos chauffeurs à bord de nos discobus de faire les haltes sur les belles places parisienne pour une pause et ainsi discuter et échanger avec vos invités, amis, ou proches.</target>
+      </trans-unit>
+      <trans-unit id="P0eU22B" resname="Exemplaire numérique (internet).">
+        <source>Exemplaire numérique (internet).</source>
+        <target>Digital copy (internet)</target>
+      </trans-unit>
+      <trans-unit id="1p2Cqbn" resname="Vous déclarez alors avoir « lu et approuvé » les présentes conditions.">
+        <source>Vous déclarez alors avoir « lu et approuvé » les présentes conditions.</source>
+        <target>You declare that you have "read and approved" these conditions.</target>
+      </trans-unit>
+      <trans-unit id="jparHC4" resname="Le fait de passer commande vous engage.">
+        <source>Le fait de passer commande vous engage.</source>
+        <target>Placing an order commits you.</target>
+      </trans-unit>
+      <trans-unit id="40YqhGI" resname="Le présent document est de la propriété de la société et ne peut en aucun cas être reproduit.">
+        <source>Le présent document est de la propriété de la société et ne peut en aucun cas être reproduit.</source>
+        <target>This document is the property of the company and may in no case be reproduced.</target>
+      </trans-unit>
+      <trans-unit id="0tyiGhI" resname="Carton d'invitation">
+        <source>Carton d'invitation</source>
+        <target>Invitation card</target>
+      </trans-unit>
+      <trans-unit id="yqJeZE9" resname="Mentions Légales">
+        <source>Mentions Légales</source>
+        <target>Legal Notice</target>
+      </trans-unit>
+      <trans-unit id="I1iQIm9" resname="Capital social de 1000 Euros">
+        <source>Capital social de 1000 Euros</source>
+        <target>Share capital of 1000 Euros</target>
+      </trans-unit>
+      <trans-unit id="gK3E3oQ" resname="Voir les Options à Bord">
+        <source>Voir les Options à Bord</source>
+        <target>Voir les Options à Bord</target>
+      </trans-unit>
+      <trans-unit id=".IM428n" resname="photo du bus">
+        <source>photo du bus</source>
+        <target>photo du bus</target>
+      </trans-unit>
+      <trans-unit id="l3rmyww" resname="Découvrir">
+        <source>Découvrir</source>
+        <target>Discover</target>
+      </trans-unit>
+      <trans-unit id="iBV9zJM" resname="Espace optimisé">
+        <source>Espace optimisé</source>
+        <target>Optimized space</target>
+      </trans-unit>
+      <trans-unit id="G37Aexw" resname="jusqu'à &lt;span class=&quot;highlight&quot;&gt;65 pers.&lt;/span&gt;">
+        <source>jusqu'à &lt;span class="highlight"&gt;65 pers.&lt;/span&gt;</source>
+        <target><![CDATA[up to <span class="highlight">65 people</span>]]></target>
+      </trans-unit>
+      <trans-unit id="MDlB5tW" resname="Bus double de 18m">
+        <source>Bus double de 18m</source>
+        <target>Double bus of 18m</target>
+      </trans-unit>
+      <trans-unit id="CpdSYoC" resname="Tarif minibus discothèque à Paris">
+        <source>Tarif minibus discothèque à Paris</source>
+        <target>Tarif minibus discothèque à Paris</target>
+      </trans-unit>
+      <trans-unit id="_zCujCh" resname="Tarifs">
+        <source>Tarifs</source>
+        <target>Tarifs</target>
+      </trans-unit>
+      <trans-unit id="58YTTLm" resname="Réserver minibus discothèque à Paris">
+        <source>Réserver minibus discothèque à Paris</source>
+        <target>Réserver minibus discothèque à Paris</target>
+      </trans-unit>
+      <trans-unit id="yfa1J8N" resname="Réserver">
+        <source>Réserver</source>
+        <target>Réserver</target>
+      </trans-unit>
+      <trans-unit id="jILP1fN" resname="jusqu'à &lt;span class=&quot;highlight&quot;&gt;9 pers.&lt;/span&gt;">
+        <source>jusqu'à &lt;span class="highlight"&gt;9 pers.&lt;/span&gt;</source>
+        <target><![CDATA[jusqu'à <span class="highlight">9 pers.</span>]]></target>
+      </trans-unit>
+      <trans-unit id="O5AAh2J" resname="Minibus de 7m">
+        <source>Minibus de 7m</source>
+        <target>Minibus de 7m</target>
+      </trans-unit>
+      <trans-unit id="2bPzYdF" resname="jusqu'à &lt;span class=&quot;highlight&quot;&gt;30 pers.&lt;/span&gt;">
+        <source>jusqu'à &lt;span class="highlight"&gt;30 pers.&lt;/span&gt;</source>
+        <target><![CDATA[jusqu'à <span class="highlight">30 pers.</span>]]></target>
+      </trans-unit>
+      <trans-unit id="zxqO9Im" resname="Bus de 12m">
+        <source>Bus de 12m</source>
+        <target>Bus de 12m</target>
+      </trans-unit>
+      <trans-unit id="LGRKYEp" resname="Bienvenue sur le site officiel de &lt;strong&gt;busdiscotheque.com&lt;/strong&gt; “le seul, l’unique, l’original.”">
+        <source>Bienvenue sur le site officiel de &lt;strong&gt;busdiscotheque.com&lt;/strong&gt; “le seul, l’unique, l’original.”</source>
+        <target><![CDATA[Bienvenue sur le site officiel de <strong>busdiscotheque.com</strong> “le seul, l’unique, l’original.”]]></target>
+      </trans-unit>
+      <trans-unit id="vsRNuSk" resname="Il y a 10 ans, nous lancions ce concept complétement décalé, amusant, déjanté, festif pour les jeunes comme pour les moins jeunes, pour les particuliers comme pour les entreprises.&lt;br&gt;&lt;br&gt;&#10;                            Aujourd’hui nous avons décidé de repartir de zéro, avec de nouvelles idées de nouveaux véhicules pour offrir toujours plus de choix, toujours plus de solutions à nos clients sans jamais lésiner sur la qualité de nos services ni sur les moyens mis à disposition.&lt;br&gt;&lt;br&gt;&#10;                            Vous êtes chez busdiscotheque.com à l'origine du concept, et nous sommes honorés de votre visite.&lt;br&gt;&lt;br&gt;&#10;                            nous avons à cœur de vous satisfaire dans les moindres détails.">
+        <source>Il y a 10 ans, nous lancions ce concept complétement décalé, amusant, déjanté, festif pour les jeunes comme pour les moins jeunes, pour les particuliers comme pour les entreprises.&lt;br&gt;&lt;br&gt;
+                            Aujourd’hui nous avons décidé de repartir de zéro, avec de nouvelles idées de nouveaux véhicules pour offrir toujours plus de choix, toujours plus de solutions à nos clients sans jamais lésiner sur la qualité de nos services ni sur les moyens mis à disposition.&lt;br&gt;&lt;br&gt;
+                            Vous êtes chez busdiscotheque.com à l'origine du concept, et nous sommes honorés de votre visite.&lt;br&gt;&lt;br&gt;
+                            nous avons à cœur de vous satisfaire dans les moindres détails.</source>
+        <target><![CDATA[Il y a 10 ans, nous lancions ce concept complétement décalé, amusant, déjanté, festif pour les jeunes comme pour les moins jeunes, pour les particuliers comme pour les entreprises.<br><br>
+                            Aujourd’hui nous avons décidé de repartir de zéro, avec de nouvelles idées de nouveaux véhicules pour offrir toujours plus de choix, toujours plus de solutions à nos clients sans jamais lésiner sur la qualité de nos services ni sur les moyens mis à disposition.<br><br>
+                            Vous êtes chez busdiscotheque.com à l'origine du concept, et nous sommes honorés de votre visite.<br><br>
+                            nous avons à cœur de vous satisfaire dans les moindres détails.]]></target>
+      </trans-unit>
+      <trans-unit id="E2GRbW4" resname="Nos Minis Bus">
+        <source>Nos Minis Bus</source>
+        <target>Nos Minis Bus</target>
+      </trans-unit>
+      <trans-unit id=".iKSBY." resname="Nos Bus Simples">
+        <source>Nos Bus Simples</source>
+        <target>Nos Bus Simples</target>
+      </trans-unit>
+      <trans-unit id="ucJUmo2" resname="Nos Bus Doubles">
+        <source>Nos Bus Doubles</source>
+        <target>Nos Bus Doubles</target>
+      </trans-unit>
+      <trans-unit id="RMoL6nO" resname="Un bus personnalisé pour vos événements.">
+        <source>Un bus personnalisé pour vos événements.</source>
+        <target>Un bus personnalisé pour vos événements.</target>
+      </trans-unit>
+      <trans-unit id="lm12cW6" resname="CGV">
+        <source>CGV</source>
+        <target>CGV</target>
+      </trans-unit>
+      <trans-unit id="UzFhc1Y" resname="Accueil">
+        <source>Accueil</source>
+        <target>Home</target>
+      </trans-unit>
+      <trans-unit id="GSjAl39" resname="Nos Bus">
+        <source>Nos Bus</source>
+        <target>Our bus</target>
+      </trans-unit>
+      <trans-unit id="i7h5Oqt" resname="Nos Mini Bus">
+        <source>Nos Mini Bus</source>
+        <target>Nos Mini Bus</target>
+      </trans-unit>
+      <trans-unit id="84Ryh2s" resname="Nos Simples Bus">
+        <source>Nos Simples Bus</source>
+        <target>Nos Simples Bus</target>
+      </trans-unit>
+      <trans-unit id="iie6KIj" resname="Nos Doubles Bus">
+        <source>Nos Doubles Bus</source>
+        <target>Nos Doubles Bus</target>
+      </trans-unit>
+      <trans-unit id="YE3ORF4" resname="Services">
+        <source>Services</source>
+        <target>Pricing</target>
+      </trans-unit>
+      <trans-unit id="WPxqviT" resname="Services inclus">
+        <source>Services inclus</source>
+        <target>Inclusive Services</target>
+      </trans-unit>
+      <trans-unit id=".wi85WI" resname="Services en option">
+        <source>Services en option</source>
+        <target>Optionals Services</target>
+      </trans-unit>
+      <trans-unit id="iWs61Ns" resname="Concurrence">
+        <source>Concurrence</source>
+        <target>Competition</target>
+      </trans-unit>
+      <trans-unit id="cx4BcOz" resname="Qui sommes-nous ?">
+        <source>Qui sommes-nous ?</source>
+        <target>Who are we?</target>
+      </trans-unit>
+      <trans-unit id="Bs.dF6o" resname="Qui sont-ils ?">
+        <source>Qui sont-ils ?</source>
+        <target>Who are they?</target>
+      </trans-unit>
+      <trans-unit id="ya0Nfuk" resname="Comparer">
+        <source>Comparer</source>
+        <target>Compare</target>
+      </trans-unit>
+      <trans-unit id="eJIB8U8" resname="Nouveautés">
+        <source>Nouveautés</source>
+        <target>News</target>
+      </trans-unit>
+      <trans-unit id="kdUFy1Z" resname="Mini Bus">
+        <source>Mini Bus</source>
+        <target>Mini Bus</target>
+      </trans-unit>
+      <trans-unit id="xXzHqiB" resname="Simple Bus">
+        <source>Simple Bus</source>
+        <target>Simple Bus</target>
+      </trans-unit>
+      <trans-unit id="_QYR0Ed" resname="Simples Bus">
+        <source>Simples Bus</source>
+        <target>Simples Bus</target>
+      </trans-unit>
+      <trans-unit id="v2kY0Bb" resname="Double Bus">
+        <source>Double Bus</source>
+        <target>Double Bus</target>
+      </trans-unit>
+      <trans-unit id="tQxfzFE" resname="Doubles Bus">
+        <source>Doubles Bus</source>
+        <target>Doubles Bus</target>
+      </trans-unit>
+      <trans-unit id="QQFAYuW" resname="Leader incontestable et présent en tout premier avec son concept de&#10;                            discobus paris, busdiscotheque.com est à votre disposition pour organiser&#10;                            votre évènement à bord d’un de ces &lt;strong&gt;12 bus disco&lt;/strong&gt; à Paris.&#10;                            Particulier ou professionnel vous pouvez louer &lt;strong&gt;nos bus disco&lt;/strong&gt; pour tous vos&#10;                            évènements, anniversaire surprise, soirée bus disco, départ en retraite,&#10;                            transfert atypique en disco bus, bar mitzvah ou autre.&#10;                            Nos disco bus sont totalement réaménagés et pensés dans les moindres&#10;                            détails pour que vous ne manquiez de rien.">
+        <source>Leader incontestable et présent en tout premier avec son concept de
+                            discobus paris, busdiscotheque.com est à votre disposition pour organiser
+                            votre évènement à bord d’un de ces &lt;strong&gt;12 bus disco&lt;/strong&gt; à Paris.
+                            Particulier ou professionnel vous pouvez louer &lt;strong&gt;nos bus disco&lt;/strong&gt; pour tous vos
+                            évènements, anniversaire surprise, soirée bus disco, départ en retraite,
+                            transfert atypique en disco bus, bar mitzvah ou autre.
+                            Nos disco bus sont totalement réaménagés et pensés dans les moindres
+                            détails pour que vous ne manquiez de rien.</source>
+        <target><![CDATA[Leader incontestable et présent en tout premier avec son concept de
+                            discobus paris, busdiscotheque.com est à votre disposition pour organiser
+                            votre évènement à bord d’un de ces <strong>12 bus disco</strong> à Paris.
+                            Particulier ou professionnel vous pouvez louer <strong>nos bus disco</strong> pour tous vos
+                            évènements, anniversaire surprise, soirée bus disco, départ en retraite,
+                            transfert atypique en disco bus, bar mitzvah ou autre.
+                            Nos disco bus sont totalement réaménagés et pensés dans les moindres
+                            détails pour que vous ne manquiez de rien.]]></target>
+      </trans-unit>
+      <trans-unit id="9NPM9m6" resname="«Bus discotheque Paris vous offre le choix parmi 4 bus disco double pour répondre aux demandes des groupes les plus importants. Nos doubles discobus ont une capacité d’accueil allant jusqu’à 75 personnes.&lt;br&gt;&#10;            À l’instar de nos autres disco bus, ces double bus discotheque vous offrent tout le confort nécessaire pour des groupes plus importants. Bar, écrans plats, toilettes, salon, poste Dj, Karaokés, vous ne manquerez de rien et surtout pas de place. Pour votre anniversaire vous pouvez louer un double bus discotheque à Paris à partir de 990 €uros.">
+        <source>«Bus discotheque Paris vous offre le choix parmi 4 bus disco double pour répondre aux demandes des groupes les plus importants. Nos doubles discobus ont une capacité d’accueil allant jusqu’à 75 personnes.&lt;br&gt;
+            À l’instar de nos autres disco bus, ces double bus discotheque vous offrent tout le confort nécessaire pour des groupes plus importants. Bar, écrans plats, toilettes, salon, poste Dj, Karaokés, vous ne manquerez de rien et surtout pas de place. Pour votre anniversaire vous pouvez louer un double bus discotheque à Paris à partir de 990 €uros.</source>
+        <target><![CDATA[«Bus discotheque Paris vous offre le choix parmi 4 bus disco double pour répondre aux demandes des groupes les plus importants. Nos doubles discobus ont une capacité d’accueil allant jusqu’à 75 personnes.<br>
+            À l’instar de nos autres disco bus, ces double bus discotheque vous offrent tout le confort nécessaire pour des groupes plus importants. Bar, écrans plats, toilettes, salon, poste Dj, Karaokés, vous ne manquerez de rien et surtout pas de place. Pour votre anniversaire vous pouvez louer un double bus discotheque à Paris à partir de 990 €uros.]]></target>
+      </trans-unit>
+      <trans-unit id="kLTKp4H" resname="« Des mini bus disco de la gamme de &lt;a href=&quot;https://www.puddy-b.com&quot;&gt;Puddy-B&lt;/a&gt;.&lt;br&gt;&#10;            Une innovation de bus discotheque Paris, des &lt;a href=&quot;https://www.puddy-b.com&quot;&gt;mini bus karaoké&lt;/a&gt; pour des groupes restreints jusqu’à 9 invités avec tout le confort nécessaire, bar, toilettes, écrans plats, réfrigérateur et le tout pour un prix mini à partir de 290 €uros.">
+        <source>« Des mini bus disco de la gamme de &lt;a href="https://www.puddy-b.com"&gt;Puddy-B&lt;/a&gt;.&lt;br&gt;
+            Une innovation de bus discotheque Paris, des &lt;a href="https://www.puddy-b.com"&gt;mini bus karaoké&lt;/a&gt; pour des groupes restreints jusqu’à 9 invités avec tout le confort nécessaire, bar, toilettes, écrans plats, réfrigérateur et le tout pour un prix mini à partir de 290 €uros.</source>
+        <target><![CDATA[« Des mini bus disco de la gamme de <a href="https://www.puddy-b.com">Puddy-B</a>.<br>
+            Une innovation de bus discotheque Paris, des <a href="https://www.puddy-b.com">mini bus karaoké</a> pour des groupes restreints jusqu’à 9 invités avec tout le confort nécessaire, bar, toilettes, écrans plats, réfrigérateur et le tout pour un prix mini à partir de 290 €uros.]]></target>
+      </trans-unit>
+      <trans-unit id="eimi0j4" resname="«Bus discotheque Paris vous offre le choix parmi 9 bus disco standards répondant à toutes les demandes possibles. Nos disco bus standards ont une capacité d’accueil allant jusqu’à 30 personnes. A bord de ces bus discotheque vous ne manquerez de rien, bar, écrans plats, toilettes, salon, poste Dj, Karaokés etc…Tout est pensé pour vous donner entière satisfaction. Vous pouvez louez pour un anniversaire ou autre un bus discotheque standard à Paris à partir de 790 €uros.">
+        <source>«Bus discotheque Paris vous offre le choix parmi 9 bus disco standards répondant à toutes les demandes possibles. Nos disco bus standards ont une capacité d’accueil allant jusqu’à 30 personnes. A bord de ces bus discotheque vous ne manquerez de rien, bar, écrans plats, toilettes, salon, poste Dj, Karaokés etc…Tout est pensé pour vous donner entière satisfaction. Vous pouvez louez pour un anniversaire ou autre un bus discotheque standard à Paris à partir de 790 €uros.</source>
+        <target>«Bus discotheque Paris vous offre le choix parmi 9 bus disco standards répondant à toutes les demandes possibles. Nos disco bus standards ont une capacité d’accueil allant jusqu’à 30 personnes. A bord de ces bus discotheque vous ne manquerez de rien, bar, écrans plats, toilettes, salon, poste Dj, Karaokés etc…Tout est pensé pour vous donner entière satisfaction. Vous pouvez louez pour un anniversaire ou autre un bus discotheque standard à Paris à partir de 790 €uros.</target>
+      </trans-unit>
+      <trans-unit id="yLxbBHk" resname="Comparer avec la concurrence">
+        <source>Comparer avec la concurrence</source>
+        <target>Compare with the competition</target>
+      </trans-unit>
+      <trans-unit id="3vDQEfB" resname="Faisons simple, en 3 points :">
+        <source>Faisons simple, en 3 points :</source>
+        <target>Let's make it simple, in 3 points:</target>
+      </trans-unit>
+      <trans-unit id="7hToHIy" resname="Un exemple parmi tant d’autres :">
+        <source>Un exemple parmi tant d’autres :</source>
+        <target>One example among many:</target>
+      </trans-unit>
+      <trans-unit id="7RcqnOw" resname="Le Prix : ils sont jusqu’à 96 % plus cher que nous. Exemple de location pour un bus identique de 30 personnes.">
+        <source>Le Prix : ils sont jusqu’à 96 % plus cher que nous. Exemple de location pour un bus identique de 30 personnes.</source>
+        <target>The Price: they are up to 96% more expensive than us. Example of rental for an identical bus of 30 people.</target>
+      </trans-unit>
+      <trans-unit id="cdC61Cr" resname="Durée">
+        <source>Durée</source>
+        <target>Duration</target>
+      </trans-unit>
+      <trans-unit id="VMMk9sE" resname="Prix">
+        <source>Prix</source>
+        <target>Price</target>
+      </trans-unit>
+      <trans-unit id="x3PZFfE" resname="Ecart">
+        <source>Ecart</source>
+        <target>Delta</target>
+      </trans-unit>
+      <trans-unit id="vjWClSo" resname="Surcoût">
+        <source>Surcoût</source>
+        <target>Add Cost</target>
+      </trans-unit>
+      <trans-unit id="yfQK5a6" resname="Justificatif">
+        <source>Justificatif</source>
+        <target>Proof</target>
+      </trans-unit>
+      <trans-unit id="O2UFqtI" resname="Justificatif de comparaison">
+        <source>Justificatif de comparaison</source>
+        <target>Proof of comparison</target>
+      </trans-unit>
+      <trans-unit id=".HQYHs6" resname="ou">
+        <source>ou</source>
+        <target>or</target>
+      </trans-unit>
+      <trans-unit id="cz.u31d" resname="Les Services : Ils vous offrent beaucoup moins de services">
+        <source>Les Services : Ils vous offrent beaucoup moins de services</source>
+        <target>Services: They offer you a lot less services</target>
+      </trans-unit>
+      <trans-unit id="3lxKA3L" resname="La Prestation comprend">
+        <source>La Prestation comprend</source>
+        <target>The Service includes</target>
+      </trans-unit>
+      <trans-unit id="Tfm2olR" resname="Tout est inclus">
+        <source>Tout est inclus</source>
+        <target>Everything is included</target>
+      </trans-unit>
+      <trans-unit id="6y7LigU" resname="&quot;(sauf alcool et traiteur)">
+        <source>"(sauf alcool et traiteur)</source>
+        <target>(except alcohol and caterer)</target>
+      </trans-unit>
+      <trans-unit id="LXmeuVG" resname="TV payante, Afficheur payant, Tapis rouge payant, Horaires imposés, Lieux de départs payants">
+        <source>TV payante, Afficheur payant, Tapis rouge payant, Horaires imposés, Lieux de départs payants</source>
+        <target>Pay TV, Pay display, Pay red carpet, Set times, Pay departure locations</target>
+      </trans-unit>
+      <trans-unit id="RIXh8Q4" resname="voir devis">
+        <source>voir devis</source>
+        <target>see quote</target>
+      </trans-unit>
+      <trans-unit id="B_pn9Uq" resname="Les Véhicules : Ils ne possèdent chacun qu'un seul véhicule vendu jusqu’à 60 personnes quand bus discothèque vous met le même véhicule à disposition pour 30 personnes">
+        <source>Les Véhicules : Ils ne possèdent chacun qu'un seul véhicule vendu jusqu’à 60 personnes quand bus discothèque vous met le même véhicule à disposition pour 30 personnes</source>
+        <target>Vehicles: They each have only one vehicle sold up to 60 people when nightclub bus makes the same vehicle available to you for 30 people</target>
+      </trans-unit>
+      <trans-unit id="tS7E3h_" resname="Flotte">
+        <source>Flotte</source>
+        <target>Fleet</target>
+      </trans-unit>
+      <trans-unit id="ybPDgkf" resname="Total">
+        <source>Total</source>
+        <target>Total</target>
+      </trans-unit>
+      <trans-unit id="qjCX7SY" resname="2 bus de 25 personnes&lt;br /&gt;">
+        <source>2 bus de 25 personnes&lt;br /&gt;</source>
+        <target>2 bus for 25 personnes</target>
+      </trans-unit>
+      <trans-unit id="2PD3J4o" resname="5 bus de 30 personnes&lt;br /&gt;">
+        <source>5 bus de 30 personnes&lt;br /&gt;</source>
+        <target><![CDATA[5 bus for 30 personnes>]]></target>
+      </trans-unit>
+      <trans-unit id="EGjv_DB" resname="4 bus de 65 personnes">
+        <source>4 bus de 65 personnes</source>
+        <target>4 bus for 65 personnes</target>
+      </trans-unit>
+      <trans-unit id="kd.rYsz" resname="11 BUS">
+        <source>11 BUS</source>
+        <target>11 BUS</target>
+      </trans-unit>
+      <trans-unit id="pahkYVC" resname="1 bus de 20 personnes (vendu pour 30)">
+        <source>1 bus de 20 personnes (vendu pour 30)</source>
+        <target>1 bus for 20 personnes (sold for 30)</target>
+      </trans-unit>
+      <trans-unit id="RWnASK6" resname="1 BUS">
+        <source>1 BUS</source>
+        <target>1 BUS</target>
+      </trans-unit>
+      <trans-unit id="oKthEkK" resname="1 bus de 30 personnes (vendu pour 45)">
+        <source>1 bus de 30 personnes (vendu pour 45)</source>
+        <target>1 bus for 30 personnes (sold for 45)</target>
+      </trans-unit>
+      <trans-unit id="SVMBxUC" resname="1 bus de 30 personnes (vendu pour 60)">
+        <source>1 bus de 30 personnes (vendu pour 60)</source>
+        <target>1 bus for 30 personnes (sold for 60)</target>
+      </trans-unit>
+      <trans-unit id="X1rphs9" resname="1 bus de 40 personnes (vendu pour 50)">
+        <source>1 bus de 40 personnes (vendu pour 50)</source>
+        <target>1 bus for 40 personnes (sold for 50)</target>
+      </trans-unit>
+      <trans-unit id="ZQxz.Gf" resname="Qu’est ce qui justifient cette différence ?">
+        <source>Qu’est ce qui justifient cette différence ?</source>
+        <target>What justifies this difference?</target>
+      </trans-unit>
+      <trans-unit id="atvtocZ" resname="Rien absolument rien, non seulement rien ne justifie mais pire il y’a encore moins de service.&lt;br /&gt;&#10;                                        Alors ne croyez rien de ce qu’ils vous disent au téléphone, « nous c’est du haut de gamme, c’est du luxe, du prestige etc … tout cela ne sont que des mots rien de plus, leur seul objectif c’est de vous faire payer plus.&lt;br /&gt;&#10;                                        Venez nous rencontrer, visiter nos bus et comparer avec les autres nous sommes imbattables sur le prix, le service, les véhicules&lt;br /&gt;">
+        <source>Rien absolument rien, non seulement rien ne justifie mais pire il y’a encore moins de service.&lt;br /&gt;
+                                        Alors ne croyez rien de ce qu’ils vous disent au téléphone, « nous c’est du haut de gamme, c’est du luxe, du prestige etc … tout cela ne sont que des mots rien de plus, leur seul objectif c’est de vous faire payer plus.&lt;br /&gt;
+                                        Venez nous rencontrer, visiter nos bus et comparer avec les autres nous sommes imbattables sur le prix, le service, les véhicules&lt;br /&gt;</source>
+        <target><![CDATA[Nothing absolutely nothing, not only nothing justifies but worse there is even less service.<br />
+                                                        So don't believe anything they say to you on the phone, "we are top of the range, it's luxury, prestige etc ... all these are just words nothing more, their only objective is is to charge you more.<br />
+                                                        Come and meet us, visit our buses and compare with the others, we are unbeatable on price, service, vehicles<br />]]></target>
+      </trans-unit>
+      <trans-unit id="hxIx5Bt" resname="Pour résumer">
+        <source>Pour résumer</source>
+        <target>To sum up</target>
+      </trans-unit>
+      <trans-unit id="vKdncoO" resname="Ailleurs c’est largement moins bien et c’est beaucoup plus cher.&lt;br /&gt;&#10;                            Êtes-vous sûr de vouloir confier votre évènement à ces personnes, et payer beaucoup plus cher pour avoir moins de service ?&lt;br /&gt;&#10;                            Etes-vous sur que vous et vos invités ne mériteraient pas plus de confort plus de sécurité, plus de service ?&lt;br /&gt;&#10;                            Bien sûr que oui, alors n’hésitez plus une seule seconde les bus discothèques c’est NOUS">
+        <source>Ailleurs c’est largement moins bien et c’est beaucoup plus cher.&lt;br /&gt;
+                            Êtes-vous sûr de vouloir confier votre évènement à ces personnes, et payer beaucoup plus cher pour avoir moins de service ?&lt;br /&gt;
+                            Etes-vous sur que vous et vos invités ne mériteraient pas plus de confort plus de sécurité, plus de service ?&lt;br /&gt;
+                            Bien sûr que oui, alors n’hésitez plus une seule seconde les bus discothèques c’est NOUS</source>
+        <target><![CDATA[Elsewhere it is much worse and much more expensive.<br />
+                Are you sure you want to entrust your event to these people, and pay a lot more for less service?<br />
+                Are you sure that you and your guests do not deserve more comfort, more security, more service?<br />
+                Of course yes, so don't hesitate for a second the nightclub buses are US]]></target>
+      </trans-unit>
+      <trans-unit id="SgdPPap" resname="Il y a 10 ans, nous lancions à Paris ce concept de disco bus complétement décalé, amusant, déjanté, festif pour les jeunes comme pour les moins jeunes, pour les particuliers comme pour les entreprises.&lt;br&gt;&#10;                                Aujourd’hui nous avons décidé de repartir de zéro, avec de nouvelles idées de nouveaux bus disco pour offrir toujours plus de choix à Paris, toujours plus de solutions à nos clients sans jamais lésiner sur la qualité de nos services ni sur les moyens mis à disposition.&lt;br&gt;&#10;                                Vous êtes chez bus discotheque Paris à l'origine du concept, et nous sommes honorés de votre visite.&lt;br&gt;&#10;                                A Paris nous avons à cœur de vous satisfaire dans les moindres détails.">
+        <source>Il y a 10 ans, nous lancions à Paris ce concept de disco bus complétement décalé, amusant, déjanté, festif pour les jeunes comme pour les moins jeunes, pour les particuliers comme pour les entreprises.&lt;br&gt;
+                                Aujourd’hui nous avons décidé de repartir de zéro, avec de nouvelles idées de nouveaux bus disco pour offrir toujours plus de choix à Paris, toujours plus de solutions à nos clients sans jamais lésiner sur la qualité de nos services ni sur les moyens mis à disposition.&lt;br&gt;
+                                Vous êtes chez bus discotheque Paris à l'origine du concept, et nous sommes honorés de votre visite.&lt;br&gt;
+                                A Paris nous avons à cœur de vous satisfaire dans les moindres détails.</source>
+        <target><![CDATA[10 years ago, we launched this completely quirky, fun, crazy, festive concept for young and old, for individuals and for businesses.<br>
+                                Today we decided to start from scratch, with new ideas for new vehicles to offer ever more choices, always more solutions to our customers without ever skimping on the quality of our services or on the means made available.<br>
+                                You are at busdiscotheque.com at the origin of the concept, and we are honored by your visit.<br>
+                                we are committed to satisfying you in every detail.]]></target>
+      </trans-unit>
+      <trans-unit id="tQCttSq" resname="Bus discotheque Paris est la seule compagnie à vous offrir une multitude de choix de location de discobus pour l’organisation de votre anniversaire ou tout autre évènement à bord d’un bus discotheque.&lt;br&gt;&#10;                                A ce jour bus discotheque Paris vous offre le choix parmi 14 bus discothèque avec des capacités d’accueil allant jusqu’ à 85 personnes.&lt;br&gt;&#10;                                Des bus disco tous différents les uns des autres, pour cela Bus discotheque n’a de cesse d’innover toujours quand les concurrents sont limités à un seul disco bus de plus de 10 ans qui peut accueillir au mieux 30 personnes.&lt;br&gt;&#10;                                Bus discotheque Paris, est la seule compagnie à vous offrir le choix parmi des &lt;a href=&quot;https://www.puddy-b.com&quot;&gt;mini bus discotheque&lt;/a&gt;, des &lt;a href=&quot;https://www.poowood.com&quot;&gt;bus karaokés&lt;/a&gt;, des &lt;a href=&quot;https://www.puddy-b.com&quot;&gt;mini bus karaokés&lt;/a&gt;, des disco bus standard (12 mètres), des bus discothèque double (18 mètres), des bus discothèques avec terrasse, des disco bus avec des toits vitrés, nous n’avons pas de limites pour vous offrir toujours plus.">
+        <source>Bus discotheque Paris est la seule compagnie à vous offrir une multitude de choix de location de discobus pour l’organisation de votre anniversaire ou tout autre évènement à bord d’un bus discotheque.&lt;br&gt;
+                                A ce jour bus discotheque Paris vous offre le choix parmi 14 bus discothèque avec des capacités d’accueil allant jusqu’ à 85 personnes.&lt;br&gt;
+                                Des bus disco tous différents les uns des autres, pour cela Bus discotheque n’a de cesse d’innover toujours quand les concurrents sont limités à un seul disco bus de plus de 10 ans qui peut accueillir au mieux 30 personnes.&lt;br&gt;
+                                Bus discotheque Paris, est la seule compagnie à vous offrir le choix parmi des &lt;a href="https://www.puddy-b.com"&gt;mini bus discotheque&lt;/a&gt;, des &lt;a href="https://www.poowood.com"&gt;bus karaokés&lt;/a&gt;, des &lt;a href="https://www.puddy-b.com"&gt;mini bus karaokés&lt;/a&gt;, des disco bus standard (12 mètres), des bus discothèque double (18 mètres), des bus discothèques avec terrasse, des disco bus avec des toits vitrés, nous n’avons pas de limites pour vous offrir toujours plus.</source>
+        <target><![CDATA[Bus discotheque Paris est la seule compagnie à vous offrir une multitude de choix de location de discobus pour l’organisation de votre anniversaire ou tout autre évènement à bord d’un bus discotheque.<br>
+                                A ce jour bus discotheque Paris vous offre le choix parmi 14 bus discothèque avec des capacités d’accueil allant jusqu’ à 85 personnes.<br>
+                                Des bus disco tous différents les uns des autres, pour cela Bus discotheque n’a de cesse d’innover toujours quand les concurrents sont limités à un seul disco bus de plus de 10 ans qui peut accueillir au mieux 30 personnes.<br>
+                                Bus discotheque Paris, est la seule compagnie à vous offrir le choix parmi des <a href="https://www.puddy-b.com">mini bus discotheque</a>, des <a href="https://www.poowood.com">bus karaokés</a>, des <a href="https://www.puddy-b.com">mini bus karaokés</a>, des disco bus standard (12 mètres), des bus discothèque double (18 mètres), des bus discothèques avec terrasse, des disco bus avec des toits vitrés, nous n’avons pas de limites pour vous offrir toujours plus.]]></target>
+      </trans-unit>
+      <trans-unit id="eSUQCVo" resname="Nos Minis Bus Disco">
+        <source>Nos Minis Bus Disco</source>
+        <target>Nos Minis Bus Disco</target>
+      </trans-unit>
+      <trans-unit id="lmmWCdX" resname="Nos Bus Standards">
+        <source>Nos Bus Standards</source>
+        <target>Nos Bus Standards</target>
+      </trans-unit>
+      <trans-unit id="evY7rXe" resname="Nos bus discotheque doubles">
+        <source>Nos bus discotheque doubles</source>
+        <target>Nos bus discotheque doubles</target>
+      </trans-unit>
+      <trans-unit id="uRcrgLk" resname="Préférant jouer la carte de la discrétion et consacrer nos investissements à la qualité et à la fiabilité de nos bus et aménagements, Bus discothèque n’a jamais été adepte des grandes campagnes publicitaires...">
+        <source>Préférant jouer la carte de la discrétion et consacrer nos investissements à la qualité et à la fiabilité de nos bus et aménagements, Bus discothèque n’a jamais été adepte des grandes campagnes publicitaires...</source>
+        <target>Preferring to play the card of discretion and devote our investments to the quality and reliability of our buses and facilities, Bus discotheque has never been a fan of major advertising campaigns ...</target>
+      </trans-unit>
+      <trans-unit id="MoyZ9QJ" resname="Nous construisons notre réputation par le bouche à oreille et nos clients sont indéniablement nos meilleurs représentants">
+        <source>Nous construisons notre réputation par le bouche à oreille et nos clients sont indéniablement nos meilleurs représentants</source>
+        <target>We build our reputation by word of mouth and our customers are undeniably our best representatives</target>
+      </trans-unit>
+      <trans-unit id="Fml9_Ft" resname="Bus discothèque Paris, leader incontesté et incontestable">
+        <source>Bus discothèque Paris, leader incontesté et incontestable</source>
+        <target>Paris nightclub bus, undisputed and incontestable leader</target>
+      </trans-unit>
+      <trans-unit id="Tha9YMW" resname="Excellence, innovation et qualité sont les trois valeurs associées à nos bus discothèque et véhiculés par nos équipes. Depuis l’origine nous nous sommes positionnés sur le haut de gamme sans jamais y déroger, aujourd’hui nous sommes les seuls à vous proposer un véritable parc de véhicules bus discothèque sur Paris">
+        <source>Excellence, innovation et qualité sont les trois valeurs associées à nos bus discothèque et véhiculés par nos équipes. Depuis l’origine nous nous sommes positionnés sur le haut de gamme sans jamais y déroger, aujourd’hui nous sommes les seuls à vous proposer un véritable parc de véhicules bus discothèque sur Paris</source>
+        <target>Excellence, innovation and quality are the three values ​​associated with our nightclub buses and conveyed by our teams. From the outset, we have positioned ourselves at the top of the range without ever deviating from it, today we are the only ones to offer you a real fleet of nightclub bus vehicles in Paris.</target>
+      </trans-unit>
+      <trans-unit id="_WAj3Ck" resname="Aux côtés des entreprises les plus prestigieuses">
+        <source>Aux côtés des entreprises les plus prestigieuses</source>
+        <target>Alongside the most prestigious companies</target>
+      </trans-unit>
+      <trans-unit id="FQY1FZ1" resname="Bus discotheque.com est la référence quand il s’agit d’organiser les évènements et ou transfert atypique pour conduire les personnes à travers Paris.">
+        <source>Bus discotheque.com est la référence quand il s’agit d’organiser les évènements et ou transfert atypique pour conduire les personnes à travers Paris.</source>
+        <target>Bus discotheque.com is the reference when it comes to organizing events and or atypical transfer to drive people through Paris.</target>
+      </trans-unit>
+      <trans-unit id="moEbrid" resname="Ainsi nous ont fait confiance : Dior™, Chanel™, Louis Vuitton™, Chopard™, Shiseido™...">
+        <source>Ainsi nous ont fait confiance : Dior™, Chanel™, Louis Vuitton™, Chopard™, Shiseido™...</source>
+        <target>Thus trusted us: Dior™, Chanel™, Louis Vuitton™, Chopard™, Shiseido™ ...</target>
+      </trans-unit>
+      <trans-unit id="dMGuYWv" resname="Aux côtés des personnalités : Omar Sy, Franck Abittan, Usain Bolt, Daphné Burki, David Guetta, toute l‘équipe du Paris Saint-Germain, Sylvain Armand, Franck Gastambide, Mister V, Patrick Bruel etc…">
+        <source>Aux côtés des personnalités : Omar Sy, Franck Abittan, Usain Bolt, Daphné Burki, David Guetta, toute l‘équipe du Paris Saint-Germain, Sylvain Armand, Franck Gastambide, Mister V, Patrick Bruel etc…</source>
+        <target>Alongside personalities: Omar Sy, Franck Abittan, Usain Bolt, Daphné Burki, David Guetta, the whole Paris Saint-Germain team, Sylvain Armand, Franck Gastambide, Mister V, Patrick Bruel etc…</target>
+      </trans-unit>
+      <trans-unit id="pcw2uwV" resname="Aux côtés des grandes émissions : TPMP™, RMC™, BFM™, Canal+™, TraceTV™, M6™, France2™, Paris 1er™">
+        <source>Aux côtés des grandes émissions : TPMP™, RMC™, BFM™, Canal+™, TraceTV™, M6™, France2™, Paris 1er™</source>
+        <target>Alongside major issues: TPMP™, RMC™, BFM™, Canal+™, TraceTV™, M6™, France2™, Paris 1er™</target>
+      </trans-unit>
+      <trans-unit id="Z0fbWDs" resname="Mais Aussi aux cotés des maman et papa : Mme Azoulay, Mme Levy, Abecassis, etc...">
+        <source>Mais Aussi aux cotés des maman et papa : Mme Azoulay, Mme Levy, Abecassis, etc...</source>
+        <target>But also alongside mom and dad: Ms. Azoulay, Ms. Levy, Abecassis, etc ...</target>
+      </trans-unit>
+      <trans-unit id="FUvTHWM" resname="Voila déjà quelques temps, que notre nom bus discothèque, notre marque busdiscotheque.com est usurpée, contournée et détournée par tous les concurrents sans exception. Cela crée une confusion certaine dans l'esprit de ceux qui découvrent notre concept et notre société. Aussi pour être totalement transparent nous avons mis en ligne cette page afin que tous maitrise l'ensemble des éléments et que chacun fasse son choix en toute connaissance de cause.">
+        <source>Voila déjà quelques temps, que notre nom bus discothèque, notre marque busdiscotheque.com est usurpée, contournée et détournée par tous les concurrents sans exception. Cela crée une confusion certaine dans l'esprit de ceux qui découvrent notre concept et notre société. Aussi pour être totalement transparent nous avons mis en ligne cette page afin que tous maitrise l'ensemble des éléments et que chacun fasse son choix en toute connaissance de cause.</source>
+        <target>For some time now, our name disco bus, our brand busdiscotheque.com has been usurped, bypassed and diverted by all competitors without exception. This creates a certain confusion in the minds of those who discover our concept and our society. Also, to be completely transparent, we have put this page online so that everyone understands all the elements and that everyone makes their choice with full knowledge of the facts.</target>
+      </trans-unit>
+      <trans-unit id="xCIRGNe" resname="3 sociétés en détails">
+        <source>3 sociétés en détails</source>
+        <target>3 companies in detail</target>
+      </trans-unit>
+      <trans-unit id="xoaE0pX" resname="Cliquez ci-dessous pour en savoir plus.">
+        <source>Cliquez ci-dessous pour en savoir plus.</source>
+        <target>Click below to find out more.</target>
+      </trans-unit>
+      <trans-unit id="DSAGHgS" resname="Géré par Kader Boudour salarié depuis plus de 20 ans chez Véolia (anciennement TVO Argenteuil) en qualité de chauffeur de bus urbain et délégué syndical au sein de cette structure depuis plus de 10 ans . Il possède un bus simple de 12 mètres identique d’extérieur à nos bus simples. A cette différence qu’il vend son bus plus cher">
+        <source>Géré par Kader Boudour salarié depuis plus de 20 ans chez Véolia (anciennement TVO Argenteuil) en qualité de chauffeur de bus urbain et délégué syndical au sein de cette structure depuis plus de 10 ans . Il possède un bus simple de 12 mètres identique d’extérieur à nos bus simples. A cette différence qu’il vend son bus plus cher</source>
+        <target>Managed by Kader Boudour, employee for more than 20 years at Véolia (formerly TVO Argenteuil) as urban bus driver and union delegate within this structure for more than 10 years. It has a 12-meter single bus identical to the exterior of our single buses. With this difference that he sells his bus more expensive</target>
+      </trans-unit>
+      <trans-unit id="L9LTnsl" resname="comparer ici">
+        <source>comparer ici</source>
+        <target>compare here</target>
+      </trans-unit>
+      <trans-unit id="MqvhuZ5" resname="que nous et qu'il le loue jusqu’a 60 personnes, quand nous louons le même bus pour 30 personnes maximum.">
+        <source>que nous et qu'il le loue jusqu’a 60 personnes, quand nous louons le même bus pour 30 personnes maximum.</source>
+        <target>than us and that he rents it until to 60 people, when we rent the same bus for 30 people maximum.</target>
+      </trans-unit>
+      <trans-unit id="3URv9B0" resname="C'est lui qui conduit son véhicule, sa femme assure le service au bar, pour le coté prestige et luxe tel qu’affiché sur son site, demandez lui d’où il tient cette expérience alors que de toute sa vie il n’a été que chauffeur.">
+        <source>C'est lui qui conduit son véhicule, sa femme assure le service au bar, pour le coté prestige et luxe tel qu’affiché sur son site, demandez lui d’où il tient cette expérience alors que de toute sa vie il n’a été que chauffeur.</source>
+        <target>It is he who drives his vehicle, his wife provides service at the bar, for the prestige and luxury side as displayed on his site, ask him where he got this experience while in his whole life he has been that driver.</target>
+      </trans-unit>
+      <trans-unit id="xinsMmn" resname="Party bus ou Soirée bus : C’est la même société">
+        <source>Party bus ou Soirée bus : C’est la même société</source>
+        <target>Party bus or Evening bus: It's the same company</target>
+      </trans-unit>
+      <trans-unit id="qUiJ7zB" resname="Party bus est gérée par Morad et Soirée Bus est gérée par sa femme Linda.">
+        <source>Party bus est gérée par Morad et Soirée Bus est gérée par sa femme Linda.</source>
+        <target>Party bus is managed by Morad and Soirée Bus is managed by his wife Linda.</target>
+      </trans-unit>
+      <trans-unit id="cnu4u9B" resname="Party Bus possède un bus simple de 12 mètres  valable pour 20 personnes vendu pour 30 personnes.">
+        <source>Party Bus possède un bus simple de 12 mètres  valable pour 20 personnes vendu pour 30 personnes.</source>
+        <target>Party Bus has a 12 meter single bus valid for 20 people sold for 30 people.</target>
+      </trans-unit>
+      <trans-unit id="IsuYuXF" resname="Soirée bus possède un bus simple de 12 mètres (valable pour 30 personnes) vendu jusqu’à 45 personnes,">
+        <source>Soirée bus possède un bus simple de 12 mètres (valable pour 30 personnes) vendu jusqu’à 45 personnes,</source>
+        <target>Evening bus has a single 12 meter bus (valid for 30 people) sold up to 45 people,</target>
+      </trans-unit>
+      <trans-unit id="_T3MI1P" resname="C’est dire l’idée qu’ils ont du confort.">
+        <source>C’est dire l’idée qu’ils ont du confort.</source>
+        <target>That’s the idea that they have comfort.</target>
+      </trans-unit>
+      <trans-unit id="18iqqSM" resname="Ils vendent leurs prestations beaucoup, beaucoup, beaucoup, plus cher que nous avec beaucoup, beaucoup, beaucoup moins de service que nous. (Afficheur payant, télé payant, pas le droit de consommer en roulant, Wc non accessible en roulant etc..)">
+        <source>Ils vendent leurs prestations beaucoup, beaucoup, beaucoup, plus cher que nous avec beaucoup, beaucoup, beaucoup moins de service que nous. (Afficheur payant, télé payant, pas le droit de consommer en roulant, Wc non accessible en roulant etc..)</source>
+        <target>They sell their services much, much, much, more expensive than us with much, much, much less service than we do. (Paying display, pay TV, not allowed to consume while driving, Wc not accessible while driving, etc.)</target>
+      </trans-unit>
+      <trans-unit id="505WIiF" resname="Pour le coté haut de gamme, luxe et prestige, il vous faudra là aussi repasser, le mari Morad ancien chauffeur de ligne assure le service au volant et la femme Linda le service au bar.">
+        <source>Pour le coté haut de gamme, luxe et prestige, il vous faudra là aussi repasser, le mari Morad ancien chauffeur de ligne assure le service au volant et la femme Linda le service au bar.</source>
+        <target>For the high-end, luxury and prestige side, you will also need to go there again, husband Morad, a former line driver, provides driving service and wife Linda service at the bar.</target>
+      </trans-unit>
+      <trans-unit id="9xZIAvG" resname="Ils assurent avoir des véhicules plus luxueux que nous, d’abord ils n’en possèdent qu’un seul ensuite c’est le même véhicule qui est exploité depuis plus de 10 ans.">
+        <source>Ils assurent avoir des véhicules plus luxueux que nous, d’abord ils n’en possèdent qu’un seul ensuite c’est le même véhicule qui est exploité depuis plus de 10 ans.</source>
+        <target>They claim to have more luxurious vehicles than we do, first they only have one then it is the same vehicle that has been in operation for over 10 years.</target>
+      </trans-unit>
+      <trans-unit id="QHWy0sn" resname="Quand Party Bus et Soirée Bus">
+        <source>Quand Party Bus et Soirée Bus</source>
+        <target>When Party Bus and Soirée Bus</target>
+      </trans-unit>
+      <trans-unit id="zQsMBE_" resname="louaient les bus de busdiscotheque.com.">
+        <source>louaient les bus de busdiscotheque.com.</source>
+        <target>rented the bus buses .com.</target>
+      </trans-unit>
+      <trans-unit id="lG9bmbo" resname="Durant 3 années Party bus et Soirée bus">
+        <source>Durant 3 années Party bus et Soirée bus</source>
+        <target>During 3 years Party bus and Evening bus</target>
+      </trans-unit>
+      <trans-unit id="aOKHEXA" resname="nous ont loué des bus">
+        <source>nous ont loué des bus</source>
+        <target>rented buses from us</target>
+      </trans-unit>
+      <trans-unit id="fyjAMf9" resname="fréquemment avec nos formules complète (Chauffeur, Dj, Agent, Serveur, Traiteur etc…).">
+        <source>fréquemment avec nos formules complète (Chauffeur, Dj, Agent, Serveur, Traiteur etc…).</source>
+        <target>frequently with our complete formulas (Driver, DJ, Agent, Server, Caterer etc…).</target>
+      </trans-unit>
+      <trans-unit id="yScr3Xd" resname="Des prestations clés en main qu’ils ont revendu le double à leurs clients sans rien ajouter, sans rien faire. Devant le nombre de clients bernés par leur méthode, devant les délais interminables pour nous payer une facture de 800 euros nous avons cessé de leur louer nos véhicules.">
+        <source>Des prestations clés en main qu’ils ont revendu le double à leurs clients sans rien ajouter, sans rien faire. Devant le nombre de clients bernés par leur méthode, devant les délais interminables pour nous payer une facture de 800 euros nous avons cessé de leur louer nos véhicules.</source>
+        <target>Des prestations clés en main qu’ils ont revendu le double à leurs clients sans rien ajouter, sans rien faire. Devant le nombre de clients bernés par leur méthode, devant les délais interminables pour nous payer une facture de 800 euros nous avons cessé de leur louer nos véhicules.</target>
+      </trans-unit>
+      <trans-unit id="9PvX.7S" resname="ET LES AVIS SUR INTERNET ??">
+        <source>ET LES AVIS SUR INTERNET ??</source>
+        <target>AND THE OPINIONS ON THE INTERNET ??</target>
+      </trans-unit>
+      <trans-unit id="eiMkt.s" resname="Enfin s’agissant des avis Google sur internet qu'ils ont référencé sur notre marque busdiscotheque , tout est faux, vous l’aurez tous bien compris.">
+        <source>Enfin s’agissant des avis Google sur internet qu'ils ont référencé sur notre marque busdiscotheque , tout est faux, vous l’aurez tous bien compris.</source>
+        <target>Finally, when it comes to the Google reviews on the internet that they referenced on our brand of busdiscotheque, everything is wrong, you will all understand.</target>
+      </trans-unit>
+      <trans-unit id="_.4OVJE" resname="Vous pouvez le vérifier aisément, avec les avis de Heather Martinez, Burn Lois, Tilda Swinton sur Soirée bus entre autres.">
+        <source>Vous pouvez le vérifier aisément, avec les avis de Heather Martinez, Burn Lois, Tilda Swinton sur Soirée bus entre autres.</source>
+        <target>You can check it easily, with the reviews of Heather Martinez, Burn Lois, Tilda Swinton on Evening Bus among others.</target>
+      </trans-unit>
+      <trans-unit id="04P6Yz2" resname="Quel est la probabilité que ces personnes, dont une personne vie en Australie et deux autres aux Usa, passent par la même boulangerie en Hollande, vois le même voyant en France commande des pièces électriques au même fournisseur aux usa et passe une soirée dans le bus ??">
+        <source>Quel est la probabilité que ces personnes, dont une personne vie en Australie et deux autres aux Usa, passent par la même boulangerie en Hollande, vois le même voyant en France commande des pièces électriques au même fournisseur aux usa et passe une soirée dans le bus ??</source>
+        <target>What is the probability that these people, including one person living in Australia and two others in the Usa, go through the same bakery in Holland, see the same warning light in France order electrical parts from the same supplier in the USA and spend an evening on the bus ??</target>
+      </trans-unit>
+      <trans-unit id="1kWLJ2z" resname="Heather Martinez qui vie aux usa, passe par la même boulangerie que Burn Lois en Hollande.">
+        <source>Heather Martinez qui vie aux usa, passe par la même boulangerie que Burn Lois en Hollande.</source>
+        <target>Heather Martinez, who lives in the USA, goes through the same bakery as Burn Lois in Holland.</target>
+      </trans-unit>
+      <trans-unit id="Qtu1_si" resname="Elle commande des pièces chez San Diego Cpa, comme Tilda Swinton, qui elle, passe chez Nav Audio au Pays bas et Ft Wayne Electric aux usa comme Heater Martinez etc...">
+        <source>Elle commande des pièces chez San Diego Cpa, comme Tilda Swinton, qui elle, passe chez Nav Audio au Pays bas et Ft Wayne Electric aux usa comme Heater Martinez etc...</source>
+        <target>She orders pieces from San Diego Cpa, like Tilda Swinton, who goes to Nav Audio in the Netherlands and Ft Wayne Electric in the USA like Heater Martinez etc ...</target>
+      </trans-unit>
+      <trans-unit id="SCpT4nv" resname="Tous ces gens là qui vivent aux quatre coins du monde passent une soirée dans le bus ????">
+        <source>Tous ces gens là qui vivent aux quatre coins du monde passent une soirée dans le bus ????</source>
+        <target>All these people who live in the four corners of the world spend an evening on the bus ????</target>
+      </trans-unit>
+      <trans-unit id="1nmGZdv" resname="De plus tous les témoignages commencent par &quot;Je tenais à vous remercier, je tiens à remercier etc...&quot;">
+        <source>De plus tous les témoignages commencent par "Je tenais à vous remercier, je tiens à remercier etc..."</source>
+        <target>In addition, all the testimonies begin with "I wanted to thank you, I want to thank etc ..."</target>
+      </trans-unit>
+      <trans-unit id="mQNzMPI" resname="Pour les avis de Party Bus on vous laisse regarder en détail.">
+        <source>Pour les avis de Party Bus on vous laisse regarder en détail.</source>
+        <target>For Party Bus reviews we let you look in detail. </target>
+      </trans-unit>
+      <trans-unit id="RUlYC74" resname="Ce sont majoritairement que des faux avis postés par des proches de Morad et Linda.">
+        <source>Ce sont majoritairement que des faux avis postés par des proches de Morad et Linda.</source>
+        <target>These are mostly false notices posted by relatives of Morad and Linda.</target>
+      </trans-unit>
+      <trans-unit id="OkGi41c" resname="Et quand c'est un avis négatif, bien sur là il ne s'agit pas d'un de leur client.">
+        <source>Et quand c'est un avis négatif, bien sur là il ne s'agit pas d'un de leur client.</source>
+        <target>And when it is a negative opinion, of course it is not one of their client.</target>
+      </trans-unit>
+      <trans-unit id="9uCCzMd" resname="On finit avec l'avis de">
+        <source>On finit avec l'avis de</source>
+        <target>We finish with the opinion of</target>
+      </trans-unit>
+      <trans-unit id="GDoxmA9" resname="celui-ci est vraiment magique.">
+        <source>celui-ci est vraiment magique.</source>
+        <target>this one this is really magic.</target>
+      </trans-unit>
+      <trans-unit id="xy.9.KQ" resname="A l'origine c'est un roman complet qui flatte les services de la société Party bus et son gérant Morad qui est exceptionnel.">
+        <source>A l'origine c'est un roman complet qui flatte les services de la société Party bus et son gérant Morad qui est exceptionnel.</source>
+        <target>Originally it was a complete novel that flattered the services of Party bus and its manager Morad which was exceptional.</target>
+      </trans-unit>
+      <trans-unit id="KyyM4f3" resname="Cet avis magique disparait des écrans 48H00 après avoir été posté.">
+        <source>Cet avis magique disparait des écrans 48H00 après avoir été posté.</source>
+        <target>This magic notice disappears from the screens 48H00 after being posted.</target>
+      </trans-unit>
+      <trans-unit id="5HZAx_I" resname="La réponse du propriétaire, elle, est toujours en ligne ????">
+        <source>La réponse du propriétaire, elle, est toujours en ligne ????</source>
+        <target>The owner's answer is still online ????</target>
+      </trans-unit>
+      <trans-unit id="jtTm_r_" resname="Ce même avis">
+        <source>Ce même avis</source>
+        <target>This same opinion</target>
+      </trans-unit>
+      <trans-unit id="hlnQ4ok" resname="voir capture écran">
+        <source>voir capture écran</source>
+        <target>see screenshot</target>
+      </trans-unit>
+      <trans-unit id="hw99wKH" resname="supprimé depuis, vous le retrouvez mots pour mots sur">
+        <source>supprimé depuis, vous le retrouvez mots pour mots sur</source>
+        <target>deleted since, you find it word for word on</target>
+      </trans-unit>
+      <trans-unit id="YRSeJXU" resname="Avis-vérifiés">
+        <source>Avis-vérifiés</source>
+        <target>Avis- verified</target>
+      </trans-unit>
+      <trans-unit id="d_5UqBO" resname="posté par un certain">
+        <source>posté par un certain</source>
+        <target>posted by a certain</target>
+      </trans-unit>
+      <trans-unit id="BN9ljnQ" resname="devient">
+        <source>devient</source>
+        <target>becomes</target>
+      </trans-unit>
+      <trans-unit id="6w8kVPC" resname="L'avis magique est supprimé de Google... pour réapparaître sur">
+        <source>L'avis magique est supprimé de Google... pour réapparaître sur</source>
+        <target>The magic notice is deleted from Google ... to reappear on</target>
+      </trans-unit>
+      <trans-unit id="QT5zEbT" resname="Avis Vérifiés">
+        <source>Avis Vérifiés</source>
+        <target>Verified Reviews</target>
+      </trans-unit>
+      <trans-unit id="9Wng8IQ" resname="Les avis sont donc tous faux et c’est sans honte qu’ils s’amusent à poster des avis négatifs nous concernant croyant qu’il s’agit là de nos réseaux sociaux.">
+        <source>Les avis sont donc tous faux et c’est sans honte qu’ils s’amusent à poster des avis négatifs nous concernant croyant qu’il s’agit là de nos réseaux sociaux.</source>
+        <target>The opinions are therefore all false and it is shameful that they have fun posting negative opinions about us believing that these are our social networks.</target>
+      </trans-unit>
+      <trans-unit id="e49pfhi" resname="Géré par Ange,">
+        <source>Géré par Ange,</source>
+        <target>Managed by Ange,</target>
+      </trans-unit>
+      <trans-unit id="F3AhfXO" resname="la photo de l’équipe">
+        <source>la photo de l’équipe</source>
+        <target>the team photo</target>
+      </trans-unit>
+      <trans-unit id="639UYUu" resname="que vous avez en ligne n’est plus d’actualité, ils ont tous quitté le navire il y’à 4 ans. Pour le véhicule et les prestations inutile d’aller plus loin on vous laisse découvrir les photos et dans le doute d’aller le visiter. On vous passe toutes les fois où ils nous ont appelé pour leur louer un bus quand le leur était en panne">
+        <source>que vous avez en ligne n’est plus d’actualité, ils ont tous quitté le navire il y’à 4 ans. Pour le véhicule et les prestations inutile d’aller plus loin on vous laisse découvrir les photos et dans le doute d’aller le visiter. On vous passe toutes les fois où ils nous ont appelé pour leur louer un bus quand le leur était en panne</source>
+        <target>you have online n 'is more topical, they all left the ship 4 years ago. For the vehicle and the services, no need to go further, you are left to discover the photos and in doubt to go visit it. We pass you by whenever they called to hire them a bus when theirs was down</target>
+      </trans-unit>
+      <trans-unit id="Dwi9QNY" resname="Vous l’aurez tous compris, avec bus discothèque vous avez à votre disposition une véritable équipe qui œuvre au parfait déroulement de votre évènement, une équipe composée de 25 chauffeurs, 17 Dj, 15 hôtesses et bar man et un service commercial qui a plus de 20 années d’expérience dans l‘organisation d’évènements et de mariages.">
+        <source>Vous l’aurez tous compris, avec bus discothèque vous avez à votre disposition une véritable équipe qui œuvre au parfait déroulement de votre évènement, une équipe composée de 25 chauffeurs, 17 Dj, 15 hôtesses et bar man et un service commercial qui a plus de 20 années d’expérience dans l‘organisation d’évènements et de mariages.</source>
+        <target>You will all understand, with disco bus you have at your disposal a real team which works for the perfect progress of your event, a team made up of 25 drivers, 17 Dj, 15 hostesses and bar man and a commercial service which has more than 20 years of experience in organizing events and weddings.</target>
+      </trans-unit>
+      <trans-unit id="dihoq3k" resname="Avec busdiscotheque nous mettons à votre disposition 11 véhicules parmi lesquels vous pouvez choisir selon vos gouts, nous vous garantissons un véhicule de remplacement au maximum 45 min après l’appel des équipes en cas de soucis technique ou mécanique, nous vous garantissons le meilleur rapport qualité prix, nous vous garantissons le meilleur.">
+        <source>Avec busdiscotheque nous mettons à votre disposition 11 véhicules parmi lesquels vous pouvez choisir selon vos gouts, nous vous garantissons un véhicule de remplacement au maximum 45 min après l’appel des équipes en cas de soucis technique ou mécanique, nous vous garantissons le meilleur rapport qualité prix, nous vous garantissons le meilleur.</source>
+        <target>With busdiscotheque we put at your disposal 11 vehicles from which you can choose according to your tastes, we guarantee you a replacement vehicle at most 45 min after the call of the teams in case of technical or mechanical concerns, we guarantee you the best value for money price, we guarantee you the best.</target>
+      </trans-unit>
+      <trans-unit id="8bfHN2t" resname="Maintenant que vous savez qui est qui, qui vend quoi on vous laisse découvrir dans le détail.">
+        <source>Maintenant que vous savez qui est qui, qui vend quoi on vous laisse découvrir dans le détail.</source>
+        <target>Now that you know who is who, who sells what we let you discover in detail.</target>
+      </trans-unit>
+      <trans-unit id="qrNAiV7" resname="(sauf alcool et traiteur)">
+        <source>(sauf alcool et traiteur)</source>
+        <target>(except alcohol and caterer)</target>
+      </trans-unit>
+      <trans-unit id="C.Z6Vs5" resname="2 bus de 25 personnes">
+        <source>2 bus de 25 personnes</source>
+        <target>2 bus for 25 personnes</target>
+      </trans-unit>
+      <trans-unit id="2ten9GV" resname="5 bus de 30 personnes">
+        <source>5 bus de 30 personnes</source>
+        <target>5 bus for 30 personnes</target>
+      </trans-unit>
+      <trans-unit id="X2uqtNv" resname="Langue">
+        <source>Langue</source>
+        <target>Language</target>
+      </trans-unit>
+      <trans-unit id="UzAcrEx" resname="Busdiscotheque est heureux de vous accueillir à bord de ses véhicules afin d’organiser vos événements.">
+        <source>Busdiscotheque est heureux de vous accueillir à bord de ses véhicules afin d’organiser vos événements.</source>
+        <target>Busdiscotheque est heureux de vous accueillir à bord de ses véhicules afin d’organiser vos événements.</target>
+      </trans-unit>
+      <trans-unit id="k2iJ3Bp" resname="Parcours à la Demande">
+        <source>Parcours à la Demande</source>
+        <target>Course on Demand</target>
+      </trans-unit>
+      <trans-unit id="IuKkZMt" resname="Parce que votre évènement est unique.">
+        <source>Parce que votre évènement est unique.</source>
+        <target>Because your event is unique.</target>
+      </trans-unit>
+      <trans-unit id="o6T5ky3" resname="Personnalisez votre parcours en sélectionnant les monuments que vous souhaitez voir ou redécouvrir.">
+        <source>Personnalisez votre parcours en sélectionnant les monuments que vous souhaitez voir ou redécouvrir.</source>
+        <target>Personalize your route by selecting the monuments you want to see or rediscover.</target>
+      </trans-unit>
+      <trans-unit id="dRTVCFX" resname="Fixez vos points de rendez vous, définissez vos arrêts et laissez vous transporter en toute tranquillité.">
+        <source>Fixez vos points de rendez vous, définissez vos arrêts et laissez vous transporter en toute tranquillité.</source>
+        <target>Set your meeting points, define your stops and let yourself be transported in complete peace of mind.</target>
+      </trans-unit>
+      <trans-unit id="0F3j8my" resname="Demander un tarif">
+        <source>Demander un tarif</source>
+        <target>Ask an Estimate</target>
+      </trans-unit>
+      <trans-unit id="k9qg9X8" resname="&lt;strong&gt;Parce que votre message est essentiel,&lt;/strong&gt; nous changeons la philosophie de nos BUSDISCOTHEQUE.&lt;br /&gt;&#10;                            Nous transformons nos bus en véritable outil de communication pour leur conférer un rôle de média de masse par excellence.">
+        <source>&lt;strong&gt;Parce que votre message est essentiel,&lt;/strong&gt; nous changeons la philosophie de nos BUSDISCOTHEQUE.&lt;br /&gt;
+                            Nous transformons nos bus en véritable outil de communication pour leur conférer un rôle de média de masse par excellence.</source>
+        <target><![CDATA[<strong>Because your message is essential, </strong> we change the philosophy of our BUSDISCOTHEQUE. <br />
+								We transform our buses into a real communication tool to give them the role of mass media par excellence.]]></target>
+      </trans-unit>
+      <trans-unit id="KUJtxMP" resname="Journée mondiale de la responsabilité.">
+        <source>Journée mondiale de la responsabilité.</source>
+        <target>World Responsibility Day.</target>
+      </trans-unit>
+      <trans-unit id="9hkHzbY" resname="8 busdiscotheques&lt;br&gt;&#10;                                        317 collaborateurs transportés&lt;br&gt;&#10;                                        8 itinéraires&lt;br&gt;&#10;                                        16 sites&lt;br&gt;&#10;                                        pour être au contact direct des consommateurs.">
+        <source>8 busdiscotheques&lt;br&gt;317 collaborateurs transportés&lt;br&gt;8 itinéraires&lt;br&gt;16 sites&lt;br&gt;pour être au contact direct des consommateurs.</source>
+        <target><![CDATA[8 busdiscotheques <br> 317 employees transported <br> 8 routes to 16 sites <br> to be in direct contact with consumers.]]></target>
+      </trans-unit>
+      <trans-unit id="zuwNVfK" resname="Réserver un Bus">
+        <source>Réserver un Bus</source>
+        <target>Book a Bus</target>
+      </trans-unit>
+      <trans-unit id="xCUbjXB" resname="Journée dédiées aux fans.">
+        <source>Journée dédiées aux fans.</source>
+        <target>Day dedicated to fans.</target>
+      </trans-unit>
+      <trans-unit id="DuyRy7O" resname="50 fans de mangas&lt;br&gt;&#10;                                        pour un parcours&lt;br&gt;&#10;                                        et une sortie atypique">
+        <source>50 fans de mangas&lt;br&gt;pour un parcours&lt;br&gt;et une sortie atypique</source>
+        <target><![CDATA[50 manga fans <br> for a journey <br> and an atypical outing]]></target>
+      </trans-unit>
+      <trans-unit id="wUMOlCm" resname="Maillots Officiels CDM2014">
+        <source>Maillots Officiels CDM2014</source>
+        <target>Official Jerseys CDM2014</target>
+      </trans-unit>
+      <trans-unit id="f1VQlLe" resname="Un parcours sur mesure&lt;br&gt;&#10;                                        50 journalistes à bord&lt;br&gt;&#10;                                        un invité de marque&lt;br&gt;&#10;                                        vainqueur de la coupe du monde 1998.">
+        <source>Un parcours sur mesure&lt;br&gt;50 journalistes à bord&lt;br&gt;un invité de marque&lt;br&gt;vainqueur de la coupe du monde 1998.</source>
+        <target><![CDATA[A tailor-made journey with 50 journalists on board <br> a distinguished guest and winner of the 1998 World Cup.]]></target>
+      </trans-unit>
+      <trans-unit id="13sPC9t" resname="Votre événement">
+        <source>Votre événement</source>
+        <target>__Votre événement</target>
+      </trans-unit>
+      <trans-unit id="SWtMYIv" resname="Contactez-nous">
+        <source>Contactez-nous</source>
+        <target>Contact us</target>
+      </trans-unit>
+      <trans-unit id="QwMlDaN" resname="Maintenant">
+        <source>Maintenant</source>
+        <target>Now</target>
+      </trans-unit>
+      <trans-unit id="89fyfok" resname="Demande de Devis">
+        <source>Demande de Devis</source>
+        <target>Ask an Estimate de Devis</target>
+      </trans-unit>
+      <trans-unit id="b6snoZh" resname="services en option">
+        <source>services en option</source>
+        <target>Option Service</target>
+      </trans-unit>
+      <trans-unit id="U_8FtoI" resname="Pour ne manquer de rien lors de votre évènement, notre véhicule de stock vous réapprovisione en consommable tout au long de votre sortie.&lt;br&gt;&#10;                                &lt;i&gt;Mise en place uniquement sur décision du service logistique&lt;/i&gt;">
+        <source>Pour ne manquer de rien lors de votre évènement, notre véhicule de stock vous réapprovisione en consommable tout au long de votre sortie.&lt;br&gt;
+                                &lt;i&gt;Mise en place uniquement sur décision du service logistique&lt;/i&gt;</source>
+        <target><![CDATA[So as not to miss anything during your event, our stock vehicle will restock you with consumables throughout your outing. <br />
+								<i> Installation only by decision of the logistics service </i>]]></target>
+      </trans-unit>
+      <trans-unit id="F_ruSJs" resname="Détails">
+        <source>Détails</source>
+        <target>Details</target>
+      </trans-unit>
+      <trans-unit id="ibT2QBT" resname="Pour une maitrise parfaite de la chaine du froid, faites-nous livrer vos boissons et/ou traiteur avant votre évènement. &lt;br&gt;&#10;                                Nous vous garantissons une fraicheur optimale avec notre véhicule frigorifique qui réapprovisionne en permanence nos busdiscotheques&lt;br&gt;&#10;                                &lt;i&gt;Mise en place uniquement sur décision du service logistique&lt;/i&gt;">
+        <source>Pour une maitrise parfaite de la chaine du froid, faites-nous livrer vos boissons et/ou traiteur avant votre évènement. &lt;br&gt;
+                                Nous vous garantissons une fraicheur optimale avec notre véhicule frigorifique qui réapprovisionne en permanence nos busdiscotheques&lt;br&gt;
+                                &lt;i&gt;Mise en place uniquement sur décision du service logistique&lt;/i&gt;</source>
+        <target><![CDATA[For a perfect mastery of the cold chain, have us deliver your drinks and / or caterer before your event. <br />
+								We guarantee you optimal freshness with our refrigerated vehicle which permanently replenishes our busdiscotheques <br />
+								<i> Installation only by decision of the logistics service </i>]]></target>
+      </trans-unit>
+      <trans-unit id="2_9xxQv" resname="PHOTOGRAPHE">
+        <source>PHOTOGRAPHE</source>
+        <target>PHOTOGRAPHER</target>
+      </trans-unit>
+      <trans-unit id="BBY.VAc" resname="Souriez, posez, seul ou à plusieurs, notre photographe sera présent pour immortaliser le moment !&lt;br&gt;&#10;                                *Prestation valable selon la disponibilité de nos photographes.">
+        <source>Souriez, posez, seul ou à plusieurs, notre photographe sera présent pour immortaliser le moment !&lt;br&gt;
+                                *Prestation valable selon la disponibilité de nos photographes.</source>
+        <target><![CDATA[Smile, pose, alone or with others, our photographer will be there to capture the moment! <br>
+								* Service valid according to the availability of our photographers.]]></target>
+      </trans-unit>
+      <trans-unit id="rrC1FCN" resname="TRAITEUR &amp;amp; ALCOOL">
+        <source>TRAITEUR &amp;amp; ALCOOL</source>
+        <target><![CDATA[CATERING & ALCOHOL]]></target>
+      </trans-unit>
+      <trans-unit id="mtHIxBb" resname="Vin, Champagne, Bière... ?&lt;br&gt;&#10;                                A tarifs compétifis, demandez-nous la fourniture de vos boissons pour votre événement. Nous vous concocterons un devis adapté / personne.&lt;br&gt;&#10;                                *L'abus d'alcool est dangereux pour la santé. Consommez avec modération.">
+        <source>Vin, Champagne, Bière... ?&lt;br&gt;
+                                A tarifs compétifis, demandez-nous la fourniture de vos boissons pour votre événement. Nous vous concocterons un devis adapté / personne.&lt;br&gt;
+                                *L'abus d'alcool est dangereux pour la santé. Consommez avec modération.</source>
+        <target><![CDATA[Wine, Champagne, Beer ...?<br>
+								At competitive prices, ask us for the supply of your drinks for your event. We will put together a suitable quote / person.<br>
+								*Alcohol abuse is dangerous for health. Consume in moderation..]]></target>
+      </trans-unit>
+      <trans-unit id="LmGln3a" resname="le seul, l’unique, l’original.">
+        <source>le seul, l’unique, l’original.</source>
+        <target>__le seul, l’unique, l’original.</target>
+      </trans-unit>
+      <trans-unit id="QwhbgD4" resname="Bus discotheque paris customise et suréquipe ses disco bus en de véritable espace festif pour vos anniversaires ou tout autres évènements. Les disco bus de bus discothèque paris peuvent sillonner de jour comme de nuit les plus belles artères de la ville de Paris.">
+        <source>Bus discotheque paris customise et suréquipe ses disco bus en de véritable espace festif pour vos anniversaires ou tout autres évènements. Les disco bus de bus discothèque paris peuvent sillonner de jour comme de nuit les plus belles artères de la ville de Paris.</source>
+        <target>__Bus discotheque paris customise et suréquipe ses disco bus en de véritable espace festif pour vos anniversaires ou tout autres évènements. Les disco bus de bus discothèque paris peuvent sillonner de jour comme de nuit les plus belles artères de la ville de Paris.</target>
+      </trans-unit>
+      <trans-unit id="GLdeQjg" resname="Tarif&amp;nbsp;TTC de nos prestations pour nos différents bus :">
+        <source>Tarif&amp;nbsp;TTC de nos prestations pour nos différents bus :</source>
+        <target><![CDATA[__Tarif&nbsp;TTC de nos prestations pour nos différents bus :]]></target>
+      </trans-unit>
+      <trans-unit id="xfHojJ2" resname="Mini disco bus by">
+        <source>Mini disco bus by</source>
+        <target>__Mini disco bus by</target>
+      </trans-unit>
+      <trans-unit id="_BzSo65" resname="Standard Bus disco">
+        <source>Standard Bus disco</source>
+        <target>__Standard Bus disco</target>
+      </trans-unit>
+      <trans-unit id="uC7N7R2" resname="Double bus discotheque">
+        <source>Double bus discotheque</source>
+        <target>__Double bus discotheque</target>
+      </trans-unit>
+      <trans-unit id="6RJJPOU" resname="Longueur">
+        <source>Longueur</source>
+        <target>__Longueur</target>
+      </trans-unit>
+      <trans-unit id="2iYjTck" resname="Passagers">
+        <source>Passagers</source>
+        <target>__Passagers</target>
+      </trans-unit>
+      <trans-unit id="0YAcJK2" resname="TTC">
+        <source>TTC</source>
+        <target>__TTC</target>
+      </trans-unit>
+      <trans-unit id="EyOEfFZ" resname="Qu'est-ce que cela inclus ?">
+        <source>Qu'est-ce que cela inclus ?</source>
+        <target>__Qu'est-ce que cela inclus ?</target>
+      </trans-unit>
+      <trans-unit id="roZokRP" resname="NOTRE OFFRE À">
+        <source>NOTRE OFFRE À</source>
+        <target>__NOTRE OFFRE À</target>
+      </trans-unit>
+      <trans-unit id="Z22TuwA" resname="Location d'un Mini Bus &lt;b&gt;Karaoké&lt;/b&gt; pour">
+        <source>Location d'un Mini Bus &lt;b&gt;Karaoké&lt;/b&gt; pour</source>
+        <target><![CDATA[__Location d'un Mini Bus <b>Karaoké</b> pour]]></target>
+      </trans-unit>
+      <trans-unit id="s.yd5Sb" resname="à">
+        <source>à</source>
+        <target>__à</target>
+      </trans-unit>
+      <trans-unit id="3XJ90P_" resname="Ce tarif comprend :">
+        <source>Ce tarif comprend :</source>
+        <target>__Ce tarif comprend :</target>
+      </trans-unit>
+      <trans-unit id="wKN6JU9" resname="La mise à disposition du bus 30 minutes avant l'heure de départ">
+        <source>La mise à disposition du bus 30 minutes avant l'heure de départ</source>
+        <target>__La mise à disposition du bus 30 minutes avant l'heure de départ</target>
+      </trans-unit>
+      <trans-unit id="7GXGCHz" resname="Un chauffeur expérimenté pour vous faire découvrir Paris autrement">
+        <source>Un chauffeur expérimenté pour vous faire découvrir Paris autrement</source>
+        <target>__Un chauffeur expérimenté pour vous faire découvrir Paris autrement</target>
+      </trans-unit>
+      <trans-unit id="vZv_m.r" resname="Un accueil tapis rouge">
+        <source>Un accueil tapis rouge</source>
+        <target>__Un accueil tapis rouge</target>
+      </trans-unit>
+      <trans-unit id="IWn5BE4" resname="La personnalisation de l'afficheur extérieur">
+        <source>La personnalisation de l'afficheur extérieur</source>
+        <target>__La personnalisation de l'afficheur extérieur</target>
+      </trans-unit>
+      <trans-unit id="4FWcoVu" resname="Les boissons softs à volonté : eau, jus et sodas">
+        <source>Les boissons softs à volonté : eau, jus et sodas</source>
+        <target>__Les boissons softs à volonté : eau, jus et sodas</target>
+      </trans-unit>
+      <trans-unit id="tEVJKZK" resname="Les consommables : gobelets, serviettes de table, glaçons et flûtes de champagne">
+        <source>Les consommables : gobelets, serviettes de table, glaçons et flûtes de champagne</source>
+        <target>__Les consommables : gobelets, serviettes de table, glaçons et flûtes de champagne</target>
+      </trans-unit>
+      <trans-unit id="RKMGq5s" resname="La mise à disposition des écrans pour la diffusion de vos photos et/ou vidéos">
+        <source>La mise à disposition des écrans pour la diffusion de vos photos et/ou vidéos</source>
+        <target>__La mise à disposition des écrans pour la diffusion de vos photos et/ou vidéos</target>
+      </trans-unit>
+      <trans-unit id="0XajNh6" resname="Matériel de Karaoké (tablette, logiciel et 2 micros) à disposition">
+        <source>Matériel de Karaoké (tablette, logiciel et 2 micros) à disposition</source>
+        <target>__Matériel de Karaoké (tablette, logiciel et 2 micros) à disposition</target>
+      </trans-unit>
+      <trans-unit id="9QLaVsP" resname="Branchement pour votre smartphone et/ou tablette">
+        <source>Branchement pour votre smartphone et/ou tablette</source>
+        <target>__Branchement pour votre smartphone et/ou tablette</target>
+      </trans-unit>
+      <trans-unit id="M59cQMK" resname="Aucun droit de bouchon : vous pouvez apporter vos propres boissons">
+        <source>Aucun droit de bouchon : vous pouvez apporter vos propres boissons</source>
+        <target>__Aucun droit de bouchon : vous pouvez apporter vos propres boissons</target>
+      </trans-unit>
+      <trans-unit id="tMnuNUy" resname="Aucun droit de bouche : vous pouvez faire appel à votre propre traiteur">
+        <source>Aucun droit de bouche : vous pouvez faire appel à votre propre traiteur</source>
+        <target>__Aucun droit de bouche : vous pouvez faire appel à votre propre traiteur</target>
+      </trans-unit>
+      <trans-unit id="ZfAElWa" resname="Merci de nous contacter &lt;strong&gt;au">
+        <source>Merci de nous contacter &lt;strong&gt;au</source>
+        <target><![CDATA[__Merci de nous contacter <strong>au]]></target>
+      </trans-unit>
+      <trans-unit id="E5PK6DH" resname="ou par &lt;strong&gt;mail à">
+        <source>ou par &lt;strong&gt;mail à</source>
+        <target><![CDATA[__ou par <strong>mail à]]></target>
+      </trans-unit>
+      <trans-unit id="KQgsOo3" resname="pour réserver ce bus.">
+        <source>pour réserver ce bus.</source>
+        <target>__pour réserver ce bus.</target>
+      </trans-unit>
+      <trans-unit id="5j24Bkr" resname="Location d'un Simple Bus pour">
+        <source>Location d'un Simple Bus pour</source>
+        <target>__Location d'un Simple Bus pour</target>
+      </trans-unit>
+      <trans-unit id="RDjGW8z" resname="La mise à disposition du bus 30 minutes avant le départ,">
+        <source>La mise à disposition du bus 30 minutes avant le départ,</source>
+        <target>__La mise à disposition du bus 30 minutes avant le départ,</target>
+      </trans-unit>
+      <trans-unit id="VReBApK" resname="Un chauffeur experimenté pour vous faire découvrir Paris autrement">
+        <source>Un chauffeur experimenté pour vous faire découvrir Paris autrement</source>
+        <target>__Un chauffeur experimenté pour vous faire découvrir Paris autrement</target>
+      </trans-unit>
+      <trans-unit id="gP1eJ2x" resname="Un Dj à votre écoute pour mixer selon vos envies">
+        <source>Un Dj à votre écoute pour mixer selon vos envies</source>
+        <target>__Un Dj à votre écoute pour mixer selon vos envies</target>
+      </trans-unit>
+      <trans-unit id="jZ_yRZ1" resname="Un accueil Tapis Rouge">
+        <source>Un accueil Tapis Rouge</source>
+        <target>__Un accueil Tapis Rouge</target>
+      </trans-unit>
+      <trans-unit id="FcPeDJt" resname="La personnalisation de l'afficheur extérieur pour accueillir vos invités">
+        <source>La personnalisation de l'afficheur extérieur pour accueillir vos invités</source>
+        <target>__La personnalisation de l'afficheur extérieur pour accueillir vos invités</target>
+      </trans-unit>
+      <trans-unit id="PtBV8j1" resname="Les boissons softs à volonté : Eaux, jus, sodas">
+        <source>Les boissons softs à volonté : Eaux, jus, sodas</source>
+        <target>__Les boissons softs à volonté : Eaux, jus, sodas</target>
+      </trans-unit>
+      <trans-unit id="p3qXE4U" resname="Les consommables : gobelets, serviettes de tables, glaçons et flûtes de champagne">
+        <source>Les consommables : gobelets, serviettes de tables, glaçons et flûtes de champagne</source>
+        <target>__Les consommables : gobelets, serviettes de tables, glaçons et flûtes de champagne</target>
+      </trans-unit>
+      <trans-unit id="BUzo54F" resname="La mise à disposition des écrans pour la diffusion de vos photos et vidéos">
+        <source>La mise à disposition des écrans pour la diffusion de vos photos et vidéos</source>
+        <target>__La mise à disposition des écrans pour la diffusion de vos photos et vidéos</target>
+      </trans-unit>
+      <trans-unit id="URx3vU." resname="Aucun droit de bouchon: Vous pouvez apporter vos propres boissons">
+        <source>Aucun droit de bouchon: Vous pouvez apporter vos propres boissons</source>
+        <target>__Aucun droit de bouchon: Vous pouvez apporter vos propres boissons</target>
+      </trans-unit>
+      <trans-unit id="06QcLIT" resname="Aucun droit de bouche: Vous pouvez faire appel à votre propre traiteur">
+        <source>Aucun droit de bouche: Vous pouvez faire appel à votre propre traiteur</source>
+        <target>__Aucun droit de bouche: Vous pouvez faire appel à votre propre traiteur</target>
+      </trans-unit>
+      <trans-unit id="EWYiL0T" resname="Location d'un Double Bus pour">
+        <source>Location d'un Double Bus pour</source>
+        <target>__Location d'un Double Bus pour</target>
+      </trans-unit>
+      <trans-unit id="TiHHA88" resname="Un agent d'accueil pour la tranquillité de votre évènement">
+        <source>Un agent d'accueil pour la tranquillité de votre évènement</source>
+        <target>__Un agent d'accueil pour la tranquillité de votre évènement</target>
+      </trans-unit>
+      <trans-unit id=".eCncvn" resname="Le service au bar pour profiter pleinement de votre évènement">
+        <source>Le service au bar pour profiter pleinement de votre évènement</source>
+        <target>__Le service au bar pour profiter pleinement de votre évènement</target>
+      </trans-unit>
+      <trans-unit id="a6Hb6PK" resname="services inclus">
+        <source>services inclus</source>
+        <target>Inclusive Service</target>
+      </trans-unit>
+      <trans-unit id="MAqIVPG" resname="SAFE BUS !">
+        <source>SAFE BUS !</source>
+        <target>SAFE BUS !</target>
+      </trans-unit>
+      <trans-unit id="b3N3tFX" resname="Notre parc bénéficie d'un entretien très pointilleux, mais considérant que la mécanique est imprévisible nous vous garantissons un remplacement de votre busdiscotheque dans l'heure en cas d'incident technique.&#10;                                &lt;br&gt;&lt;u&gt;Busdiscotheque.com est la seule compagnie à vous garantir ce service&lt;/u&gt;">
+        <source>Notre parc bénéficie d'un entretien très pointilleux, mais considérant que la mécanique est imprévisible nous vous garantissons un remplacement de votre busdiscotheque dans l'heure en cas d'incident technique.
+                                &lt;br&gt;&lt;u&gt;Busdiscotheque.com est la seule compagnie à vous garantir ce service&lt;/u&gt;</source>
+        <target><![CDATA[Our fleet benefits from very meticulous maintenance, but considering that the mechanics are unpredictable we guarantee you a replacement of your busdiscotheque within an hour in the event of a technical incident.
+          <br /><u> Busdiscotheque.com is the only company to guarantee this service </u>]]></target>
+      </trans-unit>
+      <trans-unit id="H2ZAVqA" resname="CHAUFFEUR EXPERT">
+        <source>CHAUFFEUR EXPERT</source>
+        <target>EXPERT DRIVER</target>
+      </trans-unit>
+      <trans-unit id="X7aaOxU" resname="Mise à disposition d'un chauffeur experimenté.&lt;br&gt;Nos chauffeurs sauront vous conduire en toute sécurité et avec une grande souplesse tout au long de votre parcours.">
+        <source>Mise à disposition d'un chauffeur experimenté.&lt;br&gt;Nos chauffeurs sauront vous conduire en toute sécurité et avec une grande souplesse tout au long de votre parcours.</source>
+        <target><![CDATA[Provision of an experienced driver. <br /> Our drivers will drive you safely and with great flexibility throughout your journey.]]></target>
+      </trans-unit>
+      <trans-unit id="0FkEjGW" resname="AGENT D'ACCUEIL">
+        <source>AGENT D'ACCUEIL</source>
+        <target>HOME AGENT</target>
+      </trans-unit>
+      <trans-unit id="utS3SKu" resname="Mise à disposition d'un agent d'accueil*.&lt;br&gt;&#10;                                Pour un événement en toute tranquillité, nos agents de sécurité veilleront à ce que personne ne viennent vous importuner.">
+        <source>Mise à disposition d'un agent d'accueil*.&lt;br&gt;
+                                Pour un événement en toute tranquillité, nos agents de sécurité veilleront à ce que personne ne viennent vous importuner.</source>
+        <target><![CDATA[Provision of a reception agent *. <br />
+          For an event with complete peace of mind, our security officers will ensure that no one comes to disturb you.]]></target>
+      </trans-unit>
+      <trans-unit id="dTPqYge" resname="UNIQUEMENT DANS NOS BUS ARTICULÉS">
+        <source>UNIQUEMENT DANS NOS BUS ARTICULÉS</source>
+        <target>ONLY IN OUR ARTICULATED BUSES</target>
+      </trans-unit>
+      <trans-unit id="vR3XwO0" resname="DJ DÉDIÉ">
+        <source>DJ DÉDIÉ</source>
+        <target>DEDICATED DJ</target>
+      </trans-unit>
+      <trans-unit id="NBcQyxt" resname="Mise à disposition d'un DJ.&lt;br&gt;&#10;                                Présent tout au long de votre évènement, nos DJ sont là pour mixer sur toutes vos envies !">
+        <source>Mise à disposition d'un DJ.&lt;br&gt;
+                                Présent tout au long de votre évènement, nos DJ sont là pour mixer sur toutes vos envies !</source>
+        <target><![CDATA[Provision of the vehicle 30 minutes before departure. <br />
+          To ensure the placement and arrival of your guests in peace.]]></target>
+      </trans-unit>
+      <trans-unit id="O.8w8XR" resname="PRÉPARATIFS">
+        <source>PRÉPARATIFS</source>
+        <target>PREPARATIONS</target>
+      </trans-unit>
+      <trans-unit id="j1aSvfA" resname="Mise à disposition du véhicule 30min avant le départ.&lt;br&gt;&#10;                                Pour assurer une mise en place et l’arrivée de vos invités en toute tranquillité.">
+        <source>Mise à disposition du véhicule 30min avant le départ.&lt;br&gt;
+                                Pour assurer une mise en place et l’arrivée de vos invités en toute tranquillité.</source>
+        <target><![CDATA[Distribute your photos or videos. <br />
+								Animate the bus screens in your image!]]></target>
+      </trans-unit>
+      <trans-unit id="FG2RcJU" resname="ÉCRANS A DISPOSITION">
+        <source>ÉCRANS A DISPOSITION</source>
+        <target>AVAILABLE SCREENS</target>
+      </trans-unit>
+      <trans-unit id="kaE9p6h" resname="Diffuser vos photos ou vidéos.&lt;br&gt;&#10;                                Animez les écrans du bus à votre image !">
+        <source>Diffuser vos photos ou vidéos.&lt;br&gt;
+                                Animez les écrans du bus à votre image !</source>
+        <target><![CDATA[Distribute your photos or videos. <br />
+								Animate the bus screens in your image!]]></target>
+      </trans-unit>
+      <trans-unit id="MM5ChWW" resname="AFFICHEUR A DISPOSITION">
+        <source>AFFICHEUR A DISPOSITION</source>
+        <target>AVAILABLE DISPLAY</target>
+      </trans-unit>
+      <trans-unit id="Qt2tXOr" resname="Défilant, clignotant, tombant ou bien fixe, n’hésitez pas à communiquer sur votre événement.">
+        <source>Défilant, clignotant, tombant ou bien fixe, n’hésitez pas à communiquer sur votre événement.</source>
+        <target>Scrolling, flashing, falling or fixed, do not hesitate to communicate about your event.</target>
+      </trans-unit>
+      <trans-unit id="Z6IC1k8" resname="CONSOMMABLES">
+        <source>CONSOMMABLES</source>
+        <target>CONSUMABLES</target>
+      </trans-unit>
+      <trans-unit id="GNvk1Ah" resname="Pour une logistique parfaite, nous vous fournissons tous les consommables sans limite. (Verres, flûtes, glaçons, serviettes)">
+        <source>Pour une logistique parfaite, nous vous fournissons tous les consommables sans limite. (Verres, flûtes, glaçons, serviettes)</source>
+        <target>For perfect logistics, we provide you with all consumables without limit. (Glasses, flutes, ice cubes, towels)</target>
+      </trans-unit>
+      <trans-unit id="pWjS6HZ" resname="BOISSONS SOFT A VOLONTÉ">
+        <source>BOISSONS SOFT A VOLONTÉ</source>
+        <target>SOFT BEVERAGES AT WILL</target>
+      </trans-unit>
+      <trans-unit id="NJCsVXT" resname="Rafraichissez vous à votre souhait : L'aromatisé (jus de pomme, orange), Les bulles (Coca Fanta Sprite...), La pureté (eau plate et gazeuse)">
+        <source>Rafraichissez vous à votre souhait : L'aromatisé (jus de pomme, orange), Les bulles (Coca Fanta Sprite...), La pureté (eau plate et gazeuse)</source>
+        <target>Refresh yourself as you wish: The flavored (apple juice, orange), The bubbles (Coca Fanta Sprite ...), The purity (still and sparkling water)</target>
+      </trans-unit>
+      <trans-unit id="ix.IFp3" resname="AUCUN DROIT DE BOUCHON">
+        <source>AUCUN DROIT DE BOUCHON</source>
+        <target>NO CAP RIGHT</target>
+      </trans-unit>
+      <trans-unit id="LfIXB98" resname="Apportez vos propres boissons et consommer sans supplément!&lt;br&gt;&#10;                                Aucun frais ne vous sera ajouté !">
+        <source>Apportez vos propres boissons et consommer sans supplément!&lt;br&gt;
+                                Aucun frais ne vous sera ajouté !</source>
+        <target><![CDATA[Bring your own drinks and consume without extra charge! <br />No fees will be added to you!]]></target>
+      </trans-unit>
+      <trans-unit id="1bkXl4v" resname="AUCUN FRAIS DE BOUCHE">
+        <source>AUCUN FRAIS DE BOUCHE</source>
+        <target>NO MOUTH FEES</target>
+      </trans-unit>
+      <trans-unit id="41nvpnb" resname="Manger en toute liberté...&lt;br&gt;&#10;                                Apportez vos plateaux ou gâteaux rien ne vous sera facturé ! Vous pouvez également faire appel à votre propre traiteur.">
+        <source>Manger en toute liberté...&lt;br&gt;
+                                Apportez vos plateaux ou gâteaux rien ne vous sera facturé ! Vous pouvez également faire appel à votre propre traiteur.</source>
+        <target><![CDATA[Eat freely ... <br />You will not be charged for bringing your trays or cakes! You can also hire your own caterer.]]></target>
+      </trans-unit>
+      <trans-unit id="njd_Cr4" resname="CARTONS D'INVITATION">
+        <source>CARTONS D'INVITATION</source>
+        <target>INVITATION CARDS</target>
+      </trans-unit>
+      <trans-unit id="rJztoOx" resname="Choisissez, écrivez, postez ! En toute simplicité...&lt;br&gt;&#10;                                &lt;i&gt;*cartons d'invitation offert sur simple demande, modèle envoyé dans la journée&lt;/i&gt;">
+        <source>Choisissez, écrivez, postez ! En toute simplicité...&lt;br&gt;
+                                &lt;i&gt;*cartons d'invitation offert sur simple demande, modèle envoyé dans la journée&lt;/i&gt;</source>
+        <target><![CDATA[Choose, write, post! In all simplicity ... <br>
+								<i> * invitation cards offered on request, model sent during the day </i>]]></target>
+      </trans-unit>
+      <trans-unit id="X64QYi7" resname="Voir les Modèles">
+        <source>Voir les Modèles</source>
+        <target>See Models</target>
+      </trans-unit>
+      <trans-unit id="So82JW1" resname="SERVICE AU BAR">
+        <source>SERVICE AU BAR</source>
+        <target>BAR SERVICE</target>
+      </trans-unit>
+      <trans-unit id="bFynBbm" resname="Pour profiter pleinement de vos invités, pour vivre pleinement votre évènement, nous vous assurons le service au bar* à bord de nos busdiscotheque.&lt;br&gt;&#10;                                Le débit des boissons sera géré selon vos entières recommandations.&lt;br&gt;&#10;                                &lt;i&gt;*Inclus uniquement dans nos Bus SEVEN et ECLIPSE et DARKKISS&lt;/i&gt;">
+        <source>Pour profiter pleinement de vos invités, pour vivre pleinement votre évènement, nous vous assurons le service au bar* à bord de nos busdiscotheque.&lt;br&gt;
+                                Le débit des boissons sera géré selon vos entières recommandations.&lt;br&gt;
+                                &lt;i&gt;*Inclus uniquement dans nos Bus SEVEN et ECLIPSE et DARKKISS&lt;/i&gt;</source>
+        <target><![CDATA[To take full advantage of your guests, to fully experience your event, we provide you with service at the bar * on board our busdiscotheque. <br />
+								The flow of drinks will be managed according to your entire recommendations. <br>
+								<i> * Included only in our SEVEN and ECLIPSE and DARKKISS buses </i>]]></target>
+      </trans-unit>
+      <trans-unit id="qNmqawz" resname="TAPIS ROUGE">
+        <source>TAPIS ROUGE</source>
+        <target>RED CARPET</target>
+      </trans-unit>
+      <trans-unit id="p_eYgRs" resname="Pour honorer vos invités à bord du bus, accueillez les avec un tapis rouge à la montée du bus discothèque. Effet garanti !">
+        <source>Pour honorer vos invités à bord du bus, accueillez les avec un tapis rouge à la montée du bus discothèque. Effet garanti !</source>
+        <target>To honor your guests on board the bus, welcome them with a red carpet when the disco bus climbs. Guaranteed effect!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

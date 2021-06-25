@@ -10,7 +10,7 @@ use Symfony\Component\HttpFoundation\Request;
 class DefaultController extends AbstractController
 {
     /**
-     * @Route("/", name="index")
+     * @Route("/{_locale<%app.supported_locales%>}", name="index")
      */
     public function index()
     {
@@ -19,7 +19,7 @@ class DefaultController extends AbstractController
         ]);
     }
     /**
-     * @Route("/communique", name="communique")
+     * @Route("/{_locale<%app.supported_locales%>}/communique", name="communique")
      */
 /*    public function communique()
     {
@@ -28,7 +28,7 @@ class DefaultController extends AbstractController
         ]);
     }*/
     /**
-     * @Route("/nouveautes", name="news")
+     * @Route("/{_locale<%app.supported_locales%>}/nouveautes", name="news")
      */
     public function news()
     {
@@ -37,7 +37,7 @@ class DefaultController extends AbstractController
       ]);
     }
     /**
-     * @Route("/nos_bus/nos_bus_mini/{bus_name}", name="bus_mini")
+     * @Route("/{_locale<%app.supported_locales%>}/nos_bus/nos_bus_mini/{bus_name}", name="bus_mini")
      */
     public function bus_mini($bus_name)
     {
@@ -47,7 +47,7 @@ class DefaultController extends AbstractController
       ]);
     }
     /**
-     * @Route("/nos_bus/nos_bus_simples/{bus_name}", name="bus_simple")
+     * @Route("/{_locale<%app.supported_locales%>}/nos_bus/nos_bus_simples/{bus_name}", name="bus_simple")
      */
     public function bus_simple($bus_name)
     {
@@ -57,7 +57,7 @@ class DefaultController extends AbstractController
       ]);
     }
     /**
-     * @Route("/nos_bus/nos_bus_double/{bus_name}", name="bus_double")
+     * @Route("/{_locale<%app.supported_locales%>}/nos_bus/nos_bus_doubles/{bus_name}", name="bus_double")
      */
     public function bus_double($bus_name)
     {
@@ -67,7 +67,7 @@ class DefaultController extends AbstractController
       ]);
     }
     /**
-     * @Route("/tarifs", name="tarifs")
+     * @Route("/{_locale<%app.supported_locales%>}/tarifs", name="tarifs")
      */
     public function tarifs()
     {
@@ -76,7 +76,7 @@ class DefaultController extends AbstractController
       ]);
     }
     /**
-     * @Route("/services", name="services")
+     * @Route("/{_locale<%app.supported_locales%>}/services", name="services")
      */
     public function services()
     {
@@ -85,7 +85,7 @@ class DefaultController extends AbstractController
       ]);
     }
     /**
-     * @Route("/services/inclus", name="services_inclus")
+     * @Route("/{_locale<%app.supported_locales%>}/services/inclus", name="services_inclus")
      */
     public function services_inclus()
     {
@@ -94,7 +94,7 @@ class DefaultController extends AbstractController
       ]);
     }
     /**
-     * @Route("/services/option", name="services_option")
+     * @Route("/{_locale<%app.supported_locales%>}/services/option", name="services_option")
      */
     public function services_option()
     {
@@ -103,7 +103,7 @@ class DefaultController extends AbstractController
       ]);
     }
     /**
-     * @Route("/qui_sommes_nous", name="qui_sommes_nous")
+     * @Route("/{_locale<%app.supported_locales%>}/qui_sommes_nous", name="qui_sommes_nous")
      */
     public function qui_sommes_nous()
     {
@@ -112,7 +112,7 @@ class DefaultController extends AbstractController
       ]);
     }
     /**
-     * @Route("/qui_sont_ils", name="qui_sont_ils")
+     * @Route("/{_locale<%app.supported_locales%>}/qui_sont_ils", name="qui_sont_ils")
      */
     public function qui_sont_ils()
     {
@@ -121,7 +121,7 @@ class DefaultController extends AbstractController
       ]);
     }
     /**
-     * @Route("/comparer", name="qui_sommes_nous")
+     * @Route("/{_locale<%app.supported_locales%>}/comparer", name="qui_sommes_nous")
      */
     public function comparer()
     {
@@ -130,7 +130,7 @@ class DefaultController extends AbstractController
       ]);
     }
     /**
-     * @Route("/reservation", name="reservation")
+     * @Route("/{_locale<%app.supported_locales%>}/reservation", name="reservation")
      */
     public function reservation()
     {
@@ -139,7 +139,7 @@ class DefaultController extends AbstractController
       ]);
     }
     /**
-     * @Route("/roadvertising", name="roadvertising")
+     * @Route("/{_locale<%app.supported_locales%>}/roadvertising", name="roadvertising")
      */
     public function roadvertising()
     {
@@ -148,12 +148,57 @@ class DefaultController extends AbstractController
       ]);
     }
     /**
-     * @Route("/parcours", name="parcours")
+     * @Route("/{_locale<%app.supported_locales%>}/parcours", name="parcours")
      */
     public function parcours()
     {
       return $this->render('default/parcours.html.twig', [
        'current_page' => 'parcours',
+      ]);
+    }
+    /**
+     * @Route("/{_locale<%app.supported_locales%>}/location-soiree-bus-paris", name="bottom1")
+     */
+    public function bottom1()
+    {
+      return $this->render('default/bottom1.html.twig', [
+       'current_page' => 'bottom1',
+      ]);
+    }
+    /**
+     * @Route("/{_locale<%app.supported_locales%>}/soiree-bus-a-paris-garantie", name="bottom2")
+     */
+    public function bottom2()
+    {
+      return $this->render('default/bottom2.html.twig', [
+       'current_page' => 'bottom2',
+      ]);
+    }
+    /**
+     * @Route("/{_locale<%app.supported_locales%>}/location-de-bus-boite-de-nuit", name="bottom3")
+     */
+    public function bottom3()
+    {
+      return $this->render('default/bottom3.html.twig', [
+       'current_page' => 'bottom3',
+      ]);
+    }
+    /**
+     * @Route("/{_locale<%app.supported_locales%>}/notre-parc-de-discobus", name="bottom4")
+     */
+    public function bottom4()
+    {
+      return $this->render('default/bottom4.html.twig', [
+       'current_page' => 'bottom4',
+      ]);
+    }
+    /**
+     * @Route("/{_locale<%app.supported_locales%>}/pourquoi-louer-un-busdiscotheque", name="bottom5")
+     */
+    public function bottom5()
+    {
+      return $this->render('default/bottom5.html.twig', [
+       'current_page' => 'bottom5',
       ]);
     }
 }

@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="content">
-                        <h3>Comparer avec la concurrence</h3>
+                        <h3>{% trans %}Comparer avec la concurrence{% endtrans %}</h3>
                     </div>
                 </div>
             </div>
@@ -16,9 +16,9 @@
             <div class="row">
                 <div class="col-12">
                     <div class="faq_content_wrapper">
-                        <h4>Faisons simple, en 3 points :</h4>
+                        <h4>{% trans %}Faisons simple, en 3 points :{% endtrans %}</h4>
                         <p>
-                            Un exemple parmi tant d’autres :
+                            {% trans %}Un exemple parmi tant d’autres :{% endtrans %}
                         </p>
                     </div>
                 </div>
@@ -33,7 +33,7 @@
                         <div class="card card_dipult">
                             <div class="card-header card_accor" id="headingOne">
                                 <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Le Prix : ils sont jusqu’à 96 % plus cher que nous. Exemple de location pour un bus identique de 30 personnes.
+                                    {% trans %}Le Prix : ils sont jusqu’à 96 % plus cher que nous. Exemple de location pour un bus identique de 30 personnes.{% endtrans %}
                                     <i class="fa fa-plus"></i>
                                     <i class="fa fa-minus"></i>
                                 </button>
@@ -48,35 +48,35 @@
                                                         <thead>
                                                             <tr>
                                                                 <th class="product_thumb"></th>
-                                                                <th class="product_name">Durée</th>
-                                                                <th class="product-price">Prix</th>
-                                                                <th class="product_quantity">Ecart</th>
-                                                                <th class="product_total">Surcoût</th>
-                                                                <th class="product_total">Justificatif</th>
+                                                                <th class="product_name">{% trans %}Durée{% endtrans %}</th>
+                                                                <th class="product-price">{% trans %}Prix{% endtrans %}</th>
+                                                                <th class="product_quantity">{% trans %}Ecart{% endtrans %}</th>
+                                                                <th class="product_total">{% trans %}Surcoût{% endtrans %}</th>
+                                                                <th class="product_total">{% trans %}Justificatif{% endtrans %}</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
-                                                                <td class="product-price">BUS DISCOTHEQUE</td>
+                                                                <td class="product-price">"BUS DISCOTHEQUE"</td>
                                                                 <td class="product-price">4h</td>
                                                                 <td class="product-price">1090 €</td>
                                                                 <td class="product-price"></td>
                                                                 <td class="product-price"></td>
                                                                 <td class="product-price">
-                                                                    <a href="{{ asset('build/images/docs/devis/busdiscotheque.pdf') }}" data-placement="top" title="Justificatif de comparaison" data-original-title="Justificatif de comparaison" tabindex="0" target="_blank">
+                                                                    <a href="{{ asset('build/images/docs/devis/busdiscotheque.pdf') }}" data-placement="top" title="{% trans %}Justificatif de comparaison{% endtrans %} data-original-title="{% trans %}Justificatif de comparaison{% endtrans %}" tabindex="0" target="_blank">
                                                                         <i class="fa fa-file"></i>
                                                                     </a>
                                                                 </td>
                                                             </tr>
                                                             <tr>
-                                                                <td class="product-price">PARTY BUS ou SOIREE BUS</td>
+                                                                <td class="product-price">PARTY BUS {% trans %}ou{% endtrans %} SOIREE BUS</td>
                                                                 <td class="product-price">4h</td>
                                                                 <td class="product-price">2140 €</td>
                                                                 <td class="product-price">+1050 €</td>
                                                                 <td class="product-price"><a href="#">+96%</a></td>
                                                                 <td class="product-price">
-                                                                    <a href="<?= $base_url_client; ?>docs/devis/partybus-soireebus.pdf" data-placement="top" title="Justificatif de comparaison" data-original-title="Justificatif de comparaison" tabindex="0" target="_blank">
-                                                                        <i class="fa fa-file"></i>
+                                                                    <a href="{{ asset('build/images/docs/devis/partybus-soireebus.pdf') }}" data-placement="top" title="{% trans %}Justificatif de comparaison{% endtrans %} data-original-title="{% trans %}Justificatif de comparaison{% endtrans %}" tabindex="0" target="_blank">
+                                                                    <i class="fa fa-file"></i>
                                                                     </a>
                                                                 </td>
                                                             </tr>
@@ -87,7 +87,7 @@
                                                                 <td class="product-price">+400 €</td>
                                                                 <td class="product-price"><a href="#">+35%</a></td>
                                                                 <td class="product-price">
-                                                                    <a href="{{ asset('build/images/docs/devis/allnightbus.pdf') }}" data-placement="top" title="Justificatif de comparaison" data-original-title="Justificatif de comparaison" tabindex="0" target="_blank">
+                                                                    <a href="{{ asset('build/images/docs/devis/allnightbus.pdf') }}" data-placement="top" title="{% trans %}Justificatif de comparaison{% endtrans %} data-original-title="{% trans %}Justificatif de comparaison{% endtrans %}" tabindex="0" target="_blank">
                                                                         <i class="fa fa-file"></i>
                                                                     </a>
                                                                 </td>
@@ -99,7 +99,7 @@
                                                                 <td class="product-price">+630 €</td>
                                                                 <td class="product-price"><a href="#">+55%</a></td>
                                                                 <td class="product-price">
-                                                                    <a href="{{ asset('build/images/docs/devis/stanandwalter.pdf') }}"  data-placement="top" title="Justificatif de comparaison" data-original-title="Justificatif de comparaison" tabindex="0" target="_blank">
+                                                                    <a href="{{ asset('build/images/docs/devis/stanandwalter.pdf') }}"  data-placement="top" title="{% trans %}Justificatif de comparaison{% endtrans %} data-original-title="{% trans %}Justificatif de comparaison{% endtrans %}" tabindex="0" target="_blank">
                                                                         <i class="fa fa-file"></i>
                                                                     </a>
                                                                 </td>
@@ -116,7 +116,7 @@
                         <div class="card  card_dipult">
                             <div class="card-header card_accor" id="headingTwo">
                                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Les Services : Ils vous offrent beaucoup moins de services
+                                    {% trans %}Les Services : Ils vous offrent beaucoup moins de services{% endtrans %}
                                     <i class="fa fa-plus"></i>
                                     <i class="fa fa-minus"></i>
                                 </button>
@@ -131,34 +131,34 @@
                                                         <thead>
                                                             <tr>
                                                                 <th class="product_thumb"></th>
-                                                                <th class="product_name">La Prestation comprend</th>
+                                                                <th class="product_name">{% trans %}La Prestation comprend{% endtrans %}</th>
                                                                 <th class="product_total"> </th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
                                                                 <td class="product-price">BUS DISCOTHEQUE</td>
-                                                                <td class="product-price"><a href="?p=services_inclus">Tout est inclus</a> (sauf alcool et traiteur)</td>
+                                                                <td class="product-price"><a href="?p=services_inclus">{% trans %}Tout est inclus{% endtrans %}</a> "{% trans %}(sauf alcool et traiteur){% endtrans %}"</td>
                                                                 <td class="product-price">
-                                                                    <a href="{{ asset('build/images/docs/devis/busdiscotheque.pdf') }}" data-placement="top" title="Justificatif de comparaison" data-original-title="Justificatif de comparaison" tabindex="0" target="_blank">
+                                                                    <a href="{{ asset('build/images/docs/devis/busdiscotheque.pdf') }}" data-placement="top" title="{% trans %}Justificatif de comparaison{% endtrans %}" data-original-title="{% trans %}Justificatif de comparaison{% endtrans %}" tabindex="0" target="_blank">
                                                                         <i class="fa fa-file"></i>
                                                                     </a>
                                                                 </td>
                                                             </tr>
                                                             <tr>
                                                                 <td class="product-price">PARTY BUS</td>
-                                                                <td class="product-price">TV payante, Afficheur payant, Tapis rouge payant, Horaires imposés, Lieux de départs payants</td>
+                                                                <td class="product-price">{% trans %}TV payante, Afficheur payant, Tapis rouge payant, Horaires imposés, Lieux de départs payants{% endtrans %}</td>
                                                                 <td class="product-price">
-                                                                    <a href="<?= $base_url_client; ?>docs/devis/partybus-soireebus.pdf" data-placement="top" title="Justificatif de comparaison" data-original-title="Justificatif de comparaison" tabindex="0" target="_blank">
+                                                                    <a href="{{ asset('build/images/docs/devis/partybus-soireebus.pdf') }}" data-placement="top" title="{% trans %}Justificatif de comparaison{% endtrans %}" data-original-title="{% trans %}Justificatif de comparaison{% endtrans %}" tabindex="0" target="_blank">
                                                                         <i class="fa fa-file"></i>
                                                                     </a>
                                                                 </td>
                                                             </tr>
                                                             <tr>
                                                                 <td class="product-price">SOIREE BUS</td>
-                                                                <td class="product-price">TV payante, Afficheur payant, Tapis rouge payant, Horaires imposés, Lieux de départs payants</td>
+                                                                <td class="product-price">{% trans %}TV payante, Afficheur payant, Tapis rouge payant, Horaires imposés, Lieux de départs payants{% endtrans %}</td>
                                                                 <td class="product-price">
-                                                                    <a href="<?= $base_url_client; ?>docs/devis/partybus-soireebus.pdf" data-placement="top" title="Justificatif de comparaison" data-original-title="Justificatif de comparaison" tabindex="0" target="_blank">
+                                                                    <a href="{{ asset('build/images/docs/devis/partybus-soireebus.pdf') }}" data-placement="top" title="{% trans %}Justificatif de comparaison{% endtrans %}" data-original-title="{% trans %}Justificatif de comparaison{% endtrans %}" tabindex="0" target="_blank">
                                                                         <i class="fa fa-file"></i>
                                                                     </a>
                                                                 </td>
@@ -166,12 +166,12 @@
                                                             <tr>
                                                                 <td class="product-price">ALL NIGHT BUS</td>
                                                                 <td class="product-price">
-                                                                    <a href="{{ asset('build/images/docs/devis/allnightbus.pdf') }}" data-placement="top" title="Justificatif de comparaison" data-original-title="Justificatif de comparaison" tabindex="0" target="_blank">
-                                                                        voir devis
+                                                                    <a href="{{ asset('build/images/docs/devis/allnightbus.pdf') }}" data-placement="top" title="{% trans %}Justificatif de comparaison{% endtrans %}" data-original-title="{% trans %}Justificatif de comparaison{% endtrans %}" tabindex="0" target="_blank">
+                                                                        {% trans %}voir devis{% endtrans %}
                                                                     </a>
                                                                 </td>
                                                                 <td class="product-price">
-                                                                    <a href="{{ asset('build/images/docs/devis/allnightbus.pdf') }}" data-placement="top" title="Justificatif de comparaison" data-original-title="Justificatif de comparaison" tabindex="0" target="_blank">
+                                                                    <a href="{{ asset('build/images/docs/devis/allnightbus.pdf') }}" data-placement="top" title="{% trans %}Justificatif de comparaison{% endtrans %}" data-original-title="{% trans %}Justificatif de comparaison{% endtrans %}" tabindex="0" target="_blank">
                                                                         <i class="fa fa-file"></i>
                                                                     </a>
                                                                 </td>
@@ -179,12 +179,12 @@
                                                             <tr>
                                                                 <td class="product-price">STAN & WALTER</td>
                                                                 <td class="product-price">
-                                                                    <a href="{{ asset('build/images/docs/devis/stanandwalter.pdf') }}" data-placement="top" title="Justificatif de comparaison" data-original-title="Justificatif de comparaison" tabindex="0" target="_blank">
-                                                                        voir devis
+                                                                    <a href="{{ asset('build/images/docs/devis/stanandwalter.pdf') }}" data-placement="top" title="{% trans %}Justificatif de comparaison{% endtrans %}" data-original-title="{% trans %}Justificatif de comparaison{% endtrans %}" tabindex="0" target="_blank">
+                                                                        {% trans %}voir devis{% endtrans %}"
                                                                     </a>
                                                                 </td>
                                                                 <td class="product-price">
-                                                                    <a href="{{ asset('build/images/docs/devis/stanandwalter.pdf') }}"  data-placement="top" title="Justificatif de comparaison" data-original-title="Justificatif de comparaison" tabindex="0" target="_blank">
+                                                                    <a href="{{ asset('build/images/docs/devis/stanandwalter.pdf') }}"  data-placement="top" title="{% trans %}Justificatif de comparaison{% endtrans %}|" data-original-title="{% trans %}Justificatif de comparaison{% endtrans %}" tabindex="0" target="_blank">
                                                                         <i class="fa fa-file"></i>
                                                                     </a>
                                                                 </td>
@@ -201,7 +201,7 @@
                         <div class="card card_dipult">
                             <div class="card-header card_accor" id="headingThree">
                                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Les Véhicules : Ils ne possèdent chacun qu'un seul véhicule vendu jusqu’à 60 personnes quand bus discothèque vous met le même véhicule à disposition pour 30 personnes
+                                    {% trans %}Les Véhicules : Ils ne possèdent chacun qu'un seul véhicule vendu jusqu’à 60 personnes quand bus discothèque vous met le même véhicule à disposition pour 30 personnes{% endtrans %}
                                     <i class="fa fa-plus"></i>
                                     <i class="fa fa-minus"></i>
                                 </button>
@@ -216,47 +216,47 @@
                                                         <thead>
                                                             <tr>
                                                                 <th class="product_thumb"></th>
-                                                                <th class="product_name">Flotte</th>
-                                                                <th class="product_total">Total</th>
+                                                                <th class="product_name">{% trans %}Flotte{% endtrans %}</th>
+                                                                <th class="product_total">{% trans %}Total{% endtrans %}</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
                                                                 <td class="product-price">BUS DISCOTHEQUE</td>
                                                                 <td class="product-price">
-                                                                    2 bus de 25 personnes<br />
-                                                                    5 bus de 30 personnes<br />
-                                                                    4 bus de 65 personnes
+                                                                    {% trans %}2 bus de 25 personnes{% endtrans %}<br />
+                                                                    {% trans %}5 bus de 30 personnes{% endtrans %}<br />
+                                                                    {% trans %}4 bus de 65 personnes{% endtrans %}
                                                                 </td>
-                                                                <td class="product-price">11 BUS</td>
+                                                                <td class="product-price">{% trans %}11 BUS{% endtrans %}</td>
                                                             </tr>
                                                             <tr>
                                                                 <td class="product-price">PARTY BUS</td>
                                                                 <td class="product-price">
-                                                                    1 bus de 20 personnes (vendu pour 30)
+                                                                    {% trans %}1 bus de 20 personnes (vendu pour 30){% endtrans %}
                                                                 </td>
-                                                                <td class="product-price">1 BUS</td>
+                                                                <td class="product-price">{% trans %}1 BUS{% endtrans %}"</td>
                                                             </tr>
                                                             <tr>
                                                                 <td class="product-price">SOIREE BUS</td>
                                                                 <td class="product-price">
-                                                                    1 bus de 30 personnes (vendu pour 45)
+                                                                    {% trans %}1 bus de 30 personnes (vendu pour 45){% endtrans %}
                                                                 </td>
-                                                                <td class="product-price">1 BUS</td>
+                                                                <td class="product-price">{% trans %}1 BUS{% endtrans %}</td>
                                                             </tr>
                                                             <tr>
                                                                 <td class="product-price">ALL NIGHT BUS</td>
                                                                 <td class="product-price">
-                                                                    1 bus de 30 personnes (vendu pour 60)
+                                                                    {% trans %}1 bus de 30 personnes (vendu pour 60){% endtrans %}
                                                                 </td>
-                                                                <td class="product-price">1 BUS</td>
+                                                                <td class="product-price">{% trans %}1 BUS{% endtrans %}</td>
                                                             </tr>
                                                             <tr>
                                                                 <td class="product-price">STAN & WALTER</td>
                                                                 <td class="product-price">
-                                                                    1 bus de 40 personnes (vendu pour 50)
+                                                                    {% trans %}1 bus de 40 personnes (vendu pour 50){% endtrans %}
                                                                 </td>
-                                                                <td class="product-price">1 BUS</td>
+                                                                <td class="product-price">{% trans %}1 BUS{% endtrans %}</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
@@ -270,7 +270,7 @@
                         <div class="card  card_dipult">
                             <div class="card-header card_accor" id="headingfour">
                                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseeight" aria-expanded="false" aria-controls="collapseeight">
-                                    Qu’est ce qui justifient cette différence ?
+                                    {% trans %}Qu’est ce qui justifient cette différence ?{% endtrans %}
                                     <i class="fa fa-plus"></i>
                                     <i class="fa fa-minus"></i>
                                 </button>
@@ -278,9 +278,9 @@
                             <div id="collapseeight" class="collapse" aria-labelledby="headingfour" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
-                                        Rien absolument rien, non seulement rien ne justifie mais pire il y’a encore moins de service.<br />
+                                        {% trans %}Rien absolument rien, non seulement rien ne justifie mais pire il y’a encore moins de service.<br />
                                         Alors ne croyez rien de ce qu’ils vous disent au téléphone, « nous c’est du haut de gamme, c’est du luxe, du prestige etc … tout cela ne sont que des mots rien de plus, leur seul objectif c’est de vous faire payer plus.<br />
-                                        Venez nous rencontrer, visiter nos bus et comparer avec les autres nous sommes imbattables sur le prix, le service, les véhicules<br />
+                                        Venez nous rencontrer, visiter nos bus et comparer avec les autres nous sommes imbattables sur le prix, le service, les véhicules<br />{% endtrans %}
                                     </p>
                                 </div>
                             </div>
@@ -295,12 +295,12 @@
             <div class="row">
                 <div class="col-12">
                     <div class="faq_content_wrapper">
-                        <h4>Pour résumer</h4>
+                        <h4>{% trans %}Pour résumer{% endtrans %}</h4>
                         <p>
-                            Ailleurs c’est largement moins bien et c’est beaucoup plus cher.<br />
+                            {% trans %}Ailleurs c’est largement moins bien et c’est beaucoup plus cher.<br />
                             Êtes-vous sûr de vouloir confier votre évènement à ces personnes, et payer beaucoup plus cher pour avoir moins de service ?<br />
                             Etes-vous sur que vous et vos invités ne mériteraient pas plus de confort plus de sécurité, plus de service ?<br />
-                            Bien sûr que oui, alors n’hésitez plus une seule seconde les bus discothèques c’est NOUS
+                            Bien sûr que oui, alors n’hésitez plus une seule seconde les bus discothèques c’est NOUS{% endtrans %}
                         </p>
                     </div>
                 </div>

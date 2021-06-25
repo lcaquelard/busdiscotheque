@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="content">
-                        <h3>services inclus</h3>
+                        <h3>{% trans %}services inclus{% endtrans %}</h3>
                     </div>
                 </div>
             </div>
@@ -20,10 +20,10 @@
                             <img src="{{ asset('build/images/icon/ico-safe.svg') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>SAFE BUS !</h3>
+                            <h3>{% trans %}SAFE BUS !{% endtrans %}</h3>
                             <p>
-                                Notre parc bénéficie d'un entretien très pointilleux, mais considérant que la mécanique est imprévisible nous vous garantissons un remplacement de votre busdiscotheque dans l'heure en cas d'incident technique.
-                                <br><u>Busdiscotheque.com est la seule compagnie à vous garantir ce service</u>
+                                {% trans %}Notre parc bénéficie d'un entretien très pointilleux, mais considérant que la mécanique est imprévisible nous vous garantissons un remplacement de votre busdiscotheque dans l'heure en cas d'incident technique.
+                                <br><u>Busdiscotheque.com est la seule compagnie à vous garantir ce service</u>{% endtrans %}
                             </p>
                         </div>
                     </div>
@@ -34,9 +34,9 @@
                             <img src="{{ asset('build/images/icon/ico-driver.svg') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>CHAUFFEUR EXPERT</h3>
+                            <h3>{% trans %}CHAUFFEUR EXPERT{% endtrans %}</h3>
                             <p>
-                                Mise à disposition d'un chauffeur experimenté.<br>Nos chauffeurs sauront vous conduire en toute sécurité et avec une grande souplesse tout au long de votre parcours.
+                                {% trans %}Mise à disposition d'un chauffeur experimenté.<br>Nos chauffeurs sauront vous conduire en toute sécurité et avec une grande souplesse tout au long de votre parcours.{% endtrans %}
                             </p>
                         </div>
                     </div>
@@ -47,12 +47,12 @@
                             <img src="{{ asset('build/images/icon/ico-secu.svg') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>AGENT D'ACCUEIL</h3>
+                            <h3>{% trans %}AGENT D'ACCUEIL{% endtrans %}</h3>
                             <p>
-                                Mise à disposition d'un agent d'accueil*.<br>
-                                Pour un événement en toute tranquillité, nos agents de sécurité veilleront à ce que personne ne viennent vous importuner.
+                                {% trans %}Mise à disposition d'un agent d'accueil*.<br>
+                                Pour un événement en toute tranquillité, nos agents de sécurité veilleront à ce que personne ne viennent vous importuner.{% endtrans %}
                                 <br>
-                                <small><u>*UNIQUEMENT DANS NOS BUS ARTICULES</u></small>
+                                <small><u>*{% trans %}UNIQUEMENT DANS NOS BUS ARTICULÉS{% endtrans %}</u></small>
                             </p>
                         </div>
                     </div>
@@ -63,10 +63,10 @@
                             <img src="{{ asset('build/images/icon/ico-dj.svg') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>DJ DEDIE</h3>
+                            <h3>{% trans %}DJ DÉDIÉ{% endtrans %}</h3>
                             <p>
-                                Mise à disposition d'un DJ.<br>
-                                Présent tout au long de votre évènement, nos DJ sont là pour mixer sur toutes vos envies !
+                                {% trans %}Mise à disposition d'un DJ.<br>
+                                Présent tout au long de votre évènement, nos DJ sont là pour mixer sur toutes vos envies !{% endtrans %}
                             </p>
                         </div>
                     </div>
@@ -77,10 +77,10 @@
                             <img src="{{ asset('build/images/icon/ico-bus.svg') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>PREPARATIFS</h3>
+                            <h3>{% trans %}PRÉPARATIFS{% endtrans %}</h3>
                             <p>
-                                Mise à disposition du véhicule 30min avant le départ.<br>
-                                Pour assurer une mise en place et l’arrivée de vos invités en toute tranquillité.
+                                {% trans %}Mise à disposition du véhicule 30min avant le départ.<br>
+                                Pour assurer une mise en place et l’arrivée de vos invités en toute tranquillité.{% endtrans %}
                             </p>
                         </div>
                     </div>
@@ -91,10 +91,10 @@
                             <img src="{{ asset('build/images/icon/ico-screen.svg') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>ECRANS A DISPOSITION</h3>
+                            <h3>{% trans %}ÉCRANS A DISPOSITION{% endtrans %}</h3>
                             <p>
-                                Diffuser vos photos ou vidéos.<br>
-                                Animez les écrans du bus à votre image !
+                                {% trans %}Diffuser vos photos ou vidéos.<br>
+                                Animez les écrans du bus à votre image !{% endtrans %}
                             </p>
                         </div>
                     </div>
@@ -105,8 +105,8 @@
                             <img src="{{ asset('build/images/icon/ico-aff.svg') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>AFFICHEUR A DISPOSITION</h3>
-                            <p>Défilant, clignotant, tombant ou bien fixe, n’hésitez pas à communiquer sur votre événement.</p>
+                            <h3>{% trans %}AFFICHEUR A DISPOSITION{% endtrans %}</h3>
+                            <p>{% trans %}Défilant, clignotant, tombant ou bien fixe, n’hésitez pas à communiquer sur votre événement.{% endtrans %}</p>
                         </div>
                     </div>
                 </div>
@@ -117,8 +117,8 @@
                             <img src="{{ asset('build/images/icon/ico-glass.svg') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>CONSOMMABLES</h3>
-                            <p>Pour une logistique parfaite, nous vous fournissons tous les consommables sans limite. (Verres, flûtes, glaçons, serviettes)</p>
+                            <h3>{% trans %}CONSOMMABLES{% endtrans %}</h3>
+                            <p>{% trans %}Pour une logistique parfaite, nous vous fournissons tous les consommables sans limite. (Verres, flûtes, glaçons, serviettes){% endtrans %}</p>
                         </div>
                     </div>
                 </div>
@@ -129,8 +129,8 @@
                             <img src="{{ asset('build/images/icon/ico-soft.svg') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>BOISSONS SOFT A VOLONTE</h3>
-                            <p>Rafraichissez vous à votre souhait : L'aromatisé (jus de pomme, orange), Les bulles (Coca Fanta Sprite...), La pureté (eau plate et gazeuse)</p>
+                            <h3>{% trans %}BOISSONS SOFT A VOLONTÉ{% endtrans %}</h3>
+                            <p>{% trans %}Rafraichissez vous à votre souhait : L'aromatisé (jus de pomme, orange), Les bulles (Coca Fanta Sprite...), La pureté (eau plate et gazeuse){% endtrans %}</p>
                         </div>
                     </div>
                 </div>
@@ -141,10 +141,10 @@
                             <img src="{{ asset('build/images/icon/ico-bouchon.png') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>AUCUN DROIT DE BOUCHON</h3>
+                            <h3>{% trans %}AUCUN DROIT DE BOUCHON{% endtrans %}</h3>
                             <p>
-                                Apportez vos propres boissons et consommer sans supplément!<br>
-                                Aucun frais ne vous sera ajouté !
+                                {% trans %}Apportez vos propres boissons et consommer sans supplément!<br>
+                                Aucun frais ne vous sera ajouté !{% endtrans %}
                             </p>
                         </div>
                     </div>
@@ -156,10 +156,10 @@
                             <img src="{{ asset('build/images/icon/ico-bouche.png') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>AUCUN FRAIS DE BOUCHE</h3>
+                            <h3>{% trans %}AUCUN FRAIS DE BOUCHE{% endtrans %}</h3>
                             <p>
-                                Manger en toute liberté...<br>
-                                Apportez vos plateaux ou gâteaux rien ne vous sera facturé ! Vous pouvez également faire appel à votre propre traiteur.
+                                {% trans %}Manger en toute liberté...<br>
+                                Apportez vos plateaux ou gâteaux rien ne vous sera facturé ! Vous pouvez également faire appel à votre propre traiteur.{% endtrans %}
                             </p>
                         </div>
                     </div>
@@ -171,13 +171,13 @@
                             <img src="{{ asset('build/images/icon/ico-carton.svg') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>CARTONS D'INVITATION*</h3>
+                            <h3>{% trans %}CARTONS D'INVITATION{% endtrans %}*</h3>
                             <p>
-                                Choisissez, écrivez, postez ! En toute simplicité...<br>
-                                <i>*cartons d'invitation offert sur simple demande, modèle envoyé dans la journée</i><br>
+                                {% trans %}Choisissez, écrivez, postez ! En toute simplicité...<br>
+                                <i>*cartons d'invitation offert sur simple demande, modèle envoyé dans la journée</i>{% endtrans %}<br>
                             </p>
                             <div class="advantages_button small">
-                                <a href="#" data-toggle="modal" data-target="#modal-carton" data-placement="top" data-original-title="Voir les modèles" tabindex="0">Voir les Modèles</a>
+                                <a href="#" data-toggle="modal" data-target="#modal-carton" data-placement="top" data-original-title="Voir les modèles" tabindex="0">{% trans %}Voir les Modèles{% endtrans %}</a>
                             </div>
 
                             <p></p>
@@ -190,11 +190,11 @@
                             <img src="{{ asset('build/images/icon/ico-bar.svg') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>SERVICE AU BAR</h3>
+                            <h3>{% trans %}SERVICE AU BAR{% endtrans %}</h3>
                             <p>
-                                Pour profiter pleinement de vos invités, pour vivre pleinement votre évènement, nous vous assurons le service au bar* à bord de nos busdiscotheque.<br>
+                                {% trans %}Pour profiter pleinement de vos invités, pour vivre pleinement votre évènement, nous vous assurons le service au bar* à bord de nos busdiscotheque.<br>
                                 Le débit des boissons sera géré selon vos entières recommandations.<br>
-                                <i>*Inclus uniquement dans nos Bus SEVEN et ECLIPSE et DARKKISS</i>
+                                <i>*Inclus uniquement dans nos Bus SEVEN et ECLIPSE et DARKKISS</i>{% endtrans %}
                             </p>
                         </div>
                     </div>
@@ -205,9 +205,9 @@
                             <img src="{{ asset('build/images/icon/ico-tapis.svg') }}" class="ico" style="min-width: 40px;"/>
                         </div>
                         <div class="services_desc">
-                            <h3>TAPIS ROUGE</h3>
+                            <h3>{% trans %}TAPIS ROUGE{% endtrans %}</h3>
                             <p>
-                                Pour honorer vos invités à bord du bus, accueillez les avec un tapis rouge à la montée du bus discothèque. Effet garanti !
+                                {% trans %}Pour honorer vos invités à bord du bus, accueillez les avec un tapis rouge à la montée du bus discothèque. Effet garanti !{% endtrans %}
                             </p>
                         </div>
                     </div>

@@ -32,6 +32,27 @@ function dataBackgroundImage() {
 }
 
 $(window).ready(function(){
+    /*---canvas menu activation---*/
+    $('.canvas_open').on('click', function(){
+        $('.Offcanvas_menu_wrapper,.off_canvas_overlay').addClass('active')
+    });
+    $('.canvas_close,.off_canvas_overlay').on('click', function(){
+        $('.Offcanvas_menu_wrapper,.off_canvas_overlay').removeClass('active')
+    });
+    /*---Off Canvas Menu---*/
+    let offcanvas_main_menu = $('.offcanvas_main_menu'),
+        offcanvas_sub_menu = offcanvas_main_menu.find('.sub-menu');
+    //offcanvas_sub_menu.parent().prepend('<span class="menu-expand"><i class="fa fa-angle-down"></i></span>');
+    //offcanvas_sub_menu.slideUp();
+    $('.offcanvas_main_menu .menu-item-has-children .menu-expand').on('click', function(e){
+        if ($(this).parent().hasClass('menu-open')) {
+            $(this).parent().removeClass('menu-open');
+        } else {
+            $(this).parent().parent().find('.menu-item-has-children').removeClass('menu-open');
+            $(this).parent().addClass('menu-open');
+        }
+    });
+
     /*---sticky menu---*/
     $(window).on('scroll',function() {
         let scroll = $(window).scrollTop();

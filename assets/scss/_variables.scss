@@ -2,7 +2,9 @@
 $white:#FFF;
 $lightergrey:#EBEBEB;
 $lightgrey:#A0A0A0;
+$font-grey:#CCC;
 $grey:#5A5A5A;
+$font-grey2:#808080;
 $bggrey:#242424;
 $darkgrey:#2D2D2D;
 $black:#000;
@@ -22,3 +24,8 @@ $small-mobile: 'only screen and (max-width: 479px)';
 $Rubik:'Rubik', sans-serif;
 $Playfair:'Playfair Display', serif;
 $Prata:'Prata', serif;
+
+//Mixins
+@mixin transition($property){
+  transition: $property;
+}

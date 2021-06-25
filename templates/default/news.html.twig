@@ -1,21 +1,42 @@
 {% extends 'base.html.twig' %}
 {% block body %}
-    <div class="slider_area slider_black owl-carousel">
-        <div class="single_slider" data-bgimg="{{ asset('/build/images/news/news1.jpg') }}">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-12">
-                        <div class="slider_content">
-                            <p> Préparez vos fêtes </p>
-                            <h1> de fin d'année </h1>
-                            <span> EN BUSDISCOTHEQUE </span>
-                            <p class="slider_price">Dès <span>39€ / Pers</span></p>
-                            <a class="button" href="{{ path('reservation') }}">RÉSERVER UN BUS</a>
-                        </div>
+    <section class="about_section">
+        <div class="container">
+            <div class="row align-items-center product_section p_section1 product_black_section">
+                <div class="col-12 product_area">
+                    <div class="about_content">
+                        <span>Les Nouveautés <strong>busdiscotheque.com</strong></span>
+                        <h4><a href="https://www.poowood.com">POOWOOD</a></h4>
+                        <p>
+                            Des Bus discotheques tout confort spécialement homologués pour assurer les prises en charge hors Paris. A bord de ces nouveaux bus discotheque, vous ne manquerez de rien pas même du Karaoké qui est mis à votre disposition gratuitement contrairement aux concurrents.
+                            Des bus discothèques très haut de gamme, alliant élégance et sobriété à la fois, bien loin devant le rose ringard proposé par les concurrents.
+                        </p>
+                        <h4><a href="https://puddy-b">PUDDY-B.com</a></h4>
+                        <p>
+                            Bus discotheque Paris lance le concept du mini bus discotheque karaoké.<br>
+                            Fruit de quatre années de travail acharné, bus discotheque Paris vous offre ce bijou de bus karaoké. Mini bus disco, mini groupe allant jusqu’à 9 personnes, maxi confort et bien sûr mini prix. Louer le mini discobus de bus discotheque Paris à partir de 290 €uros.
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
+    </section>
+    <div class="slider_area slider_black owl-carousel">
+        {# <div class="single_slider" data-bgimg="{{ asset('/build/images/news/news1.jpg') }}">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-12">
+                        <div class="slider_content">
+                            <p>{% trans %}Préparez vos fêtes{% endtrans %}</p>
+                            <h1>{% trans %}de fin d'année{% endtrans %}</h1>
+                            <span>{% trans %}EN BUSDISCOTHEQUE{% endtrans %}</span>
+                            <p class="slider_price">{% trans %}Dès <span>39€ / Pers</span>{% endtrans %}</p>
+                            <a class="button" href="{{ path('reservation') }}">{% trans %}RÉSERVER UN BUS{% endtrans %}</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>#}
         <div class="single_slider" data-bgimg="{{ asset('/build/images/news/news2.jpg') }}">
             <div class="container">
                 <div class="row align-items-center">
@@ -34,17 +55,6 @@
                         <div class="slider_content">
                             <a class="button" href="https://www.puddy-b.com" target="_blank">PUDDY-B.COM</a>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="about_section">
-        <div class="container">
-            <div class="row align-items-center product_section p_section1 product_black_section">
-                <div class="col-12 product_area">
-                    <div class="about_content">
-                        <span>Les Nouveautés <strong>busdiscotheque.com</strong></span>
                     </div>
                 </div>
             </div>

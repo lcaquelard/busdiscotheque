@@ -1,0 +1,40 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+    <div class="about_section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12">
+                    <div class="about_content" style="border: dashed 1px #CCC; padding: 3em;">
+                        <h1>{% trans %}Votre soirée bus à bord de nos bus discotheque{% endtrans %}</h1>
+                        <h2>{% trans %}à Paris garantie{% endtrans %}</h2>
+                        <p> {% trans %}Bus discothèque bien loin devant les party bus paris, soirée bus paris, stan
+                            et walter ou encore all night qui sont tous géré pars des simples chauffeurs
+                            de bus sans aucune expérience dans l’évènementiel et qui ne possèdent
+                            tous qu’un seul bus exploité depuis des années.{% endtrans %}
+                            {% trans %}Bus discotheque investit chaque année pour vous offrir le meilleur rapport
+                            qualité prix quand les party bus, soirée bus ou all night bus et stan&amp;walter
+                            investissent uniquement dans la publicité sur nos marques discobus,
+                            busdisco, busdiscotheque etc…{% endtrans %}
+                            {% trans %}Que ce soit party bus, soirée bus , all night bus ou stan et walter aucun
+                            n’est capable de vous proposer de la nouveauté en terme de location de
+                            bus boite de nuit. Ils passent tous leur temps à essayer de nous copier,
+                            nous imiter, sans jamais réussir.{% endtrans %}
+                            {% trans %}Cette année encore afin que chacun puisse organiser sa soiree bus, nous
+                            recevons encore des nouveaux disco bus pour vous offrir toujours plus de
+                            choix dans la location de bus boite de nuit.{% endtrans %}
+                            {% trans %}Bus discotheque vous garanti encore et toujours les meilleurs services de
+                            location de bus boite de nuit pour votre plus grand confort.{% endtrans %}
+                            {% trans %}Avec busdiscotheque.com nous vous garantissons le meilleur rapport
+                            qualité prix. Votre soirée bus à bord de l’un de nos 12 disco bus vous
+                            coutera jusqu’à 96% moins cher que les autres sociétés qui louent des bus
+                            disco à Paris.{% endtrans %}
+                        </p>
+                    </div>
+                    <div class="about_thumb">
+                        <img src="{{ asset('build/images/slider/slider' ~ random(1, 5) ~ '.jpg') }}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

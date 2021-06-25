@@ -4,28 +4,28 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-8">
                     <div class="widgets_container contact_us">
-                        <h3>Contacts</h3>
+                        <h3>{% trans %}Contacts{% endtrans %}</h3>
                         <div class="footer_contact">
                             <p>
-                                <small>Nous nous efforçons de répondre à vos demandes dans l'heure.</small><br>
-                                Location de Bus Discothèque de luxe pour tous vos événements :<br>
+                                <small>{% trans %}Nous nous efforçons de répondre à vos demandes dans l'heure.{% endtrans %}</small><br>
+                                {% trans %}Location de Bus Discothèque de luxe pour tous vos événements{% endtrans %} :<br>
                                 <span><span class="fa fa-envelope"></span> <a href="mailto:commercial@busdiscotheque.com">commercial @ busdiscotheque.com</a><br></span>
-                                <span><span class="fa fa-phone"></span> <a href="tel:+33142798549">01.42.79.85.49</a><br> </span>
-                                <span><span class="fa fa-clock-o"></span> <small>Du lundi au samedi de 9h à 19h</small><br> </span>
-                                <i class="fa fa-info"></i> <a href="mailto:commercial@busdiscotheque.com">RDV dans notre bureau en Ile-de-France sur demande</a>
+                                <span><span class="fa fa-phone"></span> <a href="tel:+33658311877">06.58.31.18.77</a><br> </span>
+                                <span><span class="fa fa-clock-o"></span> <small>{% trans %}Du lundi au samedi de 9h à 19h{% endtrans %}</small><br> </span>
+                                <i class="fa fa-info"></i> <a href="mailto:commercial@busdiscotheque.com">{% trans %}RDV dans notre bureau en Ile-de-France sur demande{% endtrans %}</a>
                                 <br><br>
-                                <a href="{{ path('reservation') }}" class="button">Demander un Tarif</a>
+                                <a href="{{ path('reservation') }}" class="button">{% trans %}Demander un Tarif{% endtrans %}</a>
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-5">
                     <div class="widgets_container widget_menu">
-                        <h3>Plan du Site</h3>
+                        <h3>{% trans %}Plan du Site{% endtrans %}</h3>
                         <div class="footer_menu">
                             <ul>
-                                <li><a href="{{ path('roadvertising') }}">Roadvertising</a>
-                               </li><li><a href="{{ path('parcours') }}">Parcours</a>
+                                <li><a href="{{ path('roadvertising') }}">{% trans %}Roadvertising{% endtrans %}</a>
+                               </li><li><a href="{{ path('parcours') }}">{% trans %}Parcours{% endtrans %}</a>
                                 </li>
                             </ul>
                         </div>
@@ -33,15 +33,15 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-5">
                     <div class="widgets_container widget_menu">
-                        <h3>A propos</h3>
+                        <h3>{% trans %}A propos{% endtrans %}</h3>
                         <div class="footer_menu">
                             <ul>
-                                <li><a href="#" data-toggle="modal" data-target="#modal-cgv" data-placement="top" data-original-title="Quelques Références" tabindex="0">CGV</a></li>
-                                <li><a href="#" data-toggle="modal" data-target="#modal-carton" data-placement="top" data-original-title="Quelques Références" tabindex="0">Cartons d'invitation</a></li>
-                                <li><a href="#" data-toggle="modal" data-target="#modal-mentions" data-placement="top" data-original-title="Quelques Références" tabindex="0">Mentions légales</a></li>
-                                <li><a href="#" data-toggle="modal" data-target="#modal-refs" data-placement="top" data-original-title="Quelques Références" tabindex="0">Quelques Références</a></li>
-                                <li><a href="#" data-toggle="modal" data-target="#modal-stock" data-placement="top" data-original-title="Quelques Références" tabindex="0">Stock Mobile Service</a></li>
-                                <li><a href="#" data-toggle="modal" data-target="#modal-deluxe" data-placement="top" data-original-title="Quelques Références" tabindex="0">Deluxe Mobile Service</a></li>
+                                <li><a href="#" data-toggle="modal" data-target="#modal-cgv" data-placement="top" data-original-title="{% trans %}Quelques Références{% endtrans %}" tabindex="0">{% trans %}CGV{% endtrans %}</a></li>
+                                <li><a href="#" data-toggle="modal" data-target="#modal-carton" data-placement="top" data-original-title="{% trans %}Quelques Références{% endtrans %}" tabindex="0">{% trans %}Cartons d'invitation{% endtrans %}</a></li>
+                                <li><a href="#" data-toggle="modal" data-target="#modal-mentions" data-placement="top" data-original-title="{% trans %}Quelques Références{% endtrans %}" tabindex="0">{% trans %}Mentions légales{% endtrans %}</a></li>
+                                <li><a href="#" data-toggle="modal" data-target="#modal-refs" data-placement="top" data-original-title="{% trans %}Quelques Références{% endtrans %}" tabindex="0">{% trans %}Quelques Références{% endtrans %}</a></li>
+                                <li><a href="#" data-toggle="modal" data-target="#modal-stock" data-placement="top" data-original-title="{% trans %}Quelques Références{% endtrans %}" tabindex="0">{% trans %}Stock Mobile Service{% endtrans %}</a></li>
+                                <li><a href="#" data-toggle="modal" data-target="#modal-deluxe" data-placement="top" data-original-title="{% trans %}Quelques Références{% endtrans %}" tabindex="0">{% trans %}Deluxe Mobile Service{% endtrans %}</a></li>
                             </ul>
                         </div>
                     </div>
@@ -54,20 +54,20 @@
                     <div class="question_area">
                         <p>
                             <small>
-                                <a href="?p=bus/-location-soiree-bus-paris" title="Location de soirée bus à Paris">
-                                    Location de soiree bus paris
+                                <a href="{{ path('bottom1') }}" title="{% trans %}Location de soirée bus à Paris{% endtrans %}">
+                                    {% trans %}Location de soiree bus paris{% endtrans %}
                                 </a>
-                                <a href="?p=bus/-soiree-bus-a-paris-garantie" title="Votre soirée bus à bord de nos bus discotheque à Paris garantie.">
-                                    Soirée Bus à Paris garantie
+                                <a href="{{ path('bottom2') }}" title="{% trans %}Votre soirée bus à bord de nos bus discotheque à Paris garantie.{% endtrans %}">
+                                    {% trans %}Soirée Bus à Paris garantie{% endtrans %}
                                 </a>
-                                <a href="?p=bus/-experience-de-location-bus" title="Notre expérience de location de bus boite de nuit">
-                                    Location de bus boite de nuit
+                                <a href="{{ path('bottom3') }}" title="{% trans %}Notre expérience de location de bus boite de nuit{% endtrans %}">
+                                    {% trans %}Location de bus boite de nuit{% endtrans %}
                                 </a>
-                                <a href="?p=bus/-notre-parc-de-discobus" title="Le parc de discobus de busdiscotheque.com">
-                                    Notre parc de discobus
+                                <a href="{{ path('bottom4') }}" title="{% trans %}Le parc de discobus de busdiscotheque.com{% endtrans %}">
+                                    {% trans %}Notre parc de discobus{% endtrans %}
                                 </a>
-                                <a href="?p=bus/-pourquoi-louer-un-busdiscotheque" title="Pourquoi louer un busdiscotheque pour un anniversaire en soirée bus">
-                                    Pourquoi louer un busdiscotheque
+                                <a href="{{ path('bottom5') }}" title="{% trans %}Pourquoi louer un busdiscotheque pour un anniversaire en soirée bus{% endtrans %}">
+                                    {% trans %}Pourquoi louer un busdiscotheque{% endtrans %}
                                 </a>
                             </small>
                         </p>

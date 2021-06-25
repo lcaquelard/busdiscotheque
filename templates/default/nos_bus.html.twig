@@ -15,11 +15,26 @@
         <div class="container">
             <div class="row align-items-center product_section p_section1 product_black_section">
                 <div class="col-12 product_area">
+                    <div class="about_content">
+                        <p>
+                            {% trans %}
+                                Bus discotheque Paris est la seule compagnie à vous offrir une multitude de choix de location de discobus pour l’organisation de votre anniversaire ou tout autre évènement à bord d’un bus discotheque.<br>
+                                A ce jour bus discotheque Paris vous offre le choix parmi 14 bus discothèque avec des capacités d’accueil allant jusqu’ à 85 personnes.<br>
+                                Des bus disco tous différents les uns des autres, pour cela Bus discotheque n’a de cesse d’innover toujours quand les concurrents sont limités à un seul disco bus de plus de 10 ans qui peut accueillir au mieux 30 personnes.<br>
+                                Bus discotheque Paris, est la seule compagnie à vous offrir le choix parmi des <a href="https://www.puddy-b.com">mini bus discotheque</a>, des <a href="https://www.poowood.com">bus karaokés</a>, des <a href="https://www.puddy-b.com">mini bus karaokés</a>, des disco bus standard (12 mètres), des bus discothèque double (18 mètres), des bus discothèques avec terrasse, des disco bus avec des toits vitrés, nous n’avons pas de limites pour vous offrir toujours plus.{% endtrans %}
+                        </p>
+                        {% block head_message %}
+                        {% endblock %}
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center product_section p_section1 product_black_section">
+                <div class="col-12 product_area">
                     <div class="product_tab_button">
                         <ul class="nav" role="tablist">
-                            <li><a {% if current_page == 'bus_mini' %}class="active"{% endif %} href="{{ path("bus_mini") }}">Nos Minis Bus</a></li>
-                            <li><a {% if current_page == 'bus_simple' %}class="active"{% endif %} href="{{ path("bus_simple") }}">Nos Bus Simples</a></li>
-                            <li><a {% if current_page == 'bus_double' %}class="active"{% endif %} href="{{ path("bus_double") }}">Nos Bus Doubles</a></li>
+                            <li><a {% if current_page == 'bus_mini' %}class="active"{% endif %} href="{{ path("bus_mini") }}">{% trans %}Nos Minis Bus Disco{% endtrans %}</a></li>
+                            <li><a {% if current_page == 'bus_simple' %}class="active"{% endif %} href="{{ path("bus_simple") }}">{% trans %}Nos Bus Standards{% endtrans %}</a></li>
+                            <li><a {% if current_page == 'bus_double' %}class="active"{% endif %} href="{{ path("bus_double") }}">{% trans %}Nos bus discotheque doubles{% endtrans %}</a></li>
                         </ul>
                     </div>
                     <div class="product_container">
@@ -62,7 +77,7 @@
                                     </div>
                                     <div class="modal_tab_button">
                                         <ul class="nav product_navactive owl-carousel" role="tablist">
-                                            <li class="nav-link active" 			data-toggle="tab" href="#tab1" id="tab1a" role="tab" aria-controls="tab1" aria-selected="false"><img src="" alt=""/></li>
+                                            <li class="nav-link active" 		data-toggle="tab" href="#tab1" id="tab1a" role="tab" aria-controls="tab1" aria-selected="false"><img src="" alt=""/></li>
                                             <li class="nav-link" 				data-toggle="tab" href="#tab2" id="tab2a" role="tab" aria-controls="tab2" aria-selected="false"><img src="" alt=""/></li>
                                             <li class="nav-link button_three" 	data-toggle="tab" href="#tab3" id="tab3a" role="tab" aria-controls="tab3" aria-selected="false"><img src="" alt=""/></li>
                                             <li class="nav-link" 				data-toggle="tab" href="#tab4" id="tab4a" role="tab" aria-controls="tab4" aria-selected="false"><img src="" alt=""/></li>
@@ -77,7 +92,7 @@
                                     </div>
                                     <div class="modal_description mb-15">
                                         <hr>
-                                        <p class="bus_desc">Un bus personnalisé pour vos événements.</p>
+                                        <p class="bus_desc">{% trans %}Un bus personnalisé pour vos événements.{% endtrans %}</p>
                                         <hr>
                                     </div>
                                 </div>
