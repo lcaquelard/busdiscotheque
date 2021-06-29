@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50136cf9-2a3b-4486-bd72-aa67028eb9b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/slider/slider10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slider/slider11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slider/slider12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slider/slider13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slider/slider6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slider/slider7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slider/slider8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slider/slider9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/slider/slider1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/slider1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/slider/slider2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/slider2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/slider/slider3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/slider3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/slider/slider4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/slider4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/slider/slider5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/slider5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/_slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_slider.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/images/slider/slider1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/images/slider/slider1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/images/slider/slider2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/images/slider/slider2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/images/slider/slider3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/images/slider/slider3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/images/slider/slider4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/images/slider/slider4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/images/slider/slider5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/images/slider/slider5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/default/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/index.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/default/news.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/news.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +198,7 @@
       <workItem from="1624711926162" duration="601000" />
       <workItem from="1624900233369" duration="934000" />
       <workItem from="1624959259737" duration="3691000" />
-      <workItem from="1624974661024" duration="114000" />
+      <workItem from="1624974661024" duration="263000" />
     </task>
     <servers />
   </component>
